@@ -29,11 +29,17 @@ Movie101包含101部电影的视频（从[西瓜视频](https://www.ixigua.com/c
 
 ### videos
 
-可以使用`Movie101-raw/scripts`中提供的脚本下载电影视频，默认下载到`Movie101-raw/videos`。（感谢Ziheng Wang提供脚本）
+电影及url列表：`video_src.json`
 
-```bash
-python ./scripts/video_download.py
-```
+我们曾尝试提供一个从原始网站爬取视频的脚本，但爬取过程非常复杂，难以保证其便捷性。因此，我们决定仿照[LSMDC电影数据集](https://sites.google.com/site/describingmovies)的做法，允许研究者通过签署同意书来直接从我们这里访问数据。如果您需要访问我们数据集的视频，请按照以下步骤操作：
+
+1. 点击下载[同意书](https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/AccessMovie101.pdf)；
+2. 签署该同意书（需要同时签署中文版和英文版）；
+3. 向`yzihao@ruc.edu.cn`发送邮件，邮件需包含以下内容：
+    - 您的姓名、单位，以及您的导师的姓名
+    - 附件：已签署的同意书
+
+我们将在收到邮件后尽快回复您（尽量当天回复），告知您如何访问数据。
 
 ## Movie101-N & Movie101-G
 

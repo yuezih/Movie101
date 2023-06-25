@@ -30,8 +30,8 @@ class CaptionDataset(torch.utils.data.Dataset):
     self.role_anno = json.load(open(os.path.join(self.data_root, 'metadata/meta_anno.json')))
     self.face_feature_h5 = h5py.File(os.path.join(self.data_root, 'metadata/portrait_face.hdf5'), 'r')
     self.movie_with_face_list = json.load(open(os.path.join(self.data_root, 'metadata/movie_with_portraits.json')))
-    # self.movie2tags = json.load(open('/data5/yzh/DATASETS/MovieUN/metadata/movie_tag_anno.json'))
-    # self.tag2id = json.load(open('/data5/yzh/DATASETS/MovieUN/metadata/tag_vocab.json'))
+    # self.movie2tags = json.load(open('metadata/movie_tag_anno.json'))
+    # self.tag2id = json.load(open('metadata/tag_vocab.json'))
     
     self.stoi = json.load(open(word2int))
     self.itos = json.load(open(int2word))
@@ -209,19 +209,19 @@ class CaptionDataset(torch.utils.data.Dataset):
 
   def get_video_features(self, movie_id, clip_start, clip_end):
       
-      # clip_movie = np.load(os.path.join('../data/feature', 'clip', '%s.mp4.npy.npz' % movie_id))['features'].astype(np.float32)
-      # s3d_movie = np.load(os.path.join('../data/feature', 's3d', '%s-4.npz' % movie_id))['features'].astype(np.float32)
-      # clip_frames = torch.from_numpy(clip_movie)
-      # s3d_frames = torch.from_numpy(s3d_movie)
+      clip_movie = np.load(os.path.join('../data/feature', 'clip', '%s.mp4.npy.npz' % movie_id))['features'].astype(np.float32)
+      s3d_movie = np.load(os.path.join('../data/feature', 's3d', '%s-4.npz' % movie_id))['features'].astype(np.float32)
+      clip_frames = torch.from_numpy(clip_movie)
+      s3d_frames = torch.from_numpy(s3d_movie)
 
-      # clip_feature = clip_frames[clip_start:clip_end]
-      # s3d_feature = s3d_frames[clip_start:clip_end]
-      # frame_face = self.movie_frame_face[movie_id][clip_start:clip_end]
+      clip_feature = clip_frames[clip_start:clip_end]
+      s3d_feature = s3d_frames[clip_start:clip_end]
+      frame_face = self.movie_frame_face[movie_id][clip_start:clip_end]
 
-      # features = torch.cat((clip_feature, s3d_feature, frame_face), dim=1)
-      # features = F.normalize(features,dim=1)
+      features = torch.cat((clip_feature, s3d_feature, frame_face), dim=1)
+      features = F.normalize(features,dim=1)
       
-      feat_name = movie_id + '_' + str(clip_start) + '_' + str(clip_end) + '.npy'
-      features = np.load(os.path.join(self.ft_root, 'clip_s3d', feat_name))
-      features = torch.from_numpy(features)
+      # feat_name = movie_id + '_' + str(clip_start) + '_' + str(clip_end) + '.npy'
+      # features = np.load(os.path.join(self.ft_root, 'clip_s3d', feat_name))
+      # features = torch.from_numpy(features)
       return features

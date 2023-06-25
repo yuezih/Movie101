@@ -29,12 +29,17 @@ Metadata for each movie, including categories, summaries, cast lists, etc.
 
 ### videos
 
-Movie videos can be downloaded using the script provided in `Movie101-raw/scripts`, and are downloaded to `Movie101-raw/videos` by default.  
-(Thanks Ziheng Wang for providing the script.)
+Movies and URL list: `video_src.json`
 
-```bash
-python ./scripts/video_download.py
-```
+We have attempted to provide a script for crawling videos from the original website, but the crawling process is highly complex and difficult to ensure convenience. Therefore, we have decided to follow the [LSMDC Dataset](https://sites.google.com/site/describingmovies) to allow researchers to access the data directly from us by signing an agreement. If you need to access the videos in our dataset, please follow the steps below:
+
+1. Click to download the [Agreement]()
+2. Sign the Agreement (both the Chinese and English versions need to be signed);
+3. Send an email to `yzihao@ruc.edu.cn` with the following information:
+    - Your name, affiliation, and the name of your supervisor;
+    - Attachment: Signed Agreement.
+
+We will reply to your email as soon as possible (typically the same day) and provide instructions on how to access the data.
 
 ## Movie101-N & Movie101-G
 

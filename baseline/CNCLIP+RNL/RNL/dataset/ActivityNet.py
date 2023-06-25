@@ -46,9 +46,9 @@ class ActivityNetGCN(Dataset):
         self.text_feature_path = text_feature_path
         self.is_training = is_training
         self.word2vec = word2vec
-        self.feature_path_face = '/data5/yzh/DATASETS/MovieUN/feature/feat_face'
-        self.face_profile_h5 =  h5py.File('/data5/yzh/DATASETS/MovieUN/metadata/face_profile_512dim.hdf5', "r")
-        self.text_feature_path = '/data5/yzh/MovieUN_v2/MovieUN-G/grounding/text_feat'
+        self.feature_path_face = 'YOUR/PATH/TO/FRAME_FACE'
+        self.face_profile_h5 =  h5py.File('YOUR/PATH/TO/PORTRAIT_FACE', "r")
+        self.text_feature_path = 'YOUR/PATH/TO/TEXT_FEATURE'
 
     def __getitem__(self, index):
         # vid, duration, timestamps, sentence, face_list, id2pos, adj_mat, text_file = self.data[index]
