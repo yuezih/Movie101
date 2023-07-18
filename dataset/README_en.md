@@ -2,7 +2,7 @@
 
 The Movie101 dataset comprises videos of 101 movies (scraped from [Xigua Video](https://www.ixigua.com/channel/barrier_free)), along with timestamped narration text (obtained via ASR and and manually corrected) and actor lines (obtained via OCR). 
 
-![Movie101 Dataset](https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/Movie101_dataset.png "Movie101 Dataset")
+![Movie101 Dataset](../assets/Movie101_dataset.png "Movie101 Dataset")
 
 In line with the requirements for the Movie Clip Narrating (MCN) and Temporal Narration Grounding (TNG) tasks, we have constructed two variants: 
 - Movie101-N, which includes paragraph narrations (narrations between two actors' dialogues are merged into paragraphs) for the narrating task; 

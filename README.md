@@ -1,6 +1,5 @@
 <div>
   <h2 align="center">
-    <!-- <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/pigeon.png" width="40" /> -->
     🎬 Movie101 Benchmark
   </h2>
 </div>
@@ -21,16 +20,14 @@
     <br />
 </p>
 
-> **Organizing open-source is not an easy task, and we are still working hard to complete as soon as possible. Thanks for your attention and please be patient.**
 
-![Movie101 Dataset](https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/Movie101_dataset.png "Movie101 Dataset")
+![Movie101 Dataset](assets/Movie101_dataset.png "Movie101 Dataset")
 
 
 > [English README](README_en.md)  
 
-有关Movie101的详细介绍请看论文:  
-[arXiv](https://arxiv.org/abs/2305.12140)  
-[中文版论文](Movie101_zh.pdf)
+有关Movie101的详细介绍请看论文: 
+[[arXiv]](https://arxiv.org/abs/2305.12140) [[中文版论文]](assets/Movie101_zh.pdf)，有关 EMNLP 2022 Findings 论文 [MovieUN: A Dataset for Movie Understanding and Narrating](https://aclanthology.org/2022.findings-emnlp.135/) 的疑问请查看我们的[FAQ: MovieUN](assets/FAQ_MovieUN/FAQ_MovieUN.md)。
 
 Movie101是一个大规模的AI中文电影理解基准，包含了101部电影。这些电影来自[西瓜视频](https://www.ixigua.com/channel/barrier_free)的无障碍影院，配备有音频描述（AD）。我们通过自动化流程和人工修正从原始视频中获取了音频描述和演员台词，并爬取了电影的相关信息。Movie101数据集包含了30,174个解说片段，总计92小时。
 

@@ -1,6 +1,5 @@
 <div>
   <h2 align="center">
-    <!-- <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/pigeon.png" width="40" /> -->
     🎬 Movie101 Benchmark
   </h2>
 </div>
@@ -21,11 +20,11 @@
     <br />
 </p>
 
-![Movie101 Dataset](https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/Movie101_dataset.png "Movie101 Dataset")
+![Movie101 Dataset](assets/Movie101_dataset.png "Movie101 Dataset")
 
 > [Chinese README](README.md)
 
-Explore Movie101 in our paper [Movie101: A New Movie Understanding Benchmark](https://arxiv.org/abs/2305.12140). We are preparing a Chinese version of the paper for Chinese readers.
+Explore Movie101 in our paper [Movie101: A New Movie Understanding Benchmark](https://arxiv.org/abs/2305.12140). We also provide a [Chinese version](assets/Movie101_zh.pdf) of the paper for Chinese readers. For questions about the EMNLP 2022 Findings paper [MovieUN: A Dataset for Movie Understanding and Narrating](https://aclanthology.org/2022.findings-emnlp.135/), please see our [FAQ: MovieUN](assets/FAQ_MovieUN/FAQ_MovieUN.md).
 
 **Movie101 is a large-scale benchmark for AI Chinese movie understanding**, encompassing 101 movies. We collect the movies from the barrier-free channel on the [Xigua Video](https://www.ixigua.com/channel/barrier_free) platform, where standard movies are remastered with audio descriptions (ADs). Through automatic processes and manual correction, we obtain the ADs and actor lines from the raw videos. We also crawl rich meta information relevant to the movies. Eventually, Movie101 comprises 30,174 narration clips, totaling 92 hours.
 

@@ -1,6 +1,6 @@
 # Movie101 数据集
 
-![Movie101 Dataset](https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/Movie101_dataset.png "Movie101 Dataset")
+![Movie101 Dataset](../assets/Movie101_dataset.png "Movie101 Dataset")
 
 Movie101包含101部电影的视频（从[西瓜视频](https://www.ixigua.com/channel/barrier_free)爬取），以及带有时间戳的解说文本（由ASR获取并人工修正）和演员台词（由OCR获取）。
 
@@ -33,7 +33,7 @@ Movie101包含101部电影的视频（从[西瓜视频](https://www.ixigua.com/c
 
 我们曾尝试提供一个从原始网站爬取视频的脚本，但爬取过程非常复杂，难以保证其便捷性。因此，我们决定仿照[LSMDC电影数据集](https://sites.google.com/site/describingmovies)的做法，允许研究者通过签署同意书来直接从我们这里访问数据。如果您需要访问我们数据集的视频，请按照以下步骤操作：
 
-1. 点击下载[同意书](https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/AccessMovie101.pdf)；
+1. 点击下载[同意书](../assets/AccessMovie101.pdf)；
 2. 签署该同意书（需要同时签署中文版和英文版）；
 3. 向`yzihao@ruc.edu.cn`发送邮件，邮件需包含以下内容：
     - 您的姓名、单位，以及您的导师的姓名

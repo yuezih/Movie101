@@ -2,7 +2,7 @@
 
 This directory contains the official baseline codes for the Movie101 benchmark, including the RMN model for the Movie Clip Narration (MCN) task and the CNCLIP+RNL framework for the temporal narration localization task.
 
-![Movie101 baselines](https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/Movie101_baselines.png "Movie101 baselines")
+![Movie101 baselines](../assets/Movie101_baselines.png "Movie101 baselines")
 
 ## Movie Clip Narrating (MCN)
 

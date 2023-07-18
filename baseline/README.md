@@ -2,7 +2,7 @@
 
 该目录包含Movie101基准的官方基线代码，包括用于电影片段解说（MCN）任务的RMN模型和用于时序解说定位任务的CNCLIP+RNL框架。
 
-![Movie101 baselines](https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/Movie101_baselines.png "Movie101 baselines")
+![Movie101 baselines](../assets/Movie101_baselines.png "Movie101 baselines")
 
 ## Movie Clip Narrating (MCN)
 
