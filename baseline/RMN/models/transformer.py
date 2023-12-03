@@ -167,6 +167,10 @@ class TransModel(framework.modelbase.ModelBase):
     with open(tst_pred_file, 'w') as f:
       json.dump(pred_data, f)
     return metrics
+  
+  def infer_with_single_video_feature(self, features, feature_mask, role_feature):
+    output, _, attn = self.submods[DECODER].sample(features, feature_mask, None, role_feature, None, decoding='greedy')
+    return output
 
   def nopeak_mask(self, size):
     np_mask = np.triu(np.ones((1, size, size)), k=1).astype('uint8')

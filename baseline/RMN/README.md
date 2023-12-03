@@ -6,7 +6,8 @@
 
 ### Download the video features  
 
-We provide our extracted feature within a `.zip` file at [TeraBox: Movie101_features.zip](https://terabox.com/s/1iYf154IsDKCYDEw72SWfUw). This link allows you to download the file directly from the TeraBox client. If you want to download on Linux, some open-source tools (e.g., [TeraBox-Downloader](https://github.com/snoofox/TeraBox-Downloader)) may be helpful.  
+We provide our extracted feature within a `.zip` file at [TeraBox: Movie101_features.zip](https://terabox.com/s/1iYf154IsDKCYDEw72SWfUw). This link allows you to download the file directly from the TeraBox client. 
+<!-- If you want to download on Linux, some open-source tools (e.g., [TeraBox-Downloader](https://github.com/snoofox/TeraBox-Downloader)) may be helpful.   -->
 
 Download and unzip the feature file to `./data/feature`. It contains:
 - `./clip/`: CLIP feature (512d) for each frame
@@ -35,3 +36,16 @@ Replace the resume file (model ckpt) in the `./driver/eval.sh`.
 cd driver
 bash eval.sh
 ```
+
+## Inference
+
+We now (2023.12.03) provide an example script for single video clip inference, see `./driver/inference.py`.
+
+```bash
+python inference.py \
+--movie_id 6965768652251628068 \
+--starttime 1000 \
+--endtime 1010
+```
+
+Our trained model checkpoint can be downloaded from [TeraBox: model-ckpt](https://terabox.com/s/1FQ562_B2U_11F3X1ND2Iyw).
