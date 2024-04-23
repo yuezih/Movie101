@@ -1,0 +1,370 @@
+0:0:50|0:1:1|In the museum, [Yang Lei] takes the sightseeing elevator upstairs, walks through the corridor, stands at the staircase, looks back, and recalls his past self.
+0:1:1|0:1:6|At that time, he was still a kindergarten teacher, taking the children to visit the museum.
+0:1:6|0:1:8|Another female teacher is giving a lecture.
+0:1:11|0:1:16|At that time, [Yang Lei] was following behind the team.
+0:1:41|0:1:47|In the memory, [He Jie] stopped in her tracks, and the title of the film appeared, "Pale Blue Amber".
+0:1:49|0:2:6|On the screen, there are two reconciliations. On the left side of the screen is the reconciliation from the past, standing downstairs. On the right side is the reconciliation in reality, standing upstairs, looking down as if seeing through time and space, seeing the self from the past.
+0:2:6|0:2:13|In reality, the scene is in a cold color tone, in a delicately decorated home, with a clock on the wall showing exactly ten o'clock.
+0:2:14|0:2:28|Wearing a tank top and shorts, [He Jie] walked out of the kitchen carrying a ceramic soup pot, placed it on the coffee table in the living room, then opened the curtains, picked up a telescope, and peeked at the residents in the high-rise building across the street.
+0:2:29|0:2:44|He Jie and A Feng saw the hostess in the room playing mahjong with three sisters. He Jie sat on the sofa, lifted the lid of the soup, which was still steaming, sniffed it, scooped up a few spoonfuls and drank them. The parrot on the balcony squawked.
+0:2:50|0:2:53|In the memory, the scene is in warm colors.
+0:2:53|0:2:58|Sitting in the grandmother's room with [Niu Jieshi], calculating something with a calculator.
+0:2:58|0:3:2|The room was a bit run-down and the decoration looked outdated.
+0:3:2|0:3:6|After finishing the calculation with [He Jie], [A Feng] handed the calculator to the grandmother sitting on the bed.
+0:3:6|0:3:13|Mother-in-law took the calculator, picked up the small notebook on the bed, and checked the numbers on the calculator.
+0:3:13|0:3:15|He Jie felt uncomfortable and nervously smoothed her hair.
+0:3:15|0:3:18|Then, the mother-in-law returned the calculator to He Jie and A Feng.
+0:3:18|0:3:22|He Jie took the hands and the mother-in-law said.
+0:3:25|0:3:36|He Jie nodded, the bedroom was dimly lit, A Feng and He Jie were naked, their index fingers intertwined, He Jie was breathing heavily.
+0:3:36|0:3:45|Currently, the scene shifts back to a cold color tone. On the balcony, He Jie leans to the side, looking through a telescope at the tall building on the left in the distance.
+0:3:46|0:4:0|Then, he put down the telescope, sighed, pondered for a while, turned around, and looked at the house opposite with the telescope again.
+0:4:0|0:4:4|In the bedroom, [He Jie] is calculating with a calculator.
+0:4:14|0:4:20|Someone knocked on the door, [He Jie] got up to open it, and a delivery person stood at the door with a pile of packages.
+0:4:20|0:4:26|[He Jie] signed on the delivery receipt, and the delivery person tore off the receipt.
+0:4:26|0:4:31|[He Jie] squatted down, placed the parcel on the ground, and was about to get her wallet, but then stopped.
+0:4:33|0:4:51|The delivery man took out an envelope and a delivery slip from his messenger bag. [He Jie] quickly walked into the bedroom, opened a drawer, took out a notebook, pulled out a business card from it, then returned to the living room and sat at the dining table to write down the recipient's information.
+0:4:55|0:5:12|After finishing writing, he tore open the seal on the envelope, put the business card inside, sealed it back up, got up, walked to the door, and handed the envelope and the delivery slip to the courier.
+0:5:19|0:5:22|The delivery man glanced at the sender information on the delivery order.
+0:5:28|0:5:29|He Jie looked up at the delivery man.
+0:5:35|0:5:39|The delivery man took off his cap, handed a pen and the delivery slip to [He Jie].
+0:5:39|0:5:51|He Jie hesitated for a moment, her eyes flickering, then pressed the delivery slip against the wall. She glanced at the delivery man and finally wrote down her contact information.
+0:5:51|0:5:54|After finishing writing, he handed the letter to the delivery man.
+0:5:56|0:5:58|He Jie lowered her head and tousled her hair.
+0:6:4|0:6:25|At this moment, [He Jie] is picking vegetables in the kitchen when [Le Yan] rushes in.
+0:6:25|0:6:28|[Le Yan] ran out of the kitchen, and [He Jie] walked to the kitchen door.
+0:6:39|0:6:43|It turns out that [He Jie] is the nanny of this family.
+0:6:43|0:6:51|The hostess [Jiang Dan] sat on the sofa, and the host [Yang Lei] placed a large bag of snacks at the door.
+0:6:51|0:6:53|[He Jie] continues to pick vegetables in the kitchen.
+0:7:6|0:7:10|Le Yan has been teaching the parrot to talk on the balcony, and [A Feng] smiled when he saw it.
+0:7:13|0:7:19|He Jie handed the green ointment to [Jiang Dan], then walked to the entrance to organize shoes and snacks.
+0:7:19|0:7:22|[Yang Lei] helps [Jiang Dan] apply green ointment.
+0:8:3|0:8:15|He Jie carried the snacks into the kitchen, glanced at the plastic bag rolled up in his hand, and then threw it directly into the trash can before continuing to pick vegetables.
+0:8:15|0:8:21|[Jiang Dan] got up to the entrance to get her wallet, [Yang Lei] walked over and leaned against the kitchen door frame, asking.
+0:8:25|0:8:33|He Jie rinses the picked vegetables in the water to make black bean oxtail soup, while Yang Lei talks to Jiang Dan behind her.
+0:9:2|0:9:5|[He Jie] walked to the balcony with a can of bird food.
+0:9:9|0:9:16|There is a birdcage hanging on the balcony with a parrot inside, Le Yan is teaching the parrot to talk.
+0:9:16|0:9:24|[Yang Lei] walked out and placed the recorder in his hand on the railing, with the sound coming from the recorder.
+0:9:24|0:9:32|[Yang Lei] affectionately patted Leyan's head and led her into the room.
+0:9:32|0:9:34|He Jie leans against the wall, watching the parrot.
+0:9:36|0:9:41|In the memory, [A Feng] pushed a small cart to the entrance of the kindergarten kitchen.
+0:10:11|0:10:18|[He Jie] walked out and leaned against the classroom door, looking at [A Feng] with a smile.
+0:10:18|0:10:23|In reality, during the day, [He Jie] walks on a pedestrian bridge carrying a bag of vegetables.
+0:10:24|0:10:30|He Jie saw a vendor selling antiques by the bridge, including calligraphy, paintings, and porcelain.
+0:10:30|0:10:38|He Jie stopped, squatted down, and lifted a thumb-sized piece of amber, squinting at it in the sunlight.
+0:10:52|0:11:1|[He Jie] carefully examines the amber in his hand, while in the owner's house, [Jiang Dan] and Yueyan are sitting on the sofa watching TV, and [Yang Lei] is still eating.
+0:11:1|0:11:9|[He Jie] is tidying up the dishes. Just as she was about to take away a large bowl, [Yang Lei] quickly pressed it down and then poured all the soup from the large bowl into his own.
+0:11:17|0:11:21|Jiang Dan with tattoos looks at [Yang Lei], who raises an eyebrow.
+0:11:21|0:11:30|He Jie placed two large bowls in the kitchen, then walked out to continue cleaning up the dishes and utensils.
+0:11:34|0:11:37|Jiang Dan stood up and walked to He Jie's side.
+0:11:37|0:11:39|Jiang Dan picked up the amber and looked at it in the light.
+0:11:51|0:12:0|Late at night, in the nanny's room, He Jie sits on the small bed, carefully examining the amber in her hand, with the clock behind her showing 1:05.
+0:12:0|0:12:4|In the memory, at night, [A Feng] is running with a small dog on the street.
+0:12:8|0:12:15|He Jie walked slowly behind, holding a popsicle, as [A Feng] continued to walk forward with a dog on a leash at the green light ahead.
+0:12:17|0:12:26|He Jie heard the sound and immediately walked quickly forward. She saw A Feng lying motionless on the zebra crossing at the intersection.
+0:12:26|0:12:32|A small car parked nearby, in front of it, a couple of men and women were in a panic and at a loss.
+0:12:32|0:12:37|He Jie saw this scene, her steps floating and trembling slightly.
+0:12:46|0:12:51|The puppy is circling around [A Feng]'s body.
+0:12:51|0:13:1|In reality, there is a poster on the wall of the elevator for preventing AIDS, and [Yang Lei] is counting the zeros on the poster.
+0:13:12|0:13:16|In a luxurious room, everyone gathered around to celebrate [Le Yan]'s birthday.
+0:13:32|0:13:33|[Yang Lei] picked up [Le Yan] and kissed her.
+0:13:39|0:13:39|Late at night. 
+0:13:50|0:13:55|After everyone left, only He Jie remained in the empty room.
+0:13:55|0:14:4|The room is very luxurious, with a pool table in the center, and through the floor-to-ceiling windows, you can see the beautiful night view of the city.
+0:14:4|0:14:11|He Jie wandered around the room, looked around, touched the pool table, and fell into memories.
+0:14:11|0:14:15|In the memory, [A Feng] is playing pool in a rudimentary pool hall.
+0:14:22|0:14:26|He Jie eats a popsicle while watching A Feng play basketball.
+0:14:26|0:14:29|A Feng threw the cue stick on the pool table and left.
+0:14:29|0:14:33|[He Jie] hurriedly took out a few banknotes from her wallet and placed them on the pool table.
+0:14:33|0:14:35|In reality, [He Jie] is tidying up things in the kitchen.
+0:14:48|0:14:51|[Yang Lei] followed [Jiang Dan] into the master bedroom.
+0:14:51|0:14:54|[He Jie] finished cleaning up and also walked into the maid's room.
+0:14:54|0:14:58|The two rooms are adjacent to each other, and both doors are open at this moment.
+0:14:58|0:15:2|[Yang Lei] and [Jiang Dan] are chatting.
+0:15:43|0:15:52|[Yang Lei] closed the door, [He Jie] took out a notebook and pen from the drawer, and he heard the conversation between the two, sitting wearily in the chair.
+0:15:52|0:16:2|Late at night, [He Jie] sat alone at the dining table, where a half-empty bottle of red wine and a cake were placed, along with a wine glass filled with red wine.
+0:16:2|0:16:9|[He Jie] buried her head, slowly eating the cake, her fingers covered in cream, reminiscing in the police station.
+0:16:9|0:16:22|The couple who ran over [A Feng], [He Jie], and the mediator sat around a table.
+0:16:22|0:16:30|[He Jie] sat dejectedly on the side, while the driver involved in the accident sat with his legs crossed, not saying a word, as both parties signed the documents.
+0:16:30|0:16:35|[He Jie] was about to leave with the documents when a woman grabbed her and she lowered her head to stand still.
+0:16:50|0:16:57|The woman took [He Jie]'s hand, and [He Jie] slowly withdrew her hand.
+0:16:57|0:17:6|[He Jie] still kept her head down, refusing to look at the other person.
+0:17:6|0:17:10|The woman took out a thick stack of money from her bag and stuffed it into [He Jie]'s hand.
+0:17:24|0:17:29|The woman took out another business card from her bag.
+0:17:43|0:17:49|The man walked out slowly with a file, looked at [He Jie], then at the floor, and said,
+0:17:52|0:18:1|Ending the flashback, the scene returns to reality, with [He Jie] standing on the balcony, using binoculars to spy on the residents across the balcony.
+0:18:1|0:18:6|The man and the woman who are being intimate are the same couple who caused the accident earlier.
+0:18:6|0:18:14|Suddenly, there was a slight noise in the room. [He Jie] turned around and quickly hid on the other side of the balcony glass door, pressing tightly against the wall.
+0:18:17|0:18:33|His left hand still held half a bottle of red wine as he leaned against the wall, listening intently to the sounds coming from the room. 
+0:18:33|0:18:38|[Yang Lei] turned on the light, walked to the water dispenser with bare arms, and poured himself a drink.
+0:18:38|0:18:42|The parrot on the balcony suddenly squawked, making [He Jie] more and more nervous.
+0:18:58|0:19:13|[Yang Lei] heard a noise and walked towards the balcony. Just as he was about to discover [He Jie], he stopped at the balcony door. He leaned forward to look at the parrot, placed his index finger in front of his mouth, made a hushing gesture, and then returned to the bedroom.
+0:19:16|0:19:20|[He Jie] saw the lights in the room turned off, and she relaxed completely.
+0:19:20|0:19:29|He smiled, touched the back of his head, fixed his hair, and then took a sip of red wine straight from the bottle.
+0:19:29|0:19:39|[He Jie] was lost in memories again. [A Feng] and [He Jie] were lying on the small bed, both only wearing underwear. [A Feng] was playing with the decorative lamp on the bedside table.
+0:20:1|0:20:4|Decorative lights changing colors, [He Jie] covers her face with her hands.
+0:20:24|0:20:28|[A Feng] presses the switch, and the two start kissing.
+0:20:28|0:20:33|In reality, [Yang Lei]'s family is sitting at the dining table. They have just finished their meal, and He Jie is clearing the dishes.
+0:20:40|0:20:43|[Yang Lei] is using a phone to do bookkeeping.
+0:21:47|0:21:52|[He Jie] puts the garbage behind the entrance and goes to the kitchen to make tea.
+0:21:57|0:22:1|Late at night, in the nanny's room, what is [He Jie] calculating with a calculator?
+0:22:1|0:22:4|There is a small notebook on the table, with the following written on it.
+0:22:21|0:22:25|During the day, [He Jie] cooked a meal and sat at the dining table.
+0:22:25|0:22:30|[Yang Lei] enters the room.
+0:22:30|0:22:35|[He Jie] stands up.
+0:22:36|0:22:42|[Yang Lei] looked at the dishes on the table.
+0:22:42|0:22:43|[He Jie] pointed to the tea on the coffee table.
+0:22:47|0:22:54|[Yang Lei] sat on the sofa, thought for a moment while standing with Jie, and then sat down next to [Yang Lei].
+0:22:56|0:22:57|[Yang Lei] puts down the teacup.
+0:23:18|0:23:20|[Yang Lei] stood still, while He Jie picked at his fingers and looked at [Yang Lei].
+0:23:20|0:23:21|[Yang Lei] takes off his watch, strokes his chin with his left hand, deep in thought.
+0:23:21|0:23:22|[Jiang Dan] walked in and stopped in her tracks when she saw He Jie and [Yang Lei] on the sofa.
+0:23:43|0:23:48|He Jie quickly stood up and looked at Jiang Dan, then at Yang Lei, feeling a bit at a loss.
+0:23:48|0:23:59|[Jiang Dan] then took off her shoes and put down her bag, looking thoughtful.
+0:23:59|0:24:8|At night, He Jie is peeling apples in the kitchen. [Jiang Dan] stands with her hands in her pockets, looks at He Jie's back, thinks for a moment, then turns and walks into the living room.
+0:24:29|0:24:38|He Jie peeled the apple skin off and continued peeling.
+0:24:38|0:24:40|[Jiang Dan] walked over and leaned against the kitchen door.
+0:25:27|0:25:33|He Jie finishes peeling the apple and turns around slightly.
+0:25:34|0:25:44|In the memory, He Jie was washing tomatoes in her kitchen when A Feng walked by with a little dog.
+0:25:44|0:25:46|He Jie turned to see [A Feng], and he smiled.
+0:25:48|0:25:59|[A Feng] held a palm-leaf fan in his hand, used his foot to close the door, and took a bite of the washed tomato. [A Feng] walked into the kitchen and hugged He Jie from behind.
+0:25:59|0:26:6|[A Feng] grabbed He Jie by the neck, took a bite of a tomato from He Jie's hand, and then pulled on He Jie's clothes.
+0:26:26|0:26:38|He Jie hides behind the door and crouches down.
+0:26:38|0:26:40|[He Jie] tidied up the clothes and stood up, running her fingers through her hair.
+0:26:56|0:27:5|In the living room, two people sat on the old wooden sofa, [He Jie] was still writing.
+0:27:5|0:27:7|[A Feng] snatched the note written by [He Jie].
+0:27:48|0:27:52|[A Feng] threw two notes into He Jie's arms and then walked away.
+0:27:52|0:27:56|He Jie glanced at the two notes leaning against the back of the chair.
+0:28:12|0:28:14|[He Jie] smiled.
+0:28:14|0:28:18|Back in reality, the police assistant Lao Xu is a good friend of [A Feng].
+0:28:18|0:28:24|He is directing traffic at the intersection where A Feng had an accident, and he sees He Jie about to cross the road.
+0:28:24|0:28:27|He ran up to [He Jie].
+0:28:52|0:28:55|Lao Xu took out a pack of cigarettes from his pocket.
+0:28:56|0:29:0|He Jie shook her head, and Lao Xu put the cigarette back into his pocket.
+0:29:15|0:29:37|Old Xu left to continue directing traffic, He Jie stood still in a daze. He Jie passed by a Fat Guy Hotpot restaurant, walked through the Temple of Talents, went through the dilapidated streets, and climbed up the Bucket Tower to reach his and A Feng's home.
+0:29:53|0:29:59|Two tenants are playing cards in the room, and the corridor is filled with abandoned items.
+0:29:59|0:30:8|He Jie stood at the door, sneakily glanced at the two tenants, then climbed up to the rooftop.
+0:30:11|0:30:15|The corridor, although dilapidated, was very clean. The matchmaker led him to [A Feng]'s home.
+0:30:45|0:30:50|[He Jie] sat alone in the living room, casually looking at the objects in the room.
+0:30:50|0:30:55|The matchmaker is introducing the family situation of [He Jie] to [A Feng]'s mother in the room.
+0:30:55|0:31:1|[He Jie] comes from the north and has no family burdens, he only has one younger brother.
+0:31:1|0:31:8|[He Jie] quickly sat down on the chair and straightened his clothes, the matchmaker and [A Feng]'s mother walked out.
+0:31:33|0:31:38|[A Feng]'s mother took [He Jie] to climb up to the rooftop, where the vegetation was lush.
+0:31:38|0:31:54|[A Feng] in a tank top is washing a small dog with a spray nozzle, and the dog is obediently standing in the bathtub.
+0:31:54|0:31:58|[A Feng]’s mother nudged [A Feng] and then turned to [He Jie].
+0:32:0|0:32:8|[A Feng] put down the puppy in his hand, stood up, and walked towards He Jie.
+0:32:9|0:32:17|[A Feng] wiped his hands with a towel, touched the chin of the puppy with He Jie, and introduced the puppy.
+0:32:19|0:32:25|[A Feng] smoothed out Xiao Bai's fur, both of them feeling a bit embarrassed, they smiled at each other.
+0:32:25|0:32:27|The little white dog standing between the two shook off the water on its body.
+0:32:34|0:32:41|Back in reality, [Yang Lei] and climbed up to their rooftop, where they could see a tall building being constructed across the street.
+0:33:2|0:33:8|On the rooftop, in [He Jie]'s room, the fish tank is covered in moss.
+0:33:8|0:33:17|[Yang Lei] looked at the deserted rooftop overgrown with weeds, feeling like crying.
+0:33:17|0:33:24|He Jie squatted down and looked at the doghouse in the corner of the rooftop, but didn't see Xiao Bai.
+0:33:24|0:33:25|He lowered his head and bit his lip.
+0:33:27|0:33:35|[Yang Lei] walked downstairs, frowning, and stood at the doorway.
+0:33:35|0:33:37|Two tenants saw [Yang Lei] and quickly stood up.
+0:34:18|0:34:28|Yang Lei turned and walked away after losing the game. He saw a clay pot on the floor near the stairs, picked it up, and went downstairs.
+0:34:28|0:34:32|In the master's house, [He Jie] is washing the sand pot.
+0:34:32|0:34:37|At the kitchen door, [Yang Lei] is playing with Leyan with a remote-controlled airplane.
+0:34:51|0:35:0|[He Jie] scratched his head apologetically and continued to lean over.
+0:35:0|0:35:6|In the memory, [He Jie] sat in front of his own house, eating a popsicle while watching the fire.
+0:35:6|0:35:13|On the stove is the clay pot, as He Jie fans himself, turns around, and looks up at the sky outside.
+0:35:13|0:35:17|Grandma walked into the living room and saw [He Jie] dozing off, so she walked into the kitchen.
+0:35:23|0:35:28|[He Jie] noticed her mother-in-law and quickly stood up, hiding the popsicle behind her back.
+0:35:30|0:35:37|Mother-in-law padded her hands with a cloth on the stove, lifted the lid of the sand pot, and hot steam instantly rushed to the ceiling.
+0:35:37|0:35:40|Grandma stirred the soup in the pot with a spoon.
+0:35:51|0:36:9|Living room, [A Feng] is drinking soup and watching TV, while [He Jie] is playing with Xiao Bai on the side.
+0:36:9|0:36:17|The mother-in-law walked in, and the two quickly straightened up, not daring to look up at her.
+0:36:17|0:36:21|Grandma turned off the TV with the remote control and returned to reality. [He Jie] picked up Leyan from school.
+0:36:21|0:36:22|On the street, the door of a van scraped against a Mercedes-Benz.
+0:37:5|0:37:9|He Jie and Le Yan stood behind and watched as the owner of the Mercedes-Benz officially ran over A Feng, General Xiao.
+0:37:11|0:37:17|[Yang Lei] drove by, saw He Jie and Le Yan, stopped, rolled down the window, and honked the horn.
+0:37:17|0:37:21|He Jie turned to see [Yang Lei] and then got into the car with joy.
+0:38:2|0:38:7|He Jie leaned on the car window, lost in thought.
+0:38:7|0:38:10|Late at night, in the nanny's room, what is He Jie calculating with a calculator?
+0:38:15|0:38:18|He Jie held his head in his hands, looking somewhat overwhelmed.
+0:38:18|0:38:26|Previously, He Jie calculated that A Feng's day is only worth 25 yuan, and the car repair costs 4500 yuan, which means,
+0:38:26|0:38:31|Repairing a scratched Mercedes will cost [A Feng] 180 days.
+0:38:31|0:38:36|He Jie remembered that she had once called the wife of the person responsible for the accident, Mr. Xiao, at home.
+0:39:12|0:39:13|The phone call was disconnected, and [He Jie] called back.
+0:39:44|0:39:59|Later, [He Jie] went to find the person responsible for the accident. He stood at the entrance of the residential area where the person lived and said to the security guard.
+0:39:59|0:40:9|In the light field, [He Jie] looked up at the building where the culprit lived, with Leyan passing by and hugging him, followed by [Yang Lei].
+0:40:34|0:40:42|Back in reality, [He Jie] stood in line at the entrance of the perpetrator's residential area with a bag full of vegetables, ready to sneak into the compound.
+0:40:42|0:40:46|The security guard is checking the identities of the people in line one by one.
+0:40:46|0:40:53|An old man rode an electric scooter to the entrance of the residential area. The security guard quickly opened the gate, and [He Jie] took the opportunity to enter the community.
+0:40:55|0:41:1|He Jie was wandering around the neighborhood when she noticed the Mercedes of the hit-and-run driver parked in a parking space.
+0:41:1|0:41:10|There is a long scratch on the right side of the car.
+0:41:10|0:41:13|He Jie looked at the scratches, then observed the interior of the car through the window.
+0:41:22|0:41:27|At this moment, two people walked up behind [He Jie], and she quickly hid in the bushes.
+0:41:31|0:41:40|After seeing someone pass by, he breathed a sigh of relief. As he turned to leave, he noticed that two railings on the fence behind the bushes were broken.
+0:41:40|0:41:43|[He Jie] walked over and was able to squeeze through the two broken railings.
+0:41:43|0:41:44|In the master's house, [He Jie] stood on the balcony, holding two popsicles in both hands, one of which was almost finished.
+0:42:1|0:42:11|At night, [Yang Lei]'s family is sitting on the sofa watching TV, with [Jiang Dan] resting her head on [Yang Lei]'s shoulder, while [He Jie] is also sitting on the other sofa watching.
+0:42:11|0:42:23|At this moment, [He Jie] is giving Leyan a bath in the bathroom.
+0:42:23|0:42:24|[Yang Lei] enters the bathroom.
+0:42:38|0:42:47|He Jie stood up and handed the towel to [Yang Lei].
+0:42:47|0:42:53|[Yang Lei] placed Le Yan's toy snake on the windowsill.
+0:42:53|0:42:55|He Jie hesitated for a moment when she heard Le Yan's question.
+0:43:59|0:44:5|He Jie stood at the door of the bathroom and listened to Yang Lei's words, then returned to the maid's room and closed the door.
+0:44:5|0:44:14|He Jie sat on the bed, looking at his room through a telescope, and suddenly saw the amber he had bought before.
+0:44:14|0:44:23|In the memory, [A Feng] was on the rooftop using binoculars to look at the tall building across the street.
+0:44:23|0:44:25|He Jie climbed up to the rooftop and stood behind [A Feng].
+0:44:32|0:44:36|[A Feng] handed the telescope to He Jie, but He Jie turned her head and ignored [A Feng].
+0:45:8|0:45:11|Xiao Bai took a bite of [A Feng]'s leg.
+0:45:11|0:45:21|He Jie took the telescope and walked to the front, using it to look at the building opposite. [A Feng] was sitting on the ground.
+0:46:37|0:46:51|Living like this, oh, they are lazy. He Jie walked up to [A Feng] and looked at the city through a telescope.
+0:46:51|0:46:57|[A Feng] sitting on the ground tried to lift He Jie's skirt, but was stopped by He Jie.
+0:47:12|0:47:40|He Jie puts down the telescope and picks up Xiao Bai, A Feng lies down. He Jie places Xiao Bai on A Feng's stomach, and A Feng lifts Xiao Bai up.
+0:47:49|0:47:59|Back in reality, He Jie is shopping for groceries in the supermarket when a phone call comes in.
+0:47:59|0:48:7|He Jie took out his phone from his bag, listened to the call, and immediately ran to the light rail station. He took the light rail to the intersection where A Feng had the accident.
+0:48:15|0:48:26|Lao Xu is directing traffic, and Xiao Bai collapses at his feet.
+0:48:35|0:48:38|He Jie throws the bag away and sits slumped on the ground.
+0:49:1|0:49:4|A car honked at the intersection, and Lao Xu stood up to direct traffic.
+0:49:21|0:49:26|He Jie ran to the rooftop, picked up a shovel, but accidentally cut her hand.
+0:49:26|0:49:31|He Jie took off the amber necklace from his neck and held it in his hand, then ran to the intersection with a shovel, using the shovel to wrap up the body of Xiao Bai.
+0:49:36|0:49:50|Lao Xu directed traffic while trying to stop the fight. He Jie pushed Lao Xu away and insisted on wrapping up Xiao Bai's body.
+0:49:50|0:49:58|Lao Xu snatched the shovel, threw it on the ground, and He Jie picked it up. He tied up Xiao Bai and ran off, while Lao Xu picked up He Jie's bag and chased after her.
+0:50:9|0:50:29|[He Jie] walked forward with a shovel, the shovel covered in small bloodstains. [Lao Xu] caught up with [He Jie], who turned around and asked [Lao Xu].
+0:50:29|0:50:30|[He Jie] stopped walking forward.
+0:50:41|0:50:59|[Lao Xu] threw away [He Jie]'s bag, snatched the shovel, tossed Little White's body into the bushes, then [Lao Xu] walked into the bushes to dig and bury Little White.
+0:50:59|0:51:3|[Old Xu] stopped his movements and pointed at [He Jie] standing still in place.
+0:51:24|0:51:32|In the restaurant, [He Jie] and [Lao Xu] sat facing each other, with four bottles of opened wine on the table and two unopened bottles.
+0:51:32|0:51:34|[Old Xu] is eating while [He Jie] sits there blankly.
+0:53:10|0:53:14|[A Feng] went to the room next door to drink with [He Jie]'s younger brother.
+0:53:37|0:53:42|[He Jie] stood at the door watching the two people, while [Lao Xu] was peeking at [He Jie].
+0:53:42|0:53:49|[He Jie] looked at her husband and younger brother with a face full of happiness.
+0:53:49|0:53:51|[He Jie] looked at her husband and younger brother with a face full of happiness.
+0:54:13|0:54:27|The scene cuts back to reality, [He Jie] walks through a narrow alley, hesitates for a moment, then climbs up steep stairs into a dimly lit room.
+0:54:27|0:54:33|The room was covered with talismans, and He Jie wanted the shaman to communicate with the deceased A Feng.
+0:55:13|0:55:23|The shaman, you must be tired. There are a few questions I can't figure out. The shaman lit all the candles in the room and then lowered the bamboo curtain.
+0:55:23|0:55:27|The shaman sat cross-legged on a cushion behind the bamboo curtain.
+0:55:27|0:55:32|[He Jie] knelt on a cushion in front of the bamboo curtain with her back to the shaman.
+0:55:32|0:55:42|[He Jie] with red eyes, picked up a stack of yellow paper at her feet, crumpled a sheet of paper, lit it with a candle, and placed it in front of the stove.
+0:55:47|0:55:51|The shaman started to perform a ritual, and [He Jie] listened attentively to the movements behind her.
+0:57:20|0:57:30|[Niu Jieshi] covers his eyes with his arms.
+0:57:30|0:57:33|[Niu Jieshi] wiped away tears with his sleeve and continued burning paper.
+0:57:33|0:57:33|The seance is over, and [Niu Jieshi] opens the door.
+0:58:11|0:58:17|The fortune teller gestured a five with her hand, bowed to [He Jie], and then counted out three one-hundred yuan bills from her wallet to hand to the fortune teller.
+0:58:47|0:58:54|[He Jie] turned and walked away. On the light rail, she turned her head to look at the night scenery outside the window, lost in thought.
+0:59:10|0:59:22|He returned to the master's house, and [Yang Lei]'s family was sitting at the dining table eating.
+0:59:28|0:59:30|[He Jie] stood at the door with her head down.
+1:0:9|1:0:13|[He Jie] walked into the kitchen, with the whole family of [Yang Lei] watching her back.
+1:0:13|1:0:13|Late at night, the perpetrator drove back home, and [Yang Lei] was upstairs spying on him with a telescope.
+1:0:29|1:0:42|In the early morning, [He Jie] sneaked into the residential area where the perpetrator lived. He crawled through the broken fence of the community, then fixed the broken railing back in place, making it look as good as new. He then walked over to the Mercedes-Benz car belonging to the perpetrator.
+1:0:58|1:1:10|He Jie looked around and picked up a stone. He used the stone to make a long scratch on the side of the car.
+1:1:10|1:1:15|In the master's house, [He Jie] sits at the desk, calculating accounts in a notebook.
+1:1:15|1:1:22|The notebook reads, "23 yuan for cash on delivery, 4500 yuan divided by 25 yuan equals 180 days, 1 plus 180 days equals 181 days."
+1:1:29|1:1:37|It turns out that [He Jie] was the one who sent the parcel to the person responsible for the accident last time, with a cash on delivery fee of 23 yuan, equivalent to a day's wage for [A Feng].
+1:1:37|1:1:40|One ride is equivalent to 180 days for [A Feng].
+1:1:40|1:1:46|Now, [He Jie] has spent a total of 4523 yuan on the perpetrator, equivalent to 181 days of [A Feng].
+1:1:58|1:2:3|[A Feng] and Jie were standing at the doorway of their own building, watching two tenants moving out in the corridor.
+1:2:29|1:2:35|[He Jie] picked up the clutter in the hallway, then cleaned the room, vigorously wiping the ash on the coffee table.
+1:2:47|1:2:53|The scene goes back in time to a furniture store, where [He Jie], [A Feng], and their mother-in-law are buying a coffee table.
+1:2:56|1:3:0|[He Jie] tugged at Grandma's sleeve from the side.
+1:3:0|1:3:4|[He Jie] and [A Feng] lifted the coffee table, and [He Jie] suddenly fell to the ground.
+1:3:19|1:3:21|[A Feng] wants to move the coffee table onto the ambulance.
+1:3:21|1:3:22|In the ambulance, [He Jie] is lying on a stretcher.
+1:3:57|1:3:59|A Feng and [Ma Dongmei] look at each other.
+1:3:59|1:4:0|Reconcile and appease [A Feng].
+1:4:10|1:4:13|In reality, He Jie is cooking.
+1:4:13|1:4:16|[Jiang Dan] sits at the dining table playing with her phone.
+1:4:16|1:4:25|Le Yan flew the remote-controlled plane onto the dining table.
+1:4:28|1:4:33|Oh, He Jie set aside the work in her hands, wiped her hands, and went to open the door.
+1:4:49|1:4:59|He Jie took out money from her bag to give to the delivery man, then closed the door.
+1:5:11|1:5:17|He Jie was about to go to the kitchen when someone knocked on the door, and He Jie opened it.
+1:5:26|1:5:31|The delivery man handed the envelope to [He Jie], who quickly took it.
+1:5:45|1:5:51|He Jie looked at the delivery man with some surprise, then stole a glance at the award certificate.
+1:5:51|1:6:2|At the kindergarten gate, [He Jie] accompanies [Le Yan] to school and hangs the water bottle around [Le Yan]'s neck.
+1:6:2|1:6:5|In the evening, [He Jie] and [Yang Lei] have dinner together.
+1:6:10|1:6:22|Late at night, [He Jie] is once again using a telescope on the balcony to look at the Mercedes-Benz parked below the building by the perpetrator.
+1:6:22|1:6:29|Then, he sneaked through the fence again and approached the Mercedes-Benz, making a long scratch on the car.
+1:6:42|1:6:58|[He Jie] returned to the nanny room, sat at the desk and wrote down some equations in a notebook. The meaning was that the previous 23 yuan Daofu Express was returned by the culprit, and [A Feng]'s one day is worth 25 yuan, which means one less day of [A Feng].
+1:7:1|1:7:8|And [He Jie] slashed their car with two cuts, totaling nine thousand yuan, equivalent to [A Feng]'s three hundred and sixty days.
+1:7:8|1:7:14|One morning, after [He Jie] dropped [Le Yan] off at the kindergarten, he arrived at the residential area where [Zhao Shizhe] lived.
+1:7:14|1:7:21|He hid behind the bushes, listening to Zhao Shizhe pointing at his Mercedes-Benz and talking to the security guard in the neighborhood.
+1:7:31|1:7:39|[He Jie] stood on the rooftop of a tall building in the city, leaning on the railing and looking down at the city below.
+1:7:39|1:7:50|In the memory, after [A Feng] passed away, his mother-in-law shouted in the room.
+1:7:50|1:7:51|He Jie and A Feng ran to the mother-in-law's room.
+1:7:57|1:7:59|The mother-in-law sat paralyzed on the bed, holding the compensation documents in her hand.
+1:8:54|1:8:59|He Jie and [荷洁] returned to the living room, sitting on the wooden sofa, with a vacant look in their eyes.
+1:8:59|1:9:4|Upstairs, He Jie is still sobbing, covering her ears with both hands and huddling to the side.
+1:9:17|1:9:22|Suddenly, the window behind opened, and [He Jie] turned around to get up and close it.
+1:9:29|1:9:38|Just as he pulled back the curtains, he caught a glimpse of his mother-in-law lying motionless at the foot of the stairs, covered in blood both on her head and the floor. [He Jie] was stunned.
+1:10:0|1:10:15|The scene cuts back to reality, [He Jie] uses binoculars to see into the home of the perpetrator across the street. The perpetrator is drunk, and his mother is pulling him while crying and pleading. Upon seeing this, [He Jie] smiles.
+1:10:15|1:10:25|The next day, in the supermarket, [He Jie] is buying pork. Another late night, [He Jie] is peeking across with binoculars again, the mother of the culprit is watching TV in the living room.
+1:10:34|1:10:41|Then [He Jie] looked down and found that the Mercedes-Benz of the perpetrator was gone.
+1:10:41|1:10:45|Another morning, [He Jie] takes Leyan to school.
+1:10:51|1:10:54|In the memory, [Niu Jieshi] once sat on the rooftop picking vegetables.
+1:11:8|1:11:13|[A Feng] squatted on the side observing the bitter gourd.
+1:11:20|1:11:25|[A Feng] picked a bitter gourd and turned to [Niu Jieshi].
+1:12:7|1:12:18|In reality, [He Jie] is shopping in the supermarket.
+1:12:18|1:12:22|Then, she peeked at the home of the perpetrator across the balcony.
+1:12:22|1:12:24|They are celebrating their son's birthday.
+1:12:29|1:12:40|He Jie put down the telescope and went to the first floor of the building where the culprit lived.
+1:12:40|1:12:47|Hesitating for a moment, she pressed the elevator's up button.
+1:12:47|1:12:52|The elevator opened, and the couple responsible for the accident were inside the elevator.
+1:12:52|1:12:54|Zhao Zong looked up and glanced at [Niu Jieshi], but didn't recognize him.
+1:12:56|1:13:5|Then the elevator doors closed and descended to the basement level.
+1:13:5|1:13:12|He Jie and [A Feng] were stunned for a moment, then immediately pressed the down button of the elevator, ready to follow the couple who caused the accident.
+1:13:12|1:13:23|He Jie and [A Feng] arrived at the second floor, but the Mercedes had already driven away. He chased after it and ran a distance behind the car, but failed to catch up. He stopped, panting heavily.
+1:13:28|1:13:51|By the river, He Jie picked up several large and heavy stones and placed them in a cardboard box on the side.
+1:13:51|1:13:55|He Jie arrived at the courier point with a box, placed the cardboard box on the scale, and said to the courier.
+1:14:4|1:14:14|[He Jie] enters the small room to fill out the delivery form, while the delivery person weighs the package.
+1:14:14|1:14:18|Just as she was about to seal the box, [He Jie] stepped forward and shook off the delivery man's hand.
+1:14:23|1:14:24|[He Jie] picked up the box and left.
+1:14:30|1:14:33|He Jie returned to the riverbank and started throwing stones into the water one by one.
+1:14:51|1:14:57|She returned to the master's house and heard [Yang Lei] making a phone call in the hallway while throwing out the garbage.
+1:15:39|1:15:44|[He Jie] eavesdropped behind the wall and discovered that [Yang Lei] was having an affair.
+1:15:44|1:15:47|[He Jie] returned to the room, where [Jiang Dan] and Leyan were watching TV.
+1:15:52|1:16:2|[He Jie] glanced at the award certificate, walked into the kitchen, and closed the door.
+1:16:2|1:16:11|[He Jie] was a bit at a loss, pacing back and forth in the kitchen.
+1:16:11|1:16:13|[Yang Lei] walked in through the door.
+1:16:25|1:16:42|In the kitchen, [He Jie] casually ran her fingers through her hair, wiping the stove absentmindedly while sneakily glancing at [Yang Lei] and [Jiang Dan].
+1:16:42|1:16:49|At night, in the home of the perpetrator, the perpetrator's husband and wife are being intimate, while their mother is watching TV in the living room.
+1:16:51|1:16:57|In the nanny room, [He Jie] lay on the bed with a smile on her face, with an amber pendant hanging on the edge of the table.
+1:16:57|1:17:4|In the morning, [He Jie] took Leyan to school. Just as Leyan was about to enter the kindergarten, [He Jie] called out to her.
+1:17:4|1:17:20|He Jie walked up to He Yan, He Jie squatted down, straightened out He Yan's clothes, kissed He Yan's forehead, and then watched He Yan walk into the kindergarten.
+1:17:20|1:17:20|He Jie's home.
+1:17:25|1:17:31|After finishing cleaning the stove with [Yang Lei], [He Jie] walked out of the kitchen with a bag on her back and closed the kitchen door.
+1:17:31|1:17:34|Standing in the restaurant, a suitcase is placed in front of him.
+1:17:54|1:17:57|He Jie looked around, feeling a bit reluctant to leave.
+1:18:17|1:18:24|Then, he came to the floor-to-ceiling window, pulled back the curtains, and used the telescope to take one last look at the home of the perpetrator.
+1:18:24|1:18:29|He Jie found three strangers in black clothes entering the home of the perpetrator.
+1:18:29|1:18:36|They were sneaking around and flipping through the items in the house.
+1:18:36|1:18:40|He Jie quickly opened the French window and walked to the balcony to take a closer look.
+1:18:52|1:19:1|Then, he walked out, passed through the fence, and arrived at the residential area where the perpetrator lived, brushing shoulders with three people dressed in black.
+1:19:1|1:19:11|He Jie dared not look at them, and continued to walk forward in silence.
+1:19:11|1:19:26|Then, [He Jie] encountered two security guards. They asked [He Jie] a question, but he didn't respond. He walked to the bottom of the building where the culprit lived, where three security guards were chatting.
+1:19:57|1:20:7|The police arrived, pulled out the cordon, and [He Jie] went to the second floor of the garage.
+1:20:26|1:20:33|He Jie stumbled along the alley, and an ambulance roared past.
+1:20:48|1:20:53|At this moment, [He Jie] saw at the intersection ahead, the police were stopping General Xiao, preventing him from going home.
+1:20:53|1:20:57|Mr. Xiao once accidentally killed [A Feng], and indirectly caused the death of [A Feng]'s mother.
+1:20:57|1:20:59|Xiao Zong's mother has been murdered.
+1:21:58|1:21:58|[The shaman] was working, and He Jie looked around expressionlessly.
+1:22:20|1:22:30|He Jie stood up, walked to behind the bamboo curtain, squatted down, facing the [shaman] sitting cross-legged on the cushion.
+1:23:16|1:23:24|At night, [He Jie] climbed onto the rooftop of her house, looking at the scattered debris, empty bottles, and overturned chairs.
+1:23:46|1:23:57|He Jie touched the tree, set up a chair, neon lights flickered in the distance, and the lights were on.
+1:24:35|1:25:1|[He Jie] and [A Feng] began to fantasize. One day, the rooftop of their house was decorated with various small colorful lights hanging on the trees, large red lanterns hanging under the eaves, "happiness" characters pasted on the window glass, various potted plants on the rooftop, and two large round tables with hotpot and bowls and chopsticks on them.
+1:25:7|1:25:18|He Jie stood on the roof with a telescope, looking into the distance. Her mother-in-law held Little White, while He Jie's younger brother climbed to the rooftop, looking up at He Jie.
+1:25:29|1:25:33|Grandma handed Xiaobai over to her younger brother and went to prepare the hotpot ingredients.
+1:25:45|1:25:47|[He Jie] walked down from the roof and took the little white from her brother's hand.
+1:25:54|1:25:59|The younger brother climbed onto the roof and held Little White in his arms, just like holding his own child with [He Jie].
+1:25:59|1:26:17|He Jie looked up at his younger brother, and at that moment, the mother of the person responsible arrived.
+1:26:17|1:26:19|The culprit's mother handed the water bottle to [He Jie].
+1:26:25|1:26:33|[A Feng] and his mother-in-law carried two jars of wine up.
+1:26:46|1:27:4|[A Feng] asked [Yang Lei] and his family to sit down, and Leyan gave the learning machine he brought to [A Feng].
+1:27:4|1:27:6|At this moment, the couple who caused the accident also arrived.
+1:27:9|1:27:14|The perpetrator, General Xiao, handed a stack of money to [A Feng], and also passed a bag of snacks to [A Feng].
+1:27:59|1:28:4|Everyone sat down.
+1:28:4|1:28:10|The perpetrator's family, younger brother, Lao Xu, sat at a table, being entertained by their [He Jie] mother-in-law.
+1:28:14|1:28:30|[Yang Lei]'s family sat at a table, [A Feng] invited [Yang Lei]'s family to smell the wine and poured them a drink.
+1:28:30|1:28:36|Standing aside with [He Jie], holding Little White in her arms, she looked at everyone happily and kissed Little White affectionately.
+1:29:0|1:29:9|In reality, on the rooftop in the early morning, He Jie is sitting on a chair, asleep. Everything that just happened was all a dream.
+1:29:16|1:29:21|At the delivery point, [He Jie] stuffs a stack of banknotes into an envelope, then looks at the business card given to her by the perpetrator.
+1:29:21|1:29:23|The scene returns to the opening scene, the museum, [He Jie] rides the sightseeing elevator upstairs, then walks through the corridor and stands at the staircase.
+1:29:48|1:29:54|He turned around and saw his former self walking down the stairs, standing on the stairs, as if searching for something.
+1:30:31|1:30:44|In reality, [A Feng] and He Jie came to the counter displaying amber, looking through the glass at the piece of amber, which was crystal clear and very beautiful.
+1:30:44|1:30:52|[A Feng] and He Jie placed the amber they bought on the stall on the glass, placing it side by side with that precious piece of amber.
+1:30:52|1:30:56|The amber outside the glass is worth five hundred yuan, while the amber inside the glass is worth two hundred thousand yuan.
+1:30:57|1:31:11|The value of the ants in the two pieces of amber is different, even though they are both amber and ants.
+1:31:11|1:31:24|The pale blue windows of the museum reflected the silhouette of the tall buildings, with [A Feng] standing motionless in front of the counter. From a distance, he seemed to be enveloped by the pale blue windows.
+1:31:33|1:31:37|He Jie gazed at the two amber stones for a long time, tears streaming down his face.

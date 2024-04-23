@@ -1,0 +1,260 @@
+0:1:7|0:1:12|The camera slowly pans across, the beautiful scenery of the water town unfolds like a scroll.
+0:1:12|0:1:20|In the distance, the village appears particularly peaceful, with a few children playing in the pond, while adults gather at [Wang Zhao]'s house to play mahjong.
+0:1:20|0:1:25|At the card table, the person facing [Wang Zhao] spoke up.
+0:2:0|0:2:2|Relatives visit with children and gifts.
+0:2:17|0:2:21|To entertain the relatives who came from afar, [Wang Zhao] started rowing the boat again.
+0:2:21|0:2:25|He plans to catch some more fish to bring home for the dinner party.
+0:2:25|0:2:36|On the way to fish by paddling the boat, [Wang Zhao] and the neighbors greet each other.
+0:2:36|0:2:38|[Wang Zhao] returned to the village after catching the fish.
+0:2:38|0:2:41|At this moment, Wang Zhao suddenly ran over in a hurry, shouting.
+0:2:57|0:3:18|After getting off the boat, the two hurried to the scene. By the pond, a crowd had already gathered. [Wang Zhao] went forward to check the situation, and found that it was a child who had been in the pond where water was stored before.
+0:3:18|0:3:21|[Wang Zhao] turned the child over and patted firmly and gently.
+0:3:41|0:3:48|At night, the old village chief celebrated at Wang Zhao's home with baijiu, and he was the first to speak.
+0:5:28|0:5:30|Amidst the laughter and chatter, dinner came to an end.
+0:5:30|0:5:37|Early the next morning, [Wang Zhao] was surprised to find countless dead fish floating in the pond in front of the door when he got up to wash up.
+0:5:37|0:5:45|Looking at the muddy pool water and countless fish stirring up white mud, [Wang Zhao] was filled with resentment.
+0:5:45|0:5:51|Early risers noticed this strange phenomenon and began to gather together to help [Wang Zhao] retrieve the dead fish from the pond.
+0:5:59|0:6:4|The angry villagers all crowded into the village chief's house, wanting to seek justice for the matter.
+0:6:22|0:6:26|Unsatisfied with the results, the group angrily got into the car and drove towards the chemical plant.
+0:8:49|0:8:56|At this moment, Wang Zhao also rode over on a bicycle.
+0:8:56|0:9:0|The village chief scolded the crowd, calming the situation down.
+0:9:12|0:9:21|At the persuasion of the village chief, the matter was left unresolved. Reluctantly, everyone pushed the cart away, with many unwilling to let the chemical plant off so easily.
+0:9:21|0:9:26|On the way back to the village, the villagers started gossiping again.
+0:9:46|0:9:49|The village chief took three people to the township to report the issue.
+0:9:49|0:9:52|In the village chief's office, the atmosphere was particularly solemn.
+0:9:52|0:9:53|The village chief spoke.
+0:10:7|0:10:10|After listening to the villagers' grievances, [Wang Zhao] also felt helpless.
+0:10:10|0:10:29|After a moment of silence, [Wang Zhao] picked up the phone on the table and called the health center, trying to solve the current problem for the villagers.
+0:10:29|0:10:32|The village head and the villagers came to the water's edge to collect samples for inspection.
+0:10:39|0:10:43|During the sampling process, [Wang Zhao] squatted by the water to inspect it.
+0:10:46|0:10:51|The village chief paused for a moment, stood up, and turned to the villagers.
+0:11:20|0:11:32|The crowd left satisfied with the answer, only [Wang Zhao] continued to paddle the boat, fishing for dead fish in the reeds. This pond used to be everything in his life, but now he felt lost.
+0:11:32|0:11:39|He sent all the dead fish he had worked hard to salvage to the entrance of the chemical plant, as if silently expressing his anger.
+0:11:44|0:12:1|After speaking, [Wang Zhao] set down the dead fish and turned to leave. He once again busied himself in the pond without a moment's rest, just like before. Every day, he tirelessly caught fish on the boat, but this time it was not for a living like before, but to vent the bitterness in his heart.
+0:12:1|0:12:20|The pond that the villagers rely on for survival has been polluted by the discharge from the chemical factory. [Wang Zhao] couldn't bear this anymore. This time, he scooped up a basket full of dead fish again. Just like before, he took the dead fish to the entrance of the chemical factory. The security guard turned around and saw him bringing another basket of dead fish.
+0:12:22|0:12:27|But [Wang Zhao] turned around and walked away without saying a word this time.
+0:12:27|0:12:34|Thus, Wang Zhao tirelessly shuttled back and forth between the pond and the chemical factory, net after net, basket after basket.
+0:12:35|0:12:45|And this time, even the factory director wanted to see for himself what this person was up to.
+0:12:45|0:12:51|After a few more days passed, there was still no news in the village. This time, even the villagers couldn't sit still.
+0:12:51|0:12:56|Wang Zhao summoned everyone with great fanfare, wanting to see if the village's problems could be solved.
+0:13:44|0:13:52|Not long after, [Wang Zhao] rode his bike to the mayor's office in a hurry, anxiously asking the mayor how the problem had been resolved.
+0:14:36|0:14:41|The village chief waited outside the office, while the township head was busy on the phone.
+0:14:41|0:14:47|Before long, Mayor Wang Zhao nodded repeatedly with a look of joy, indicating that they had reached an agreement on certain matters or plans.
+0:14:49|0:15:2|The village chief hung up the phone, tidied up quickly, and went out to greet the old village chief who was waiting outside the door.
+0:15:2|0:15:14|The two of them left together, and the scene shifted to a group of children playing in the pond. It seemed that the pollution from the chemical factory had not had a significant impact on people. The gloom of the dead fish from before had disappeared from the children's minds.
+0:16:29|0:16:33|Another morning, [Wang Zhao] went out to wash up as usual.
+0:16:33|0:16:38|This time, he hesitated for a moment in the courtyard, then turned and walked quietly towards the edge of the pond.
+0:16:43|0:16:53|Life seems to have returned to the previous scene, with people gathering around the pond again, chatting and laughing. The pond is still the center of everyone's life.
+0:17:11|0:17:20|Two of them, one wearing a blindfold, plunged into the water, watching the rippling surface. It was unclear who would emerge victorious in this competition.
+0:17:20|0:17:36|Before long, the challenger surfaced on the water first, while everyone was still searching around for the figure of [Wang Zhao].
+0:17:36|0:17:37|After the game, [Wang Zhao] returned home.
+0:18:44|0:18:47|On this day, [Wang Zhao] noticed a commotion on the shore while fishing.
+0:18:53|0:18:58|He didn't have time to think too much, quickly putting down what he was doing and following the shouting all the way.
+0:18:58|0:19:5|Upon arriving at the scene, Wang Zhao found that this time two people had fallen into the water simultaneously, which undoubtedly greatly increased the difficulty of the rescue.
+0:19:5|0:19:9|In a moment of urgency, [Wang Zhao] steadied the boat and grabbed the nearby fishing net, then threw it down.
+0:19:9|0:19:13|After trapping the two with a fishing net, [Wang Zhao] began to drag them towards the side of the boat.
+0:19:17|0:19:29|The two people who fell into the water were eventually rescued with the efforts of [Wang Zhao] and others. After getting on the boat and taking a closer look, it turned out that one of the people who fell into the water was Director Lu from the chemical factory. After regaining consciousness, Director Lu quickly thanked the people who saved him.
+0:19:34|0:19:37|[Wang Zhao] said, then turned and got off the boat.
+0:19:37|0:19:41|After returning home, Director Lu's family prepared a sumptuous dinner.
+0:20:6|0:20:7|This is Director Lu's home.
+0:20:48|0:20:50|He has been living for more than ten years, in which year did he not save one or two people?
+0:21:59|0:22:4|Wang Zhao had no choice, while at this time, there was a different scene in the factory director's home.
+0:24:3|0:24:7|[Wang Zhao] slowly walked forward, surrounded by the crowd.
+0:24:7|0:24:13|He walked with hesitant steps, a bit shy, but little did he know that he would be tripped by the steps in the end, causing laughter from the crowd.
+0:24:31|0:24:35|The one presiding over the county government meeting is Director Zhang, who had dinner with Director Lu.
+0:24:35|0:24:42|[Wang Zhao] from Xiaogang Village, is like a traditional fisherman casting his net.
+0:24:51|0:24:57|At this moment, [Wang Zhao] happened to be in town looking for a fellow villager to cut his hair.
+0:25:26|0:25:29|At the same time, at the county government meeting, everyone was still deadlocked.
+0:25:36|0:25:42|It is explained that he still lacks the spirit of self-sacrifice to save others deep down.
+0:26:2|0:26:5|It's all about courageous actions.
+0:26:5|0:26:9|He has met quite a few people.
+0:26:31|0:26:32|Wang Zhao is publicly commended.
+0:26:42|0:26:49|After the county government officials finished their discussion, they ultimately decided not to commend [Wang Zhao] for his courageous proposal.
+0:26:49|0:26:55|At this moment, [Wang Zhao] was still at home with his wife Meilian, completely unaware of what was about to happen.
+0:26:55|0:27:1|On this hot summer night, Wang Zhao and his wife lay quietly in bed, with his wife fanning herself beside him.
+0:27:2|0:27:13|The slight breeze made Wang Zhao turn his back, the two remained silent, but his wife secretly smiled, as if she had thought of something, her smile becoming more and more joyful, causing Wang Zhao to turn back.
+0:27:35|0:27:38|Marianne covered her face shyly while laughing.
+0:27:38|0:27:45|Slowly, the gentle laughter rang out like a clear bell.
+0:27:45|0:27:47|[Wang Zhao] noticed something unusual and turned to ask.
+0:27:56|0:28:0|Mellian turned over and hugged the sleeping Wang Zhao beside her.
+0:28:22|0:28:30|Wang Zhao and [Ma Dongmei] spent the night together like newlyweds. The next day, at the awards ceremony, the venue was packed with people, and many media reporters rushed over upon hearing the news.
+0:28:58|0:29:4|And among this group of role models, everyone is wearing silk with the words "Acting bravely for a just cause" printed on it.
+0:29:4|0:29:9|The meeting has officially started, and it seems like everything has been arranged properly.
+0:29:9|0:29:12|Only [Wang Zhao] was sitting at the very edge, and she wasn't wearing anything.
+0:29:14|0:29:18|Wang Zhao noticed something unusual and got up to leave.
+0:29:18|0:29:25|But when he turned and walked towards the villagers, he was stopped.
+0:29:43|0:29:48|The style of Wang Zhao as a new era farmer.
+0:30:2|0:30:10|Later, during the filming by the media reporters, [Wang Zhao] also entered the frame, but the reporters had doubts about [Wang Zhao]'s identity.
+0:30:23|0:30:31|Faced with the demands of the reporters, [Wang Zhao] didn't know how to explain, so he just left with a smile. He didn't go far, just squatted down on the side.
+0:30:31|0:30:35|After the journalist left, he returned to his seat and sat down.
+0:30:35|0:30:42|All the villagers of Xiaogang Village, including [Wang Zhao] himself, firmly believe that [Wang Zhao] should be the role model for heroes.
+0:30:42|0:30:47|The reporter walked slowly over for a second reshoot, once again capturing [Wang Zhao] without wearing anything.
+0:30:48|0:30:54|The reporter raised his hand this time, gesturing to the police officers behind maintaining order.
+0:30:54|0:31:14|The police officer on the scene quickly approached and questioned Wang Zhao about the situation, asking him to leave.
+0:31:14|0:31:16|Wang Zhao remains unmoved by this.
+0:32:6|0:32:22|Upon hearing this, [Wang Zhao] was completely stunned, prompting the old village chief to quickly step forward, using both hands to support him and leading him away from the scene.
+0:32:22|0:32:29|The villagers of Xiaogang Village all hung their heads in humiliation, the award ceremony was in full swing, but the villagers couldn't be happy at all.
+0:32:45|0:33:0|Watching the models holding flowers in their hands, everyone felt uneasy in their hearts.
+0:33:0|0:33:5|[Wang Zhao] returned home and started drinking alone, while Meilian sat at the door wiping away tears.
+0:33:5|0:33:9|At this moment, the village chief suddenly visited. The couple greeted the village chief and invited him to sit down.
+0:33:18|0:33:26|Mellian added a pair of chopsticks for the village chief, poured wine, and took the opportunity to start complaining.
+0:33:26|0:33:30|Mellian stood beside the village chief and whispered.
+0:34:16|0:34:20|After leaving Wang Zhao's home, the old village chief once again arrived at the mayor's office.
+0:34:20|0:34:26|Wang Zhao didn't know how to speak up this time, standing outside the door hesitantly, only able to keep looking inside.
+0:34:26|0:34:32|The not-so-subtle movements still caught the attention of the village chief, who warmly welcomed him in.
+0:36:15|0:36:22|The old village chief who received the reply hurried back to the village and found [Wang Zhao] fishing, informing him of the uplifting news.
+0:36:39|0:36:45|The situation became clear, and the two of them couldn't contain their joy.
+0:38:24|0:38:28|Disrupting the order of the venue.
+0:38:38|0:38:41|Intense concentration on the Taoist art of Wang Zhao.
+0:38:51|0:38:56|The matter ended unresolved like this, when Wang Zhao was having dinner at home, suddenly a visitor arrived.
+0:39:58|0:40:2|After Meilian left, the old village chief began to consider this issue.
+0:40:2|0:40:6|After the meeting, Wang Zhao has been waiting at the door for the village chief to come out.
+0:40:9|0:40:15|The old village chief was rebuked into silence. In such a serious meeting with the provincial TV station's reporter present, he disrupted the order and tarnished the reputation of our village for the sake of his own fame and fortune.
+0:40:45|0:40:53|The village chief vented all the grievances he had suffered from the director onto [Old Village Chief].
+0:40:53|0:41:1|The village chief was momentarily unable to understand the mayor's emotions and the contrast in his attitude before and after.
+0:41:1|0:41:4|[Wang Zhao] greeted everyone and then sat down next to the village chief's table.
+0:41:21|0:41:34|Facing the visit of [Wang Zhao], the village chief had nothing good to say. This resentment was passed down level by level, and in the end, it all fell on [Wang Zhao], leaving him sitting there at a loss.
+0:41:37|0:41:42|The village's recommended role model, Wang Zhao, ultimately ended up being shunned by everyone, taking small steps.
+0:42:41|0:42:46|Even though even family members have started to take advantage of his giving up, for [Wang Zhao],
+0:42:46|0:42:49|He couldn't swallow this grievance no matter what.
+0:42:49|0:42:55|The next day, [Wang Zhao] arrived at the county and found the petition office, then resolutely walked in.
+0:42:55|0:42:59|Arriving at the front desk of the petition office, he begins to inquire about the person on duty here.
+0:44:7|0:44:12|Realizing that this was the only way, [Wang Zhao] did not dwell on it too much, turned around and sat in the back to start filling out the form.
+0:44:12|0:44:20|During the process of filling out the form, another petitioner walked into the office.
+0:44:20|0:44:30|Comrade Xiao Su took the materials, looked through them, and handed the empty form on the table to [Wang Zhao].
+0:44:30|0:44:33|After filling out the form, [Wang Zhao] stood up and handed the form to the front desk.
+0:44:36|0:44:45|He wanted to say something more, but he didn't want to trouble unrelated people, so he had to give up.
+0:44:45|0:44:48|Sun Ming and his friends were discussing animatedly together.
+0:44:51|0:44:53|At this moment, [Wang Zhao] appeared.
+0:44:53|0:44:57|Hearing her husband being talked about like that by others, [Wang Zhao] felt very uncomfortable, but there was nothing she could do.
+0:45:19|0:45:26|The landlady turned around and brought the goods to the table.
+0:45:26|0:45:30|[Mary] counted out enough money from her hand and handed it to the landlady.
+0:45:30|0:45:37|It seems like nothing happened just now, [Mei Lian] doesn't want to talk about it too much.
+0:45:37|0:45:44|Wang Zhao has been particularly concerned about the outcome of her petition recently. A few days later, she went to the current petition office again to inquire about the situation.
+0:46:49|0:46:52|The people in the office do have a point in saying this.
+0:46:52|0:46:55|[Wang Zhao] left in disappointment once again.
+0:46:55|0:46:59|Back in the village, [Wang Zhao] always seemed gloomy, not sure if it was just a misconception.
+0:46:59|0:47:3|The way the villagers greet him is also different from before.
+0:47:8|0:47:11|Almost everyone had some criticisms about his previous actions.
+0:47:11|0:47:21|At that moment, he became the opportunist who chased after profit and had low ideological consciousness.
+0:47:21|0:47:26|At the street corner, he encountered those villagers who loved to gossip again.
+0:47:37|0:47:54|[Wang Zhao] once again came to the county to inquire about his own affairs.
+0:47:54|0:47:58|This time he finally got a response, and he happily went home to wait for further instructions.
+0:47:58|0:48:3|At home eating dinner, [Wang Zhao] seemed to be in a much better mood, as he would soon be able to meet the leader.
+0:48:3|0:48:6|At this moment, Wang Zhao's wife [Melian] walked over with a tray of food.
+0:48:15|0:48:22|Say it, [Melian] finished cleaning up the empty bowls and left. She gradually lost interest in [Wang Zhao]'s affairs.
+0:48:22|0:48:25|She simply didn't believe that the leader would eventually meet with [Wang Zhao].
+0:48:25|0:48:30|[Wang Zhao] seemed to have noticed something unusual, but she still chose to trust the leader.
+0:48:30|0:48:38|Time passed day after day, and [Wang Zhao] still sat at the door, eagerly waiting for the notification that may or may not come.
+0:48:54|0:48:58|On this scorching summer day, the anger within [Wang Zhao]'s heart is constantly being provoked.
+0:48:58|0:49:11|The next day, in the office, [Wang Zhao] once again arrived at the petition office, but today the receptionist had changed.
+0:49:39|0:49:41|He had no choice but to find another way.
+0:52:9|0:52:19|Finally, [Wang Zhao], in a great mood after finally catching a leader at the government entrance, went home and even listened to a play.
+0:52:19|0:52:23|Speak up, [Wang Zhao] sat aside, picked up the chopsticks and started eating silently.
+0:52:44|0:52:51|After listening to what [Wang Zhao] said, the atmosphere at the dining table began to become awkward and heavy.
+0:52:51|0:52:59|The words of Mei Lian seemed to awaken [Wang Zhao], when will this verbal promise finally be fulfilled?
+0:52:59|0:53:7|These days, [Wang Zhao] lives and works as usual, spraying pesticides on crops during the day and catching fish in the evening.
+0:53:7|0:53:10|Unlike before, he became burdened with heavy thoughts about China and Japan.
+0:53:12|0:53:18|But after days of constant contemplation and consideration, [Wang Zhao] had already made a decision in his heart.
+0:53:18|0:53:29|At the dining table, [Wang Zhao] and his wife Meilian were always silent. He took a big sip of the porridge on the table, then turned to Meilian sitting beside him after putting down his chopsticks.
+0:53:33|0:53:42|Mellian sighed deeply upon hearing this, but no matter what, she still supported her husband's decision, hoping that this matter would ultimately have a good outcome.
+0:53:42|0:53:49|At night, Wang Zhao's wife Meilian prepared the luggage he needed to bring to the county.
+0:53:49|0:53:53|[Wang Zhao] has made up his mind this time, determined to get justice for himself.
+0:53:53|0:53:56|The two of them packed their luggage in silence.
+0:53:56|0:53:59|All preparations in place, [Wang Zhao] bid farewell to his wife solemnly.
+0:54:6|0:54:14|Speak, [Wang Zhao] then turned and walked out the door, firmly setting foot on the path ahead.
+0:54:14|0:54:23|The next morning, [Wang Zhao] stood at the county government's gate with his luggage, watching one person after another coming in and out.
+0:54:23|0:54:27|Wang Zhao was basically ignored by everyone, as they were all busy with their own affairs.
+0:55:22|0:55:27|Having failed to get any answers, Wang Zhao was eventually driven away by the security guards, leaving him with no choice but to retreat to a distance in despair.
+0:55:27|0:55:33|The vehicles on the street were coming and going, and the roaring horns drowned out his petition.
+0:55:33|0:55:41|In front of the grand government gate, [Wang Zhao] appeared particularly small and helpless, sitting quietly by the flower bed, waiting.
+0:55:41|0:55:43|Suddenly, he spotted a familiar figure.
+0:55:50|0:55:55|[Wang Zhao] quickly caught up, but the other party showed no intention of stopping at all.
+0:55:55|0:55:56|The next morning.
+0:56:3|0:56:16|Wang Zhao, being looked at coldly by the security guard, could only turn around and leave dejectedly once again. He dragged his weary feet up the stone steps by the roadside, sat down cross-legged, wondering if this would be another fruitless day.
+0:56:16|0:56:25|And at that moment, a familiar figure drove towards the gate. [Wang Zhao] looked up and recognized the person as the leader Li who had promised to help him before.
+0:56:47|0:56:53|Upon hearing the phrase "wait for notification," he had already heard it countless times. Can this so-called notification really be awaited?
+0:56:53|0:56:57|At night, [Wang Zhao] returned to the rental house he was staying in to rest.
+0:56:57|0:57:6|In the room is a large bunk bed where three people sleep, the environment is extremely bad. He lies on the bed and can't fall asleep, thinking about what happened during the day.
+0:57:6|0:57:10|With the continuous snoring of the person in the same bunk, he could only sit up.
+0:57:10|0:57:14|The next morning, [Wang Zhao] was still sitting in front of the government office as usual.
+0:57:15|0:57:22|When Leader Li rode by this time, he didn't even acknowledge him. He could only stare blankly at the back of the leader as he left.
+0:57:22|0:57:26|Back at the rental house, even the neighbors started to show concern for him.
+0:57:50|0:57:58|The lease for the house expired at this time, and [Wang Zhao] was forced into a corner. However, he did not give up and still sat outside the government office every morning.
+0:57:58|0:58:3|At this moment, Leader Li rode by on his bike and saw Wang Zhao sitting on the side of the road with her head down.
+0:58:3|0:58:10|For some reason, Leader Li turned back with his bicycle and greeted [Wang Zhao].
+0:58:32|0:58:40|After a long wait, [Wang Zhao] finally followed Leader Li into the county government, marking his first time entering the government's doors.
+0:58:40|0:58:46|In the office, Leader Li took out a certificate of honor from the cabinet and handed it to [Wang Zhao] sitting beside him.
+0:58:58|0:58:59|[Wang Zhao] happily returned home.
+0:59:14|0:59:19|At the dining table, [Wang Zhao] placed the certificate beside him and enjoyed it while drinking.
+0:59:19|0:59:32|Looking at this hard-earned honor, [Wang Zhao] couldn't help but smile with joy.
+0:59:32|0:59:36|Mellian wiped her hands with [Wang Zhao]'s towel.
+0:59:36|0:59:42|She took the certificate as if it were a treasure, carefully admiring the cover before flipping it open and reading it word by word.
+1:0:1|1:0:13|Melian looked at the certificate with joy, but soon her brows furrowed. She stood up, brought the certificate closer to the lamp above her head, in order to better examine its peculiarities.
+1:0:24|1:0:29|Huang Zhao, with the certificate in hand, proudly walked out the door with his hands behind his back, thinking he could show off a bit.
+1:0:29|1:0:34|He first went to the house of the old village chief and told the village chief the good news.
+1:1:10|1:1:18|The village chief watched as [Wang Zhao] left with satisfaction, sighed deeply, and then [Wang Zhao] went to the mahjong place.
+1:1:35|1:1:38|The crowd gathered together, examining Wang Zhao's certificate of honor.
+1:2:5|1:2:18|During the meal the next day, he continued to hold the certificate and look at it non-stop. Suddenly, Wang Zhao heard the broadcast outside, so he put down his chopsticks and planned to leave.
+1:2:28|1:2:32|[Wang Zhao] happily walked out of the door, in the village committee, everyone sat together preparing for a meeting.
+1:3:42|1:3:47|The situation seemed to have come to an end, and life returned to its former calmness.
+1:3:47|1:3:54|[Wang Zhao] as usual, went out fishing by boat. He used a pole to push the boat away from the small dock in front of his house.
+1:3:54|1:3:59|He started a day of work according to his usual routine, just like every year at this time.
+1:4:12|1:4:19|After Meilian finished speaking and turned to go home, ending a day's work, [Wang Zhao] went to the village store to buy wine.
+1:4:19|1:4:23|The villagers started to discuss animatedly after [Wang Zhao] left.
+1:4:44|1:4:48|When Wang Zhao returned home, a group of children followed noisily.
+1:5:16|1:5:23|Wang Zhao was furious when he heard this.
+1:5:23|1:5:26|He could feel that the villagers still had opinions about him.
+1:5:26|1:5:32|After much deliberation, Wang Zhao went straight to the village chief's house to demand an explanation, holding a newly purchased bottle of wine in his hand.
+1:6:29|1:6:39|The village chief's attitude towards [Wang Zhao] has also changed. He angrily returned home and took out his certificate to carefully verify it.
+1:6:39|1:6:42|Opening the certificate, it was indeed as the village chief had said.
+1:6:42|1:6:48|There is no stamp on the certificate, a sense of being mocked and humiliated suddenly surges in [Wang Zhao]'s heart.
+1:6:51|1:6:56|He angrily threw the certificate on the ground, but no matter how hard he threw, it couldn't solve his problem.
+1:6:56|1:7:1|The old village chief rushed over upon hearing the news, only to find Wang Zhao and his wife sitting inside the house with worried expressions on their faces.
+1:9:9|1:9:19|At this point, with Wang Zhao's stubborn temper, the old village chief couldn't persuade him. Frustrated, the old village chief left. The next day, Wang Zhao went to find a lawyer.
+1:9:36|1:9:40|After listening, [Wang Zhao] began to lower his head and rummage through the bag.
+1:9:40|1:9:42|He first took out a stack of coins, counted them, and found there were only three hundred.
+1:10:0|1:10:9|He then started to search for change in his pockets, first in his pants pockets and then in his jacket pockets. But no matter how he counted, he only had a little over three hundred.
+1:10:9|1:10:14|Faced with this situation, [Wang Zhao] could only tell the truth.
+1:10:21|1:10:33|This way, he put all his money in the lawyer's hands. When he went home, he didn't even have any change to take a cab, so he had to walk home.
+1:10:37|1:10:44|The road ahead is long, but [Wang Zhao]'s steps are firm and resolute, believing that he has done the right thing.
+1:10:49|1:10:56|Night falls, Wang Zhao dragged his weary body into the door, where his wife Meilian was waiting for him.
+1:11:11|1:11:18|Mellian helped [Wang Zhao] lie down slowly on the bed, then picked up the fan next to her and started fanning.
+1:11:18|1:11:36|Mellian busied herself while sitting on the edge of the bed, asking about Wang Zhao's day.
+1:11:36|1:11:38|[Wang Zhao] turned his head away, unwilling to speak.
+1:11:56|1:12:7|[Wang Zhao] was also very angry, picked up the pillow and threw it out.
+1:12:28|1:12:37|Every year he leaves like this. The next day, the lawyer and the village chief brought a group of villagers to the village committee. Along the way, everyone was talking and discussing, not knowing what it was about.
+1:13:13|1:13:20|Lawyer Yang began to question the villagers one by one about some trivial matters regarding [Wang Zhao], while the others waited outside.
+1:13:42|1:13:44|The lawyer nodded after listening.
+1:13:44|1:13:47|The village chief, anxious outside, prioritized letting in a person who had received favor from [Wang Zhao].
+1:14:35|1:14:42|After asking the villagers, Lawyer Yang went to the county government and inquired about Director Li who had issued the certificate to [Wang Zhao].
+1:14:42|1:14:46|Leader Li pushed the door open and sat down across from [Wang Zhao] with a calm expression.
+1:15:3|1:15:6|Later, he also inquired about the county government leader who had previously revoked Wang Zhao's model citizen status.
+1:16:29|1:16:32|After a fruitless inquiry, [Wang Zhao] had to return to the law firm.
+1:17:34|1:17:39|After leaving the law firm, [Wang Zhao] began to consider his next plan.
+1:17:41|1:17:50|It's no longer just a simple certificate, but a way to seek an explanation for the humiliation endured for such a long time.
+1:17:50|1:17:53|Back in the village, [Wang Zhao] started shuttling between households.
+1:18:6|1:18:12|The first person they found was Xingye, and the two of them entered the house together.
+1:18:12|1:18:20|Hoshino carefully examines the document in his hand, which is a joint application form that Wang Zhao wants to submit.
+1:18:21|1:18:27|[Wang Zhao] took out the seal and had Xingye press his fingerprint, but at that moment, Xingye's wife walked in.
+1:18:41|1:19:2|[Wang Zhao] left the Xinye family and started traveling on the road again, searching for his next witness. He walked on foot along the rural road to the neighboring village, and this perseverance and determination could not be stopped by anyone.
+1:19:2|1:19:9|[Wang Zhao] found the second person willing to prove himself for him, and after arriving at the Da Yong family, he successfully stamped his hand.
+1:19:9|1:19:11|Upon completion, [Wang Zhao] gladly took over.
+1:19:22|1:19:33|Even after experiencing so much, there are still people willing to testify for [Wang Zhao], but the long period of running around and traveling, even with a strong will, is hard for the body to bear.
+1:19:33|1:19:38|No matter how difficult it was, [Wang Zhao] gritted her teeth and made it through. By the time she found the third house, it was already evening.
+1:19:46|1:19:48|However, Wang Zhao could only give up in vain.
+1:19:51|1:19:58|Returning empty-handed, [Wang Zhao] had no choice but to go to the fourth house. Despite being exhausted, he continued to move forward in the darkness of the night.
+1:19:58|1:20:3|Upon arriving at the door, it was already late at night. Uncertain if the owner was asleep, he approached and knocked on the door.
+1:20:12|1:20:16|The lights came on in the room, but the people inside remained silent for a long time.
+1:20:16|1:20:19|[Wang Zhao] was rejected once again, after all, it was late at night.
+1:20:38|1:20:39|Outside the county government office.
+1:21:34|1:21:36|A boating accident occurred.
+1:21:57|1:22:0|Finally, [Wang Zhao] met the county magistrate, but the villagers still did not welcome him.
+1:22:19|1:22:22|He could only smile awkwardly before turning around and leaving.
+1:22:22|1:22:29|On the way home, [Wang Zhao] once again encountered the person who claimed to be Jia Zhengshu's child before. Even when meeting the county magistrate, it seemed that nothing had changed.
+1:22:35|1:22:42|The prejudice in one's heart is said to be a huge mountain, but [Wang Zhao] just can't seem to climb over it.
+1:22:42|1:22:47|Even if you wear out an iron shoe and spend all your wealth, you still can't buy back the respect others have for you.
+1:22:47|1:22:54|He used to say that the problem was not difficult to solve, but now it seems that changing others' opinions is as difficult as reaching the sky.
+1:22:57|1:23:1|The village chief, upon seeing the situation, turned around and began searching for Wang Zhao's files in the cabinet.
+1:23:1|1:23:7|After taking out the documents, he cleared his throat and began to read aloud.
+1:24:19|1:24:22|Wang Zhao did not go to the villagers' meeting, but went back to her own home.

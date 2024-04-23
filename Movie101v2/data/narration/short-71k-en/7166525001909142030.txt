@@ -1,0 +1,427 @@
+0:1:9|0:1:13|In a wide alley, the sunlight shines particularly bright on the street.
+0:1:14|0:1:18|On a sunny day, the people were busy with their own affairs.
+0:1:18|0:1:26|At this moment, the camera shifts to a blacksmith shop on the street, where two men are standing inside, continuously hammering on the iron materials on the wooden block.
+0:1:30|0:1:37|The fire continued to burn, the smoke coiled like an iron snake in circles, getting higher and higher, gradually drifting away.
+0:1:37|0:1:45|Under the alternating blows of the large and small hammers, the iron material was stirred by the fire and emitted a scorching light, causing [Yuchi Gong] to sweat profusely and drop large particles.
+0:1:46|0:1:56|[Yuchi Gong] continued to put the iron into the fire for forging. Passersby couldn't help but marvel at his blacksmithing skills. The iron rolled under the sharpness, gleaming as if it were about to turn into water.
+0:1:56|0:2:7|On the iron needle, [Yuchi Gong] strikes while the iron is hot, sparks flying with each strike. [Yuchi Gong] swings a big hammer to strike, while the old man uses a small hammer to tap, one big and one small, one strike and one tap, one burn and one clear.
+0:2:7|0:2:14|The rhythmic sound attracted the attention of passersby, who praised the two for their superb ironworking skills and marveled at the complexity of the iron smelting process.
+0:2:15|0:2:30|Under the gaze of the crowd, [Yuchi Gong] raised the gourd of wine high, took a big sip but didn't swallow it. To the anticipation of everyone, he aimed at the spot where the iron rod had been burned by fire and sprayed the wine out. The iron rod sparked and splattered, causing the crowd to clap and cheer.
+0:2:30|0:2:42|The man came to the large wooden tub filled with water next to the anvil again, and after cooling the iron in the water, accompanied by the sound of sizzling, steam evaporated from the surface, [Yuchi Gong] revealed a satisfied smile.
+0:2:42|0:2:48|The man took out the iron material cooled in the water, which had turned into a beautiful iron whip.
+0:2:48|0:2:53|The woman in the house walked out at this moment, calling for the man and [Yuchi Gong].
+0:3:19|0:3:23|The wife turned around and walked into the house.
+0:3:23|0:3:34|The man sat directly across from [Yuchi Gong], holding a bowl larger than his own face, sighing as he ate noodles.
+0:3:44|0:3:51|The man borrowed the baby from his wife's arms, sat down slowly holding the child. The wife played with the baby's little face, the family of three was harmonious and happy.
+0:4:21|0:4:23|The child touches the bell hanging on the iron railing next to his mother.
+0:4:28|0:4:33|The wife held the child upside down, while [Su Yumei] continued to eat from the bowl.
+0:4:37|0:4:41|In the afternoon, [Li Shimin] and his father-in-law came to the square for the sacrificial ceremony.
+0:4:41|0:4:45|At the altar, the wizard drops blood into the wine and drinks it all in one gulp.
+0:4:45|0:4:52|Later, he raised the iron whip made by Jingde, held it high above his head, and sprayed the blood from his mouth onto the whip.
+0:4:52|0:4:58|The wizard lightly brushed the iron whip with his index and middle fingers, slowly slid it down, then raised the iron whip high into the sky, reciting an incantation.
+0:5:6|0:5:14|The wizard walked with big strides, turned to face the people, and watched as the wizard raised the iron whip in his hands, causing the people to kneel down and kowtow.
+0:5:14|0:5:21|Yuchi Jingde and his father-in-law knelt at the front, while the others kowtowed and recited incantations.
+0:5:21|0:5:25|Outside the village, thousands of horses galloped, but the people were unaware of the approaching danger.
+0:5:25|0:5:30|During the ceremony, Jingde placed the iron whip into the Hall of Heavenly Kings, and his father-in-law said devoutly.
+0:5:40|0:5:45|As soon as the words fell, the galloping warhorses raised a cloud of dust, casting a layer of gray over the village.
+0:5:45|0:5:50|The tranquility of the village was shattered by a thousand troops and soldiers armed with swords and spears stormed in.
+0:6:9|0:6:24|The clueless deaf-mute boy continued to spin his top, oblivious to the arrogant words of the invading soldiers. As the soldiers charged towards the child, he stood frozen in place, only realizing their presence when they were just one meter away from him and his mother.
+0:6:24|0:6:31|In the nick of time, [Yuchi Gong] rode past and grabbed the reins, causing two soldiers to fall off their horses.
+0:6:31|0:6:36|The spinning top stopped and fell to the side, while the soldier waved a spear, aiming to blind the child's eyes.
+0:6:36|0:6:40|[Su Yumei] tightly grasped the spear, restraining the soldiers' movements.
+0:6:41|0:6:44|The power gap is huge, the soldiers' hands are almost dislocated.
+0:6:44|0:6:53|Another person stabbed towards [Su Yumei], and with a block from her left arm, the spear broke into two pieces and flew into the sky.
+0:6:53|0:6:56|Immediately, [Su Yumei] forcefully pulled the soldier off the horse.
+0:6:56|0:7:2|The soldier watched as the spear fell from the sky and stabbed fiercely into his own chest, causing him to lose his breath.
+0:7:2|0:7:4|The mother quickly took the child to thank and left.
+0:7:9|0:7:19|The soldiers panicked and fled, while the villagers reminded [Su Yumei].
+0:7:19|0:7:24|In the crowd, [Su Yumei]'s wife holds her son in the wall fort, staring in shock with wide eyes.
+0:7:24|0:7:27|Outside the city, soldiers on fast horses rush to report to the general.
+0:7:32|0:7:44|General Yuchi Gong stopped General Lv Huxun's hand, looked fiercely at the soldier who was being carried, then mounted his horse and waved his hand to command the soldiers.
+0:7:44|0:7:51|General Yuchi Gong led his elite soldiers into the village with a fierce momentum, determined to seek revenge on Yu Chi Jingde.
+0:7:51|0:7:53|Father-in-law paced nervously at home, instructing Jingde Road.
+0:8:11|0:8:18|Jingde looked at the innocent child in the duck blood rain with reluctance, but the army that came to avenge on horseback did not hesitate at all.
+0:8:26|0:8:29|The soldiers split up and the father-in-law nervously closed the door.
+0:8:49|0:8:54|The wife picked up the scissors beside her, pulled out a strand of her own embroidered hair, and cut it off.
+0:8:54|0:8:58|The wife, with tears in her eyes, ran to Jingde and handed him a strand of hair.
+0:9:3|0:9:22|Wife pushed Jingde out of the back door in distress. Before Jingde could say goodbye to his wife, he saw soldiers searching the yard as soon as he ran in, so he quickly hid behind the eaves. After two soldiers relaxed their vigilance and rode away, he continued to escape, knowing that Jingde had started his own escape journey.
+0:9:22|0:9:36|He ran out of the city gate, with green mountains outside the city. Jingde was fleeing everywhere outside the city, while soldiers were searching for Jingde's family inside the city. In the rugged mountains, Jingde seemed to hear the cry of his own child.
+0:9:36|0:9:41|On the other side, in the home of Jingde, General holds a knife against the chest of Yuchi Gong, the father-in-law of Su Yumei.
+0:10:22|0:10:41|On the small path, [Yuchi Gong] turned around and flew back to the village, while in the house on the other side, [Su Yumei] snatched the child away.
+0:10:41|0:10:42|[Yuchi Gong] strides into the city gate.
+0:10:58|0:11:7|At home, the wife pleaded with [Li Shimin] in vain, crying and falling to the ground, while outside on the street, [Yuchi Gong] quickly ran to the Temple of Heaven.
+0:11:16|0:11:25|After speaking, [Yuchi Gong] ran out of the Heavenly King's Hall and looked at the streets in a mess.
+0:11:25|0:11:31|He ran into the blacksmith's shop, only to see his father-in-law lying motionless on the ground.
+0:11:31|0:11:33|[Yuchi Gong] vigorously shakes his father-in-law's body.
+0:11:38|0:11:46|[Yuchi Gong] arrived on the street, and the people fled, leaving only him to face the war brought by thousands of troops and horses alone.
+0:11:46|0:11:49|General Yuchi Gong led his troops forward on horseback, smiling proudly.
+0:11:49|0:11:55|Raising an eyebrow, the two infantrymen first swung their swords to attack the fierce Yuchi Gong.
+0:11:55|0:12:10|[Yuchi Gong] wielded the iron whip with one hand, knocking down two infantry soldiers. A cavalryman on horseback swung a big knife towards him, but [Yuchi Gong] was quick to react, using the iron whip to block the attack and then striking at the horse's side. The horse startled and turned sideways, as [Yuchi Gong] adjusted his fighting stance.
+0:12:10|0:12:18|General's spear stabbed towards [Yuchi Gong], who directly pulled the general off the horse, causing him to fall heavily to the ground. The spear was then swung towards [Yuchi Gong].
+0:12:18|0:12:28|[Yuchi Gong] noticed the blazing fire pit behind him as he held the iron whip with both hands vertically to resist, and he spun the whip to pick up charcoal fire, sparks splashing on the general's face.
+0:12:28|0:12:37|General, with no face left, shot a hidden weapon at [Yuchi Gong] in preparation to escape. The hidden weapon pierced into the left arm of [Yuchi Gong], while other soldiers swarmed in with long spears.
+0:12:37|0:12:43|[Yuchi Gong] grabbed four long spears, leaving the soldiers unable to move.
+0:13:18|0:13:35|Struggling to break free from the soldiers' encirclement, [Yuchi Gong] limped after his wife, who was being taken away, while she cried out.
+0:13:35|0:13:42|[Yuchi Gong], with red eyes, looked at his wife in pain, woke up from a nightmare, sat up suddenly, and took deep breaths to calm himself down.
+0:13:52|0:14:6|After the soldiers left, [Yuchi Gong] slowly raised his hand in the room, rubbed his knee, and then grabbed his neck. The suffocating pain felt so real, as if he had just experienced a true memory replay instead of a dream.
+0:14:6|0:14:16|After a moment of calm, [Yuchi Gong] took out a carefully wrapped handkerchief from his clothes, opened it carefully, and inside was a lock of hair cut by his wife.
+0:14:17|0:14:24|Yuchi Gong's hair was tied up with a fine rope and adorned with a jade pendant, showing how much he treasured the things left by his wife, [Su Yumei].
+0:14:33|0:14:39|Yuchi Gong was still lost in memories, while outside the window, a mysterious masked figure was surreptitiously observing the entire room.
+0:14:39|0:14:44|One day, as the morning sun rose, the light of the day still lingered with the remnants of the night.
+0:14:44|0:14:49|A mysterious man dressed as an official releases a carrier pigeon, sending the information he saw last night to elsewhere.
+0:14:50|0:14:57|At the gate of Jiezhou, [Yuchi Gong] leads the soldiers to overlook the people, understand the situation, and gaze into the distance from the city gate.
+0:14:57|0:15:0|The soldiers following [Yuchi Gong] expressed their concerns to [Yuchi Gong].
+0:15:2|0:15:26|Looking along the direction guided by the soldiers, Yuchi Gong saw a scene of chaos on the street, with war fires raging, thick smoke billowing, few people on the street, and a desperate situation. Men with leg injuries were moving with difficulty, while women were running with children. A man was seen flipping stones for fruits from Lianggang, smashing an empty jar without saying a word.
+0:15:42|0:15:51|The soldier [Li Shimin] bowed and took his leave, complex emotions surging in his heart. He turned to look into the distance, where the signboard of Jiezhou City was clearly visible.
+0:16:19|0:16:34|[Li Shimin] did not answer, the hand holding the horse tightened a bit, sitting on the horse, staying in place, frowning slightly and looking ahead, thinking. In a moment, the artillery continued to attack Jiezhou, with firearms being projected from a distance to attack the gates of Jiezhou.
+0:16:34|0:16:38|Originally, the Tang army pressed forward with a large force, while a thousand foreign cavalry invaded Jiezhou City.
+0:16:39|0:16:43|The Tang army was well-organized, well-equipped, carrying numerous weapons.
+0:16:43|0:16:48|A group of soldiers pushed a war chariot towards the city gate, trying to force it open.
+0:16:48|0:16:53|The Tang army waved their military flags, looking like victory was within their grasp, with the soldiers shouting loudly and the situation seeming inevitable.
+0:16:54|0:17:12|On the carriage door, [Yuchi Gong] commanded the troops to shoot arrows at the Tang army below the city tower. Tang soldiers climbed up the city wall with long ladders, while the defending soldiers shook the ladders and dropped heavy objects. Many Tang soldiers were hit and fell down heavily. The Tang army increased their efforts to break through the city wall, while [Yuchi Gong] called on the soldiers to defend rigorously.
+0:17:15|0:17:34|The Tang army threw weapons, taking advantage of the unpreparedness of [Yuchi Gong]'s army. Many Tang soldiers rushed up the city tower, and the two armies met in battle. The soldiers on the city gate were still shaking the ladder, throwing stones to resist the Tang soldiers climbing up the tower. Seeing this scene, [Yuchi Gong] bent his knees, pulled the bow, and shot towards [Li Shimin] riding a horse below the city, the sharp sword piercing through the Tang army flag.
+0:17:34|0:17:47|The arrow struck the man's chest directly, but he didn't struggle and fell to the ground. [Yuchi Gong] felt puzzled but didn't understand why. The real [Li Shimin] stood outside the city, watching the battle from afar on the distant mountains.
+0:17:52|0:17:57|Under the leadership of [Yuchi Gong], the soldiers pushed down the final climbing ladder of the Tang army on the wall.
+0:17:57|0:18:2|The Tang army fled in panic, and [Li Shimin] watching the battle from afar, rode away.
+0:18:2|0:18:7|The soldiers led by [Yuchi Gong] cheered on the city wall to celebrate the successful defense of the city.
+0:18:7|0:18:10|The defeated Tang army fled from the city gates in waves. 
+0:18:10|0:18:16|[Yuchi Gong] gazes into the distance from the city gate, while [Li Shimin] analyzes the topography of Jiezhou with stones in the outskirts.
+0:18:16|0:18:20|The city walls of Jiezhou are six zhang high, surrounded by mountains on three sides.
+0:18:36|0:18:59|[Li Shimin] discovered a secret, his brows relaxed, showing a hint of joy on his face. But soon, deep contemplation replaced it. He walked a few steps forward, leaning on a wooden pole and stood still. The wind blew over [Li Shimin]'s helmet, strengthening his determination. He walked to the tree where the general [Cheng Yaojin] was resting, only to find [Cheng Yaojin] sleeping soundly, shaking his head in resignation.
+0:19:11|0:19:20|[Li Shimin] immediately galloped onto the horse.
+0:19:20|0:19:27|[Cheng Yaojin] confronts Jingde, who throws [Cheng Yaojin] to the ground, injuring his hand. Meanwhile, Jingde is already chasing after [Li Shimin].
+0:19:32|0:19:38|[Yuchi Gong] chased after them bravely, with [Li Shimin] in the front and [Cheng Yaojin] riding a horse behind the two.
+0:19:38|0:19:44|Alert and urgent, the three individuals were not far apart, galloping on horseback together with the vast desert and the long river.
+0:19:44|0:19:46|Forming a straight line extending to the sky.
+0:19:46|0:19:58|When crossing the river, [Li Shimin] and [Yuchi Gong] easily waded through the water on their horses, while [Cheng Yaojin], being larger in stature, lost his balance and fell off the horse into the water.
+0:19:58|0:20:4|[Cheng Yaojin] looked disheveled, adding a touch of threatening humor to the tense and exciting chase.
+0:20:18|0:20:22|When [Cheng Yaojin] got up to chase the horse, the slope had already been occupied by the Tang army.
+0:20:22|0:20:30|On the small slope, Qin Shubao shot arrows towards [Yuchi Gong] in the distance.
+0:20:30|0:20:37|Jingde, quick-eyed and quick-handed, grabbed the sword from the side. [Li Shimin] had already ridden far away, while Jingde dismounted to face Qin Shubao.
+0:20:41|0:20:58|Qin Shubao threw the bow and arrow to the soldier behind him to catch, then dismounted and drew the double-sided attack from his back to attack Jingde. Jingde defended with an iron whip, while Qin Shubao pressed on step by step. Jingde dodged by flipping backwards, the two were evenly matched, and after several rounds of confrontation, it was hard to determine the winner.
+0:20:59|0:21:3|Li Shimin called for a small group of reinforcements to come from afar.
+0:21:3|0:21:10|Qin Shubao held Jingde's iron whip from both sides, and the two brave and skilled generals, [Yuchi Gong] and [Li Shimin], sized each other up.
+0:21:10|0:21:19|Just as the two were deadlocked, [Li Shimin] appeared with his troops.
+0:21:19|0:21:24|The two of them put away their weapons and moved apart.
+0:21:24|0:21:28|Li Shimin dismounted and walked over to face Jingde and Qin Shubao.
+0:22:8|0:22:17|Not far away, a burly mysterious man hides beside a big tree, silently observing everything, respectfully saluting and taking his leave [Li Shimin].
+0:22:17|0:22:23|But no one noticed the mysterious man lurking in the woods on the side.
+0:22:23|0:22:29|Watching as Yuchi Gong rode away on his horse towards the Jade Pool, Li Shimin solemnly declared to Qin Shubao.
+0:22:36|0:22:50|After Yuchi Gong returned to the military camp, he celebrated with his military advisor, who couldn't stop smiling. They raised their glasses and drank heartily. The military advisor then set down his cup and asked Yuchi Gong.
+0:23:8|0:23:23|Jingde stood up, walked to the military map behind the military strategist, stood in front of it, found Binzhou on the map, and turned to the military strategist with a worried expression, asking.
+0:23:23|0:23:35|Yuchi Jingde looked at the map of Binzhou with a mixture of belief and doubt, while the military advisor smirked and looked at Jingde with a sly smile. Jingde spoke as he walked.
+0:24:19|0:24:29|The military advisor was frightened, hesitated for a moment in shock. Jingde saw the military advisor's stunned reaction and couldn't help but laugh out loud, prompting the military advisor to quickly respond to Jingde.
+0:24:59|0:25:4|Speak, threatening the strategist with arrows in hand, the strategist retreats repeatedly.
+0:25:4|0:25:10|In the next moment, Jingde shot the green arrow in his hand, and the arrow flew past the left side of the military advisor's face, scaring the military advisor to close his eyes.
+0:25:10|0:25:16|Jingde left the camp, and the military advisor carefully opened his eyes, with arrows sticking straight into the map of Binzhou City.
+0:25:16|0:25:19|In the evening, [Yuchi Gong] and his subordinates conspired.
+0:25:35|0:25:46|The man below is the one who was spying in the woods before. After the strategist left, the man kept an eye on Jingde's room. The next day, Cheng Yaojin aimed his bow at the pigeons flying in the sky.
+0:25:52|0:26:2|With one strike hitting the target, Cheng Yaojin ran to where the prey fell and picked up a carrier pigeon, unexpectedly finding a piece of paper tied to its foot. He untied the paper and handed the intelligence over to [Li Shimin].
+0:26:24|0:26:30|In the military camp, [Li Shimin] showed a confident smile, indicating his determination as he sat back on the throne and gave orders.
+0:26:47|0:26:53|Prince Jin's military advisor, accompanied by Sui soldiers, watched the Tang army retreat from the city gate and said to the Sui soldiers.
+0:27:33|0:27:38|The strategist squinted his eyes, turned around with a grim expression, and the two of them left the city gate.
+0:27:38|0:27:49|After nightfall, [Su Yumei] rested in her room. The lingering sounds in the courtyard added to [Su Yumei]'s sorrow and anxiety. She pushed open the door to change her mood, and sighed with her head lowered.
+0:27:49|0:28:0|In the sky, the bright moon hangs high, half of the moon is shrouded in darkness. The moon is half bright and half dark, just like the mood of [Su Yumei]. [Su Yumei] misses his wife and children, worrying about their safety.
+0:28:1|0:28:13|Raising his head to look at the moon, [Yuchi Gong] had already reddened his eyes. In the light and shadow of the crescent moon, he seemed to see his wife and children.
+0:28:13|0:28:20|[Su Yumei] is thinking that her wife and children may have been imprisoned by the enemy, waiting for her to go and rescue them.
+0:28:30|0:28:35|The hazy crescent moon added a touch of melancholy to [Su Yumei] as she thought about it.
+0:28:35|0:28:52|He, with red eyes, slowly lowered his head, blaming himself inwardly, looking at a strand of embroidered hair tied with a thin rope in his hand, playing with the jade pendant and bells tied to the rope. The softness in his heart was touched, settling his longing for his wife and children. But suddenly, [Yuchi Gong] burst in, breaking through the rare bottleneck in his heart.
+0:29:7|0:29:12|[Su Yumei] rode away on horseback with worry, leaving Jiezhou City alone in the night, heading towards Bingzhou.
+0:29:12|0:29:15|The dark night added a mysterious atmosphere to the forest.
+0:29:15|0:29:19|[Yuchi Gong] rode to the outskirts and found a carriage overturned in the woods.
+0:29:28|0:29:32|The man held an iron chain and quickly wrapped it around the neck of Yuchi Gong.
+0:29:32|0:29:36|[Yuchi Gong]'s voice caught the attention of the soldiers dozing off next to the carriage.
+0:29:36|0:29:39|The soldiers rushed over and grabbed [Yuchi Gong] by the neck from behind.
+0:29:39|0:29:42|[Yuchi Gong] shook off the two and fell to the ground.
+0:29:42|0:29:46|More soldiers could be seen emerging, falling down regretfully as they were pressed underneath.
+0:29:46|0:29:53|The soldiers together dragged [Yuchi Gong], whose neck was held by an iron chain, backwards. Several of them then tied up [Yuchi Gong] to a tree with his limbs bound.
+0:29:54|0:30:0|Jingde couldn't break free, holding tightly onto the iron chain around his neck to prevent suffocation.
+0:30:3|0:30:6|The strategist walked over with a sinister smile.
+0:30:43|0:30:46|Yuchi Gong exerted all his strength, trying to break free from the iron chains.
+0:30:46|0:30:48|A soldier walked forward, wielding a sword and then shooting out a sharp blade.
+0:30:51|0:30:56|It turned out that halfway through, [Cheng Yaojin] suddenly appeared and shot the soldier who was about to turn back with an arrow.
+0:30:56|0:31:0|[Cheng Yaojin] brought a group of soldiers, frightening [Yuchi Gong] and his companions.
+0:31:0|0:31:17|[Yuchi Gong] set up a trap, and all his men were defeated. The brave Tang soldiers fought fiercely, searching for [Yuchi Gong]'s whereabouts.
+0:31:17|0:31:19|[Yuchi Gong] in the carriage was discovered by [Cheng Yaojin].
+0:31:22|0:31:40|[Cheng Yaojin] knocked down two enemy soldiers and blocked their path towards the carriage.
+0:31:40|0:31:46|Iron Chain Jinde walked over, he threw down the iron chain and grabbed [Yuchi Gong]'s throat, pressing [Yuchi Gong] against the tree.
+0:31:55|0:32:5|[Yuchi Gong] was killed by a sword.
+0:32:5|0:32:7|Managed to hold up the fallen Yuchi Gong.
+0:32:13|0:32:20|The military strategist has already died, falling heavily to the ground. [Yuchi Gong] walks slowly in despair and tears, as [Cheng Yaojin] shouts.
+0:32:29|0:32:35|[Yuchi Gong] hesitated, looking pained, and asked [Cheng Yaojin]. [Cheng Yaojin] smiled and walked over.
+0:32:56|0:32:57|[Li Shimin] hurriedly arrived on horseback.
+0:32:57|0:32:59|Yuchi Gong looked up in confusion and said with a hint of admiration.
+0:33:40|0:33:44|Bowing his head, he turned around to leave.
+0:33:44|0:33:47|Li Shimin dismounted and followed closely.
+0:33:47|0:33:53|Li Shimin walked up to Yuchi Gong and asked him sideways.
+0:34:4|0:34:7|Xiao Wang is deeply unsettled.
+0:34:23|0:34:28|[Li Shimin] thought about this question, walked confidently behind [Yuchi Gong], and answered.
+0:34:28|0:34:33|[Yuchi Gong] respectfully kneels before [Li Shimin].
+0:35:2|0:35:11|The two of them were extremely worried, [Yuchi Gong] looked anxiously towards Jiezhou, and the next day led the Tang army to march out to rescue the city of Jiezhou.
+0:35:13|0:35:16|Become the right-hand man of [Li Shimin].
+0:35:23|0:35:32|Wherever Fan Jingde's army went, they were invincible in battle, sweeping away all obstacles in the way of the Tang army. Fan Jingde fought on the battlefield for Li Shimin, achieving great victories and renowned military exploits.
+0:35:49|0:35:57|Outside the grand Tang palace, with a majestic presence and heavy military guards, everything is flourishing and full of vitality.
+0:35:57|0:36:0|Within the Forbidden City, the people live and work in peace and prosperity, with flourishing trade and transportation.
+0:36:8|0:36:17|In the market inside the city, vendors are shouting, sugar merchants are selling novelty items everywhere, women are dressed beautifully, and life is happy.
+0:36:17|0:36:27|Outside the city in the suburban woods, [Li Shimin] and Yuchi Jingde led the troops to ride and hunt, looking for prey. They stopped their horses, and a soldier reminded [Li Shimin].
+0:36:32|0:36:36|Yuchi Gong, Su Yumei, and Li Shimin rode after them, while Xiong Ji was searching for food under the tree.
+0:36:36|0:36:38|Li Shimin and his group approached cautiously.
+0:36:38|0:36:44|[Li Shimin] and [Yuchi Gong] slowly took aim with their bows, afraid of startling the grouse.
+0:36:44|0:36:47|[Li Shimin] aimed, quick-eyed and quick-handed, and shot out an arrow.
+0:36:47|0:36:50|The arrow pierced the body of the bear chicken, and everyone cheered.
+0:37:42|0:37:45|[Li Shimin] agreed and left on his horse from Jingde.
+0:37:45|0:37:49|Watching Jingde's figure disappear into the distance, [Li Shimin] let out a heavy sigh.
+0:37:49|0:37:59|Before long, Yuchi Gong led the horse to the riverside. With tall trees and short grass, a thin horse in the west wind, clear water under a sunny sky, one person and one horse slowly walked along the riverbank.
+0:37:59|0:38:2|Not far away, [Li Shimin] and his group are galloping through the woods, searching for prey.
+0:38:6|0:38:14|Seeing the prey in front of him, [Li Shimin] felt excited, drew the arrow from his back, pulled the bow and aimed at the wild rabbit grazing not far away.
+0:38:14|0:38:22|Unlike the intense chase with Lin Jian, by the riverside it felt like being in a paradise. Yuchi Gong lowered his head to drink water, unexpectedly standing by the horse for a long time before going into battle.
+0:38:22|0:38:26|And Lin Jian was still hunting nervously.
+0:38:28|0:38:29|Suddenly slowed down.
+0:38:30|0:38:41|[Li Shimin] raised his hand to signal everyone to move on, carefully observing the path of the rabbit. After leading the rabbit away, he led the troops to chase after it, while Jingde stayed by the river with the old horse.
+0:38:41|0:38:47|Old Ma drank his fill of water and raised his body, seeing Yuchi Gong slowly lifting a handful of water, rubbing the side of Su Yumei's face with his nose.
+0:38:47|0:38:53|Jingde misses his wife and children deeply, and the water ripples in front of him with the faces of his wife and children.
+0:38:53|0:38:57|Ma Dongmei leaned against Jingde, as if comforting him. Jingde reached out and stroked Ma Dongmei.
+0:38:59|0:39:4|Li Shimin and his companions chased the rabbit into the depths of the forest, but their vision was blocked by thick fog.
+0:39:15|0:39:21|The mist lingered, the cold wind blew, and the slanting wind that disturbed the leaves made the mountains and forests extremely eerie.
+0:39:21|0:39:24|The soldiers all gripped their sword hilts, on edge.
+0:39:24|0:39:31|Li Shimin and his companions could only hear the sound of footsteps and horse hooves carried by the cold wind, but they couldn't see who was approaching.
+0:39:31|0:39:39|A group of strong men dressed in the attire of the northern frontier stand behind the bushes, bows hidden beside the trees, arrows nocked and ready to be released.
+0:39:49|0:39:57|The two armies confront each other, [Li Shimin] rides away, but the enemy soldiers are armed with bows and arrows, making it impossible for the Tang army's swords to match them.
+0:39:57|0:40:5|An enemy soldier shot [Li Shimin] in the back with an arrow, and then helped him mount a horse to escape.
+0:40:8|0:40:24|A thick fog enveloped the area as the enemy troops pursued relentlessly on horseback, creating a grand and imposing scene. The commotion caught the attention of [Yuchi Gong] not far away, who promptly rushed to rescue [Li Shimin]. With a swift move, Yuchi Gong blocked the enemy's path with his sword drawn. A soldier from the enemy side swung his blade towards Yuchi Gong, who intercepted the attack and then swiftly kicked another soldier, causing him to fall to the ground.
+0:40:25|0:40:30|Yuchi Gong pursues the enemy and dismounts two soldiers from their horses, throwing them heavily to the ground.
+0:40:30|0:40:36|A petite soldier on horseback swiftly attacks with a quick blade, easily snatching the broadsword from Yuchi Gong.
+0:40:36|0:40:44|A soldier somersaulted off the horse and landed on the ground, with long hair catching everyone's attention. It turned out to be a beautiful woman, who stared arrogantly at Yuchi Gong.
+0:40:44|0:40:50|Yuchi Gong inserted the sword taken from Jinde into the ground, frightening the enemy soldiers to the ground and unable to get up, while a soldier on a fast horse came to report.
+0:40:58|0:41:2|[Li Shimin] stayed in place, but the enemy's large army had already arrived.
+0:41:21|0:41:41|Turkish soldiers entered the border, burning, killing, and looting, committing all kinds of atrocities. In the village, the flames of war were raging, with the sound of battle cries filling the air. The brave soldiers of the Tang Dynasty fought against the Turkish soldiers, sacrificing themselves for their country. The battle was fierce and intense, with drums of war thundering. The Tang army, like a pack of wolves and tigers, was unstoppable, achieving victory in every battle. They fought with their backs against the water.
+0:41:41|0:41:50|Placed in a desperate situation, the frontline soldiers of the Tang Dynasty maneuver through the battles with swords and shadows, thrilling and galloping on the battlefield, crushing the Turkic army.
+0:42:12|0:42:15|At the moment when the butcher raised his knife, he said to the Turkic beauty who was fighting against Yuchi Gong,
+0:42:34|0:42:38|The Turkic princess knelt down defiantly, and at the moment when [Yuchi Gong] swung his sword, something unexpected happened.
+0:42:40|0:42:53|Yuchi Gong rode a fast horse and arrived at a gallop. After stopping the Han Xue treasure horse at the foot of the hill, he angrily glared at the soldiers preparing to slaughter the prisoners of war, and signaled a stop to the [Butcher] with a glance at the Turkic princess.
+0:42:55|0:42:57|The leading soldier said triumphantly.
+0:43:24|0:43:34|Prince Qi arrived and called out to the two confronting individuals. They both knelt down and bowed to Prince Qi.
+0:43:34|0:43:40|Prince Qi, fully armed and in a spirited manner, rode his horse around the two, sizing up Su Yumei.
+0:43:40|0:43:45|After a long pause, Yuchi Gong finally interviewed Su Yumei with an impatient tone, and said, "..."
+0:43:59|0:44:3|The prisoners of war have now laid down their weapons.
+0:44:21|0:44:23|Prince Qi watched Jin De intently.
+0:44:23|0:44:31|Soon after, the Turkic princess was hung horizontally on a tree, with five long ropes placed beneath her. If she fell accidentally, her life would be in danger.
+0:44:31|0:44:32|Prince Qi said.
+0:44:43|0:44:47|The Turkic princess glared at the cunning [Li Shimin], while [Yuchi Gong] bowed and said.
+0:44:51|0:45:11|Li Shimin's words had just fallen, and the soldier standing next to Yuchi Gong immediately attacked him with a beast. Yuchi Gong first caught the long weapons in the hands of the two soldiers with both hands, kicked with his feet, and the two fell to the ground. Then he used the two weapons he had taken to resist the attacks of others, swinging the weapons to raise the yellow sand. The other soldiers were no match for Yuchi Gong at all, and all fell to the ground and could not get up.
+0:45:12|0:45:16|As the incense stick is about to burn out, [Li Shimin] has no choice but to dismount himself.
+0:45:16|0:45:22|In a moment of impatience, [Li Shimin] rushed forward and stabbed at [Yuchi Gong], but [Yuchi Gong] grabbed his wrist.
+0:45:22|0:45:26|[Yuchi Gong] fought bare-handed, making [Li Shimin], who was armed, too intimidated to make a move.
+0:45:26|0:45:33|In the end, [Li Shimin] dropped the Changshuo in his hand along with the burning incense, while [Yuchi Gong] kicked the pine rope and saved the princess.
+0:45:37|0:45:45|The soldiers surrounded King Qin to protect him, and the rescued princess looked at Jingde with admiration and respect in her eyes.
+0:45:45|0:45:52|King Qin's eyes were burning with anger as he glared at [Yuchi Gong], his terrifying gaze filled with hatred, brewing a desire for revenge and blood feud.
+0:45:52|0:46:1|At night, everyone returned to the Tang army camp. In [Yuchi Gong]'s tent, the princess was taking a bath in a wooden tub, slowly pouring water over herself.
+0:46:1|0:46:4|Just then, [Yuchi Gong] happened to return to the military camp.
+0:46:19|0:46:28|The princess slowly stood up with the help of the bucket, water droplets sliding down her body. Before she could wipe them off, she was draped in a soft silk robe.
+0:46:28|0:46:35|Later, [Princess] turned sideways, lightly stepped out of the wooden tub, walked down the steps step by step, and spoke to Jingde with interest.
+0:46:54|0:47:5|Yuchi Gong, in a nervous state, quickly released Su Yumei's hands from his embrace, ran out of the tent, leaving Su Yumei standing there feeling lost, watching Yuchi Gong's figure disappear into the distance.
+0:47:5|0:47:10|Outside the tent, the Crown Prince rode back to the camp on horseback, welcomed by the Prince of Qi.
+0:47:56|0:48:2|[Li Shimin] stopped and the crown prince looked at Jingde with great interest, Jingde said.
+0:48:19|0:48:32|Speak up, Jingde pulled out a sword from the waist of Prince Qi, after five swords, he unbuttoned his shirt, revealing the long scar on his back. [Li Shimin] was shocked and speechless, while there were still scars of varying depths on Jingde's chest and arms.
+0:48:32|0:48:36|Li Shimin spoke as he saw the Crown Prince Leng Heng.
+0:48:43|0:48:48|[Li Shimin] and the soldiers knelt down one after another to beg for mercy for Jingde, which greatly offended the Crown Prince and his king, leading to a final decree.
+0:49:4|0:49:7|Li Shimin bid farewell to Jingde in the mountains as the sun set in the west.
+0:49:36|0:49:47|Yuchi Gong knelt down solemnly in front of [Li Shimin], his knees hitting the ground and raising a cloud of dust. Then, with great respect, Yuchi Gong bowed to [Li Shimin] and performed the kowtow ceremony.
+0:49:47|0:49:52|Li Cheng, [Li Shimin] couldn't contain his emotions, he touched Jingde's hands and helped him up.
+0:49:52|0:49:57|The two of them, Yuchi Gong and Su Yumei, looked at each other with reluctance, tears already welling up in their eyes.
+0:49:57|0:50:4|In De's eyes were full of gratitude, grateful for the mercy in the midst of war, grateful for the monarch's discerning grace.
+0:50:5|0:50:9|Li Shimin's eyes were filled with guilt, but more with reluctance.
+0:50:9|0:50:17|Ashamed of not giving General Yuchi Gong the treatment he deserved, reluctant to let go of the pillar he had nurtured, he was about to leave and wander the world.
+0:50:17|0:50:24|Even the usually carefree Yuchi Gong couldn't bear to watch such a sad scene, he turned around and walked away with his head down.
+0:50:24|0:50:29|Jingde, seeing the situation, quietly took the black horse's reins and left.
+0:50:29|0:50:32|Jingde led his sweat-blooded horse, which had accompanied him in battles for many years, back to his hometown.
+0:50:54|0:51:0|This is the place where he forged weapons, and also the starting point of his battlefield conquest.
+0:51:37|0:51:41|The Heavenly King's eyes looked puzzled and thin, as if he could see through the affairs of the world.
+0:51:58|0:52:3|He then stood up and respectfully placed the iron whip on the offering rack in front of [Yuchi Gong].
+0:52:3|0:52:9|Leaving the Heavenly King's Palace and walking towards home, Jingde witnessed the hardships of the world, with streets covered in sand and dust.
+0:52:9|0:52:12|The old man carrying a burden on his shoulders, pouring into the sorrow of life.
+0:52:13|0:52:19|Jingde returned to the dilapidated blacksmith shop, the merciless dust seemed capable of blowing the shop down to pieces.
+0:52:19|0:52:26|He looked at the crooked signboard and the smoke-filled ground, the blacksmith shop was already a wreckage, lifeless. 
+0:52:26|0:52:34|In Jingde's eyes, tears welled up, but in a blink of an eye, it seemed as if his wife was still smiling sweetly at him after preparing a meal.
+0:52:34|0:52:39|His wife in his eyes was calling the family to dinner, and Jingde was about to go up to her.
+0:52:39|0:52:45|Upon another look, the figure in front of me had disappeared, and the blacksmith shop had returned to its current dilapidated state.
+0:52:45|0:52:49|He reached out to grab his wife, but couldn't touch her, no matter how hard he tried.
+0:52:49|0:52:55|Jingde lowered his head and saw that the ground was covered with broken bowls and dishes, a mess that was unbearable to look at.
+0:52:55|0:53:3|Under the chaotic stack of hay, he picked up a familiar fragment and examined it carefully. It was the large bowl his wife used to serve him meals years ago.
+0:53:4|0:53:13|Memories flooded back, the bowl that once held steaming hot meals, now shattered and scattered on the cold ground.
+0:53:13|0:53:21|[Yuchi Gong] tried hard to suppress his sadness, picked up the fragments and walked slowly into the room. But when he pushed open the door, all that greeted [Yuchi Gong] was the merciless dust.
+0:53:22|0:53:26|The room was filled with dust, as if shrouded in a layer of shadow.
+0:53:26|0:53:30|[Yuchi Gong] walked slowly, suddenly his feet were tripped by something.
+0:53:30|0:53:34|Under the thatched roof, [Yuchi Gong] saw the buried scissors.
+0:53:34|0:53:42|He bent down, carefully pushed aside the straw, picked up the scissors that had fallen on the ground, and gently brushed off the dust attached to the scissors.
+0:53:57|0:54:3|At this point, [Yuchi Gong]'s tears couldn't be stopped anymore, holding the scissors full of memories, he broke down and cried uncontrollably.
+0:54:3|0:54:10|The mighty and undefeated General [Yuchi Gong], a seven-foot tall man, is now crumbling in memories and breaking down.
+0:54:18|0:54:24|Time has not diminished the sorrow in [Yuchi Gong]'s heart, and his longing for his wife and children has only grown stronger over the past twenty years.
+0:54:24|0:54:31|No one knows how Yuchi Gong spent these twenty years, and no one knows the inner vulnerability of this invincible hero.
+0:54:32|0:54:40|In the distance, within the territory of the Turks, a young warrior hangs upside down with one leg on the side of a horse, while two Turk soldiers with long spears confront the young warrior.
+0:54:40|0:54:51|With a swing of his sword, the soldiers were unable to block, the young warrior galloped on horseback and shot arrows, hitting the bullseye, simultaneously shooting two arrows, each hitting the center of two targets.
+0:54:51|0:54:58|The Khan and the soldiers watching cheered, but the young warrior clearly was not satisfied with such archery skills and applause.
+0:54:58|0:55:2|He continued to ride forward on horseback, already ten meters away from the target.
+0:55:2|0:55:9|In the midst of the audience's confusion, the young warrior bent down and shot an arrow backwards, hitting the bullseye directly from behind the target.
+0:55:14|0:55:16|After the defeat of the Turkic soldiers.
+0:55:29|0:55:36|The young warrior Yuchi Gong shouted joyfully.
+0:55:36|0:55:42|[Li Shimin] stood on the city wall, looking at the back of the young warrior leading the troops away, and asked the strategist beside him.
+0:55:52|0:56:0|Both of them remained silent, [Li Shimin] looked down at the city with concern, quietly contemplating, his eyes gazing into the distance.
+0:56:20|0:56:23|[Li Shimin] apologized with a guilty expression.
+0:56:25|0:56:29|After a moment of contemplation, [Li Shimin] said.
+0:56:31|0:56:36|[Li Shimin] and [Cheng Yaojin] arrived at Jingde's hometown, where the village had regained its former vitality.
+0:56:36|0:56:37|Li Shimin sighed.
+0:56:59|0:57:9|In the blacksmith shop, an apprentice saw someone approaching from afar and ran inside to report to Jingde. After the apprentice came out, he continued to stoke the fire. Yuchi Gong walked closer and asked with a smile.
+0:57:17|0:57:31|[Cheng Yaojin] and [Li Shimin] followed the apprentice into the house to find Jingde.
+0:57:31|0:57:37|The apprentice led the two to the backyard.
+0:57:37|0:57:39|[Cheng Yaojin] was hit in the face with mud and fell to the ground.
+0:57:56|0:57:57|Jingde hugged the big goose and sat down.
+0:58:19|0:58:37|[Li Shimin] asked, [Cheng Yaojin] with a face full of dirt, angrily said.
+0:58:37|0:58:42|[Li Shimin] stood up in sorrow and anger, the two looked at each other, and then he left in disappointment.
+0:58:42|0:58:48|Jingde looked at Goose in silence, standing in place with a silly smile, while the apprentice followed behind the two muttering.
+0:58:52|0:58:57|[Li Shimin] followed [Cheng Yaojin], but [Cheng Yaojin] stopped and walked towards the stable of Jingde.
+0:58:57|0:59:0|The apprentice followed in astonishment, staring at [Cheng Yaojin].
+0:59:0|0:59:2|[Cheng Yaojin] looked at the horse and sighed.
+0:59:37|0:59:46|[Li Shimin] gave the apprentice a silver ingot and left. The apprentice held the silver, feeling somewhat guilty as he watched the two figures walk away.
+0:59:46|0:59:52|[Li Shimin] and [Cheng Yaojin] walked their horses on the street. [Li Shimin] hung his head and sighed constantly, lamenting.
+1:0:8|1:0:13|[Cheng Yaojin] suddenly turned around, took down the wine gourd hanging on the horse, and ran towards the Jingde family.
+1:0:13|1:0:18|[Li Shimin] was a bit puzzled. In a moment, [Cheng Yaojin] arrived at the backyard of the Jingde family with wine in hand, calling out.
+1:0:42|1:0:58|Jingde arranged seeds into a pattern, and [Cheng Yaojin] filled two bowls with wine.
+1:0:58|1:1:1|Cheng Yaojin drank up in one gulp, and [Yuchi Gong] also drank heavily.
+1:1:1|1:1:6|Cheng Yaojin seized the opportunity to snatch the handkerchief from [Yuchi Gong]'s clothes, and [Yuchi Gong] stood up to take it back.
+1:1:6|1:1:8|Cheng Yaojin laughed heartily until [Yuchi Gong] spoke.
+1:1:36|1:1:39|[Li Shimin] helps up [Yuchi Gong].
+1:1:57|1:2:5|Stunned by Cheng Yaojin's question, [Yuchi Gong] stood still, tears in his eyes, trembling corners of his mouth expressing the bitterness and unwillingness that [Yuchi Gong] could not put into words.
+1:2:5|1:2:13|[Yuchi Gong] looked ahead with red eyes, then [Yuchi Gong] went to the Hall of the Heavenly Kings, opened the door, and placed the iron whip at the offering place of the Heavenly King.
+1:2:13|1:2:17|[Yuchi Gong] respectfully looked at the Heavenly King, and said earnestly.
+1:2:33|1:2:35|[Yuchi Gong] picked up the iron whip, and dust rose in the air.
+1:2:35|1:2:39|Yuchi Gong looked at the weapons that had accompanied him in battles from all directions with some excitement.
+1:2:39|1:2:43|The statue of the Heavenly King overlooks from a high position, as if his eyes can see everything.
+1:2:43|1:2:47|[Li Shimin] and Cheng Yaojin also arrived at the Heavenly King's Hall to observe the Jingde.
+1:2:47|1:2:51|After making all the necessary arrangements, the three of them returned to Bailiang Pass to lead the troops into battle.
+1:2:51|1:2:55|The unpredictable storm, outside Bailiang Pass, marks the beginning of a great battle.
+1:2:56|1:3:7|Tang soldiers and Turkic soldiers are engaged in a fierce battle under the towering mountains and steep ridges, with war drums thundering, military flags fluttering, and thick smoke obscuring the sky, the sound of drums echoing powerfully.
+1:3:21|1:3:24|Jingde looked at Baolin, feeling both surprised and very familiar.
+1:3:33|1:3:37|Jinde and Baolin locked eyes, with a look of anger and determination to win in Baolin's eyes.
+1:3:38|1:3:42|Jing De tightened the reins of the horse, while Bao Lin gripped the iron whip in his hand.
+1:3:42|1:3:48|Almost simultaneously, Jingde and Pauline rushed towards each other on horseback, and the duel began.
+1:3:48|1:3:52|Both of them swung their weapons, and both fell off their horses and rolled to the ground.
+1:3:52|1:3:56|With weapons in hand, [Yuchi Gong] and [Su Yumei] struggled to stand up.
+1:3:56|1:4:2|[Yuchi Gong] was shocked and stunned as he stared at the bell pendant hanging on [Su Yumei]'s iron whip.
+1:4:2|1:4:5|[Su Yumei], after adjusting her stance, charged towards [Yuchi Gong] with an iron whip.
+1:4:6|1:4:11|[Su Yumei] has tremendous strength and extremely fast attack speed, forcing [Yuchi Gong] to retreat repeatedly.
+1:4:11|1:4:21|[Yuchi Gong] struggled to block [Su Yumei]'s iron whip, he looked at [Su Yumei]'s iron whip and asked.
+1:4:21|1:4:30|[Yuchi Gong] took the opportunity to knock the bell off the iron whip of [Su Yumei], caught the bell carefully and rang it, [Yuchi Gong] asked [Su Yumei] in shock.
+1:4:34|1:4:42|[Su Yumei] angrily attacks [Yuchi Gong], while [Yuchi Gong] holds an iron whip, restraining [Su Yumei].
+1:4:42|1:4:50|In the midst of the struggle, after the two forcefully separated from each other, [Yuchi Gong] raised the iron whip and carefully examined it, only then did he remember that his son's name was engraved on the whip.
+1:4:56|1:5:8|[Yuchi Gong] knelt joyfully on the ground, [Su Yumei] regained her strength and stood up, wielding an iron whip to strike at [Yuchi Gong], who lost consciousness in his joy.
+1:5:8|1:5:16|Bao Ling swung the iron whip towards Jingde, who closed his eyes to welcome his son's attack. After Bao Ling hit Jingde, she stood stunned in disbelief.
+1:5:16|1:5:23|Blood flowed down Jingde's left arm, Baoling felt extremely puzzled, slowly put down her hand, the Turkic soldier with an arrow in his mouth shouted.
+1:5:26|1:5:46|The Turkic soldiers surged forward, with [Li Shimin] leading the Tang army to meet them. Warriors charged ahead, wielding their swords and spears, fighting bravely and shedding blood on the battlefield. Life seemed so insignificant in the midst of battle, as the soldiers shouted slogans with great sorrow. In the intense and chaotic melee, Jingde remained kneeling in place, while Bolin stood opposite him.
+1:5:46|1:5:50|Cheng Yaojin, holding an axe, charges forward to attack Baolin.
+1:5:50|1:5:56|Baolin used an iron whip to confront Cheng Yaojin, knocking him off his horse, stepping on him, and raising the iron whip to threaten him.
+1:6:4|1:6:9|The Tang soldiers were in disarray, with a sense of impending danger lingering in their hearts.
+1:6:9|1:6:12|Fleeing in panic, they ran back into the White Tower Pass, where the Turkic army achieved a great victory.
+1:6:13|1:6:35|Bao Ling, who had achieved a great victory, did not feel the unprecedented satisfaction. She lay on the rocks outside the city, looking at the vast sky. The iron whip stood in front of her, witnessing the tragic past of Bao Ling's separation from her mother.
+1:6:35|1:6:39|Years ago, a mother was holding a baby to escape from a group of soldiers' pursuit.
+1:6:43|1:6:51|The mother exchanged Baoling for tree branches on the ground, and Baoling hid in the bushes with an iron whip.
+1:6:51|1:6:53|The mother ran to the edge of the cliff, with no way to escape.
+1:6:57|1:7:3|The young Baoling cowered in silence on the side, while her mother, looking at the cliff behind her, was forced to retreat step by step.
+1:7:3|1:7:12|She suppressed her tears and leaped into the cliff, leaving her mother with a disfigured face, only to find branches wrapped in the fortress.
+1:7:12|1:7:18|Baoling thus saved her life. The thought of this made Baoling extremely heartbroken, unable to lift her head.
+1:7:18|1:7:21|[Yuchi Gong] also cherishes the past.
+1:7:45|1:7:50|[Yuchi Gong] felt a myriad of emotions as he hung the bell he had taken on the iron edge.
+1:7:50|1:7:54|The gentle call of his wife as she hangs a bell on the edge of the bowling alley together.
+1:8:2|1:8:8|[Yuchi Gong] focused on hanging the bell on the iron edge, quiet, unaware of the unusual surroundings.
+1:8:9|1:8:13|A arrow suddenly shot out from a distance, piercing into the tree trunk beside.
+1:8:13|1:8:19|Jingde carefully examined the arrows, then looked in the direction they were shot from, but did not see the archer.
+1:8:19|1:8:28|So he pulled the arrow from the tree trunk and found a piece of paper tied to the arrow, with calligraphy written on it in scrolls.
+1:8:55|1:9:0|Speak, Jingde bid farewell to [Li Shimin] on horseback and ventured into the woods alone.
+1:9:0|1:9:10|[Li Shimin] and the soldiers watched Jingde's back with some anxiety, but Jingde did not look back, riding alone into the depths of the forest to rescue Cheng Yaojin.
+1:9:10|1:9:18|Upon entering the forest, a layer of mist pervaded the air. Yuchi Gong cautiously looked around, seeing no one in sight. He still did not dare to let his guard down.
+1:9:18|1:9:23|Suddenly, Baolin rode out from the haystack on horseback, wielding an iron whip and charging towards Jingde.
+1:9:27|1:9:30|Baolin is on horseback, looking down at him as he speaks.
+1:9:53|1:9:59|[Baoling] dismounted and stood on the ground, looking directly at Jingde, then rushed forward the next second.
+1:9:59|1:10:18|Jingde raised his left hand and resisted with his right hand. While the two were in close combat, not far away on the cliff, a group of soldiers ambushed by the Turkic Khan. The two were completely unaware. Jingde asked while fighting against [Baoling], who pushed Jingde away and angrily said.
+1:10:24|1:10:27|[Baoling] was instantly enraged, Jingde was knocked aside.
+1:10:51|1:11:11|During the argument between the father and son, Cheng Yaojin was hanging on a tree shouting slogans. The Tang army, led by [Li Shimin], performed with drums and horns sounding in unison. [Li Shimin] drew his sword to boost morale, and the soldiers raised their arms high and cheered, launching an attack on the Turkic army. Turkic soldiers rushed forward to engage in battle, with both sides evenly matched and the fighting intense.
+1:11:11|1:11:13|Heart-pounding and thrilling.
+1:11:13|1:11:20|While hanging on a tree in the woods, [Cheng Yaojin] watched as [Jingde] and [Baoling] fought below, still shouting for a turn.
+1:11:25|1:11:30|Turkish soldiers had already set up an ambush formation on the distant mountains, aiming their bows.
+1:11:30|1:11:34|At the foot of the mountain, [Bao Lin] restrains [Jing De]'s weapon on a tree trunk.
+1:11:46|1:11:50|The weapon left a crack on the tree trunk, [Bao Lin] pushed [Jing De] onto the tree.
+1:11:58|1:12:2|[Li Shimin] shouted, and [Yuchi Gong] swung the iron whip towards [Li Shimin]'s head.
+1:12:2|1:12:6|The scene cuts back to the battlefield where the two armies are engaged in fierce combat.
+1:12:6|1:12:9|[Li Shimin] is surrounded by several Turkic cavalry soldiers.
+1:12:9|1:12:14|During the chaos of the battle, a fallen soldier was heavily pushed onto the Tang army war drum, then collapsed on the ground.
+1:12:17|1:12:31|[Li Shimin] is still fighting against the Turkic army, while in the depths of the forest, [Su Yumei]'s hand holding the whip stops at the most tense moment. The Turkic Khan on the mountain sees the actions of the two clearly. [Su Yumei] turns around and looks up at the sky.
+1:13:1|1:13:6|[Su Yumei] slowly stopped the horse, standing between the Khan and Jingde father and son.
+1:13:6|1:13:9|He glared down at the Turkic soldiers, raising his whip.
+1:13:9|1:13:16|[Su Yumei] pointed at the soldiers, and finally glared at the Khan.
+1:13:16|1:13:19|[Su Yumei] whipped and shot at the soldiers, while the Khan used a hidden weapon to hit [Su Yumei].
+1:13:27|1:13:30|Bao Ling knelt on the side, with [Su Yumei] looking pained.
+1:13:33|1:13:45|[Su Yumei] had blood dripping from the corner of her mouth, she looked at Jingde with pain and affection. With all her strength, [Su Yumei] slowly raised her hand, trying to hold Jingde's hand, but could only touch it lightly, unable to grasp it.
+1:13:45|1:13:51|Finally, she exhausted all her strength, blood trickling from the corner of her mouth, and closed her eyes in agony.
+1:13:55|1:14:3|Bao Ling pulled out the small hidden weapon from [Su Yumei], carefully examining the sharp hidden weapon resembling a small comb, and suddenly realized.
+1:14:3|1:14:7|She stared at the Turkic Khan, whose expression was sinister and eerie.
+1:14:7|1:14:11|Bao Ling stood up, raised a hidden weapon, and confronted the Khan.
+1:14:23|1:14:32|After Pauline exposed the truth, [Yuchi Gong] smirked cunningly and spoke slowly.
+1:14:32|1:14:40|The Turkic warrior [Khan] charged towards Baolin with his sword, while Baolin also rushed towards him with a whip, managing to break the arrow stuck in his chest and assist Baolin.
+1:14:42|1:14:48|The Turkic soldier fled, and the father and son forced the Khan to the large tree that had been split before.
+1:14:48|1:14:55|The Khan's knife is stuck in the tree, [Su Yumei] squats down and uses an iron whip to bind him to the tree trunk.
+1:14:55|1:15:5|Bao Linjian's sword struck, hitting Khan's chest heavily, like chopping wood, one after another, the tree trunk had already broken, Khan's back also seemed to be broken.
+1:15:5|1:15:8|With Baolin's final blow, he fell to the ground, bending over with the tree trunk.
+1:15:20|1:15:23|[Khan] spits out blood and is killed by Baolin.
+1:15:23|1:15:30|Baolin and [Su Yumei] finally resolved their estrangement, their eyes filled with deep affection as they gazed at each other earnestly.
+1:15:46|1:15:53|The two looked at the hanging Cheng Yaojin on the tree together, Baoling helplessly laughed and went forward to rescue Cheng Yaojin.
+1:15:53|1:16:1|At night, the father and son who ended the great war returned to [Su Yumei]'s home together, their iron whips placed side by side on the shelf, showing great affection.
+1:16:2|1:16:6|Sitting by the window, [Su Yumei] sat behind him.
+1:16:6|1:16:10|[Su Yumei] carefully applied medicine to the wound on Jingde's shoulder.
+1:16:10|1:16:17|With a steady gaze ahead, [Yuchi Gong] shows a determined look on his calm face, revealing no hint of inner turmoil.
+1:16:17|1:16:22|Yuchi Gong quietly savored the rare moment of peace and reunion between father and son.
+1:16:22|1:16:27|[Su Yumei] put down the ointment plate and looked uncomfortably at the wound on her father's body.
+1:16:27|1:16:30|The bond between father and son is stronger than blood, and [Su Yumei] finally called out,
+1:16:39|1:16:48|The first time when [Su Yumei] called herself "dad", a complex mix of joy and emotion surged in Jingde's heart.
+1:16:48|1:17:5|After carefully applying the ointment, [Su Yumei] gently helped her father put on his robe. Jingde tightly held the handkerchief close to him, looking solemnly at the wrapped handkerchief, his thoughts drifting back to the past, reminiscing about his deceased wife. Seeing his father so absorbed for the first time, [Su Yumei] sat upright next to him.
+1:17:6|1:17:12|Watching her father treasure the handkerchief in his hand, [Su Yumei] was filled with curiosity and confusion.
+1:17:12|1:17:21|After a long silence, [Yuchi Gong] slowly spoke to Su Yumei.
+1:17:27|1:17:33|Yuchi Gong slowly reached out and handed the handkerchief to Su Yumei, who stared at it and took it carefully.
+1:17:33|1:17:38|She carefully observed, afraid of damaging anything inside.
+1:17:38|1:17:41|She carefully examined it, hesitating to open the handkerchief.
+1:17:41|1:17:49|At this moment, Yuchi Gong quietly left, leaving Baoling alone to give her some private space, as Baoling slowly unfolded the handkerchief.
+1:17:49|1:17:53|Engrossed in the moment, Su Yumei did not notice her father leaving. Baoling slowly unfolded the handkerchief.
+1:17:54|1:17:58|I just saw that the handkerchief was wrapped with a strand of my mother's long hair.
+1:17:58|1:18:7|The Doulus person, this strand of long hair was cherished by the father, tied with a rope and a bell, carefully wrapped in a handkerchief, carried close to the body.
+1:18:7|1:18:12|Baoling finally understood that her father had always been concerned about the two of them, mother and son.
+1:18:13|1:18:18|Thinking of this, looking at her mother's belongings, Baoling was already in tears, unable to speak.
+1:18:18|1:18:24|Tears wet Baoling's cheeks, she gently wipes the tears with the handkerchief.
+1:18:24|1:18:27|The night was deep, the people were quiet, only a few names were left to be remembered.
+1:18:27|1:18:33|Jingde was alone in the room reviewing bamboo slips, while several suspicious figures in black lurked on the eaves.
+1:18:33|1:18:39|A group of black-clad individuals with masked faces, unable to see their identities, exerted force to hook onto the nearby tree branches.
+1:18:40|1:19:1|Killing time, a few dark figures swiftly pass by, leaping off the roof, entering the Jingde Courtyard, and walking quickly towards Jingde's room. Sensing something unusual outside the room, Jingde closes the letter and the masked men arrive at the door of Jingde's room, one on each side. Inside the room, Jingde quietly lifts the iron whip on the shelf and walks towards the door, while outside, the masked men also raise their large knives.
+1:19:1|1:19:15|Quietly approaching Jingde, inside the room, outside the room, tense and exciting, Jingde suddenly opens the door, but there is no one outside. The next day, with the sky already bright, [Li Shimin] enters Xuanwu Gate alone.
+1:19:15|1:19:22|At first glance, the Xuanwu Gate was empty, and just as [Li Shimin] was puzzled, the gate suddenly closed.
+1:19:22|1:19:30|In the blink of an eye, the city gate tower of Xuanwu Gate was filled with archers, who had set up multiple ambushes to welcome Li Shimin, greeted by the Crown Prince and Prince Qi.
+1:19:33|1:19:42|The conflict between King Qin [Li Shimin] and the Crown Prince Li Jiancheng and Prince Li Yuanji finally erupted.
+1:19:50|1:19:53|A fierce battle unfolds at Xuanwu Gate between [Yuchi Gong] and [Su Yumei].
+1:19:59|1:20:5|This is the famous Xuanwu Gate Incident in history.
+1:20:5|1:20:12|Yuchi Gong carried the head of the Crown Prince Li Jiancheng out of Xuanwu Gate, leaving Li Shimin feeling a mix of emotions.
+1:20:12|1:20:21|[Jingde] raised the prince's head above his own head, showing it to the soldiers of the Tang Dynasty. The soldiers surrounding [Li Shimin] were strong and dared not show any disrespect towards him.
+1:20:22|1:20:23|[Li Shimin] ascended to the throne.
+1:20:40|1:20:45|Just as the war ended, after [Li Shimin] charged forward, everything settled as the dust cleared.
+1:20:45|1:20:58|On a normal night, [Li Shimin] had already gone to bed. A cold wind blew, causing the curtains by [Li Shimin]'s bed to flutter continuously. The candlelight in the room went out, creating a dim and eerie atmosphere.
+1:20:58|1:21:5|Two men in white robes with long hair slowly descend from the air to the bedside of [Li Shimin], approaching him while shouting.
+1:21:34|1:21:38|[Li Shimin] woke up, his forehead covered in large beads of sweat.
+1:21:38|1:21:44|It turned out that [Li Shimin] saw the souls of the Crown Prince and the Prince of Qi in his dream, trying to strangle him to death.
+1:21:44|1:21:53|The scene in the dream was so vivid, but the faces of the Crown Prince and the Prince of Qi were terrifying, and [Li Shimin] felt a strong sense of helplessness and fear.
+1:21:53|1:22:0|He gasped for breath heavily, finally waking up from his dream, while outside the house the birds were chirping loudly.
+1:22:31|1:22:42|Cheng Yaojin bid farewell to [Li Shimin], with the setting sun in the west. The next night, Cheng Yaojin prayed towards [Li Shimin]'s bed.
+1:22:52|1:22:57|Cheng Yaojin retires, Jingde and Shubao face each other, while Duan is guarding [Li Shimin] outside the door.
+1:22:58|1:23:6|Jingde carried a big knife, while Shubao held a long spear. The two of them tightly gripped their weapons all night without any slack.
+1:23:6|1:23:14|In the quiet night, time passed slowly as they stood guard, and the sun gradually rose, replacing the darkness of the night.
+1:23:14|1:23:22|The next morning, [Li Shimin] pushed open the door, feeling refreshed and energetic, sweeping away the fatigue of the past, and leisurely stretched his body.
+1:23:22|1:23:28|Cheng Yaojin, Jingde, and Qin Shubao stood guard outside the door, with Cheng Yaojin anxiously asking.
+1:23:34|1:23:38|[Li Shimin] stretched and said with a sigh of relief and satisfaction.
+1:24:21|1:24:25|[Li Shimin] affirmed Cheng Yaojin's strategy with joy after hearing it.
+1:24:25|1:24:32|The portraits of Yuchi Jingde and Qin Shubao are lifelike, posted outside the palace gate of [Li Shimin], guarding the peace.
+1:24:32|1:24:40|From then on, the portraits of Yuchi Gong and Qin Qiong became the door gods of China and were passed down among the people.

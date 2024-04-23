@@ -1,0 +1,520 @@
+0:1:1|0:1:8|The protagonist [Na Na] is a little girl who has just been diagnosed with leukemia. Her mother [Fei Mei] is taking her to the hospital for tests.
+0:1:8|0:1:12|In the quiet corridor, there were only the mother and daughter, while the hospital room was filled with children undergoing treatment.
+0:1:15|0:1:24|Those with mild symptoms can read books and play games, while those with severe symptoms can only lie in bed, finding it difficult to even breathe.
+0:1:24|0:1:28|Doctors and nurses were also patrolling the ward, always keeping an eye on their condition.
+0:1:28|0:1:34|At this moment, a bald kid with glasses was walking towards them.
+0:1:44|0:1:53|[Na Na] couldn't help but turn around to look, her eyes full of curiosity. This was the first friend she had met in this hospital who actively spoke to her.
+0:1:53|0:1:58|At night, [Na Na] sat in front of the mirror in an exquisite princess dress, combing her hair.
+0:1:58|0:2:7|Unexpectedly, at the critical moment, she encountered trouble. She combed hard, lowered her head to look at the comb, only to find a large amount of hair tangled on it.
+0:2:7|0:2:11|She looked incredulously at the mirror, only to see herself bald.
+0:2:13|0:2:16|He woke up from the dream, feeling scared as he touched his own head.
+0:2:41|0:2:45|In order for [Na Na] to recover smoothly, [Fei Mei] sent her to the hospital.
+0:2:45|0:2:51|At this moment, [Na Na] and all the children in the hospital have shaved their heads and become little baldies.
+0:2:51|0:2:59|She quickly integrated into the group, playing games with the children on the sickbed, appearing no different from the healthy kids.
+0:2:59|0:3:5|However, the child whose condition is more serious than hers can only lie on the hospital bed in pain with needles inserted.
+0:3:13|0:3:17|The child wearing glasses and a skirt is called Si Han.
+0:3:17|0:3:21|He got out of bed and with the help of a nurse, sat in a wheelchair.
+0:3:26|0:3:29|Nana was momentarily puzzled by Sihan's words.
+0:3:34|0:3:41|Nan Fang's departure caught the attention of the other children, who watched her leave with a hint of anticipation in their eyes.
+0:3:43|0:3:50|Si Han sat in the hyperbaric chamber with a mask on, the nurse inserted the needle for her, set up the equipment, and after a few instructions, left.
+0:3:50|0:3:58|[Na Na] stood on tiptoe and peeked out the window, watching the nurse who had just come out from inside, her face full of curiosity but too afraid to ask.
+0:3:58|0:4:7|After the nurse left, she withdrew her gaze and began to focus on Si Han in the extreme myopia, but unfortunately the window was too high. Even standing on tiptoe, she could only see half of his head.
+0:4:7|0:4:17|The streetlights outside the window flicker, and the man wakes up on the train bunk. [Fei Mei] and [Da Peng] arrive at the hospital to see the doctor and inquire about their daughter's condition.
+0:4:19|0:4:24|[Na Na]'s condition is actually still developing.
+0:4:27|0:4:30|The two were heartbroken to learn of Na Na's serious illness.
+0:4:30|0:4:34|Next, the words spoken by [Doctor] brought hope to [Na Na] again.
+0:4:57|0:5:3|Watching [Na Na] lying unconscious on the hospital bed, [Da Peng] contemplated for a moment before proposing to donate his bone marrow to save her.
+0:6:7|0:6:12|A word gave [Da Peng] hope, as he stared at [Fei Mei], waiting for her answer.
+0:6:12|0:6:16|However, [Fei Mei] harbored doubts in her heart, yet dared not make a decision.
+0:6:16|0:6:20|But thinking of [Na Na] lying on the sickbed, she had to make a choice.
+0:6:20|0:6:24|At this moment, [Da Peng] pointed out the key issue.
+0:6:24|0:6:28|[Fei Mei] was initially in a panic, but quickly calmed down.
+0:6:31|0:6:37|Even if unwilling, one cannot risk their daughter's life. How to approach the ex-husband became a new challenge.
+0:6:39|0:6:43|On the train at this moment, Nan Fang is also tossing and turning, unable to sleep all night.
+0:6:43|0:6:47|In the train compartment, there was only him, but his heart couldn't calm down no matter what.
+0:6:49|0:6:57|He rolled out of bed, opened the door and swayed through the corridor to the bathroom. Leaning against the wall behind the door, he lit a cigarette for himself.
+0:6:57|0:7:3|The heavy heart, as if only cigarettes can ease him.
+0:7:3|0:7:7|Under the influence of nicotine, he finally found a moment of relaxation.
+0:7:7|0:7:14|Looking at himself shrouded in smoke in the mirror, he fell into a reverie, recalling his fiancée [Meng Meng].
+0:7:14|0:7:23|On the night before departure, Meng Meng was in the room sorting out clothes. She held the checkered shirt, looking down in silence, with a sad expression on her face.
+0:7:23|0:7:31|Sensing the appearance of [Nan Fang], she immediately adjusted her emotions and pretended nothing had happened.
+0:7:31|0:7:34|But how could [Nan Fang] not notice her abnormality?
+0:7:34|0:7:38|She hugged [Meng Meng] from behind and comforted her softly.
+0:7:49|0:7:53|[Wang Meng] continued to organize without speaking after commenting for a moment.
+0:7:53|0:7:55|The man looked at [Wang Meng], who remained indifferent, with a guilty expression on his face.
+0:8:4|0:8:12|[Nan Fang] these words are undoubtedly a reassurance to [Meng Meng], she looked at [Nan Fang] and said.
+0:8:12|0:8:15|The two embraced each other affectionately, bidding farewell for the last time.
+0:8:15|0:8:20|Time rewinds to the present, [Nan Fang] standing at the door, smoking all night.
+0:8:20|0:8:26|She took out her wallet, intending to take out money but was attracted by a photo in the middle layer, which was of [Na Na].
+0:8:29|0:8:37|Looking at the beautiful and lovely [Na Na], she showed a brief smile, which was soon replaced by bitterness as [Na Na]'s illness deprived her of happiness.
+0:8:37|0:8:42|In order to save [Na Na], her and [Meng Meng]'s prepared wedding was also forced to be canceled.
+0:8:42|0:8:48|Thinking of [Meng Meng], she remembered the sweet time when the two of them took wedding photos together in the past.
+0:8:48|0:8:53|Meng Meng, dressed in an exquisite wedding gown, looks elegant and noble, and the two of them standing together make a perfect match.
+0:8:53|0:8:57|When facing the camera, the smiles on their faces are the witness of their love.
+0:8:59|0:9:5|During the wedding photoshoot, they were filled with joy, longing for a bright future ahead.
+0:9:5|0:9:11|The two changed into different outfits and struck affectionate poses, all to create the most beautiful memories.
+0:9:11|0:9:19|At that time, he would attentively help [Meng Meng] tidy up her clothes, and couldn't help but be moved by the beautiful [Meng Meng] in the mirror.
+0:9:19|0:9:25|The sweet memories of the two are vivid, but unfortunately, everything is ready for the wedding, but it did not take place as scheduled.
+0:9:25|0:9:28|The original close companionship has now turned into a thousand miles apart.
+0:9:30|0:9:38|Watching the desolate look in [Meng Meng]'s eyes, [Nan Fang] felt a deep sense of self-blame. She sat in the car, looking at the scenery outside the window, her heart filled with mixed emotions.
+0:9:38|0:9:46|In fact, [Nan Fang]'s departure this time left [Meng Meng] conflicted inside, but she couldn't tell [Nan Fang] or show it.
+0:9:52|0:9:58|Before setting off, [Meng Meng] was lost in thought in the taxi, unsure of how to broach the subject with the man.
+0:9:58|0:10:2|The two did not communicate throughout, and the atmosphere became awkward.
+0:10:2|0:10:6|The man's indifferent attitude also made [Meng Meng] feel very disappointed.
+0:10:20|0:10:24|[Meng Meng] asked [Nan Fang] to be taken to the carriage and then turned and left.
+0:10:24|0:10:28|[Nan Fang] quickly catch up and escort her out of the crowded carriage.
+0:10:28|0:10:33|Nan Fang and Fei Mei bid farewell on the platform, reluctant to part until the train is about to depart.
+0:10:33|0:10:38|[Meng Meng] can no longer contain the deep sense of reluctance in her heart, they gaze affectionately at each other and embrace tightly.
+0:10:38|0:10:44|The previous unhappiness has long been forgotten, and the love between [Nan Fang] and [Fei Mei] is now being expressed in this moment.
+0:10:45|0:10:53|Han Ruo's kiss without anyone is the best proof of their love, and the confusion and entanglement in [Meng Meng]'s heart also dissipate with it.
+0:10:53|0:10:59|The man's actions speak louder than words to express his feelings towards her, and she can trust him to go save [Na Na].
+0:11:1|0:11:7|As soon as she turned around, [Nan Fang] grabbed her arm and led her towards the carriage.
+0:11:19|0:11:23|At this moment, [Meng Meng] is sound asleep on the train, while [Nan Fang] looks at her affectionately.
+0:11:54|0:12:0|He took the water cup handed by [Da Peng], slowly got up and leaned on the sofa to drink.
+0:12:0|0:12:4|Fortunately, with [Da Peng] by his side, always accompanying and taking care of him.
+0:12:4|0:12:9|Seeing the exhausted look on [Fei Mei], [Da Peng] finally spoke out his thoughts.
+0:12:12|0:12:17|Listening to [Da Peng]'s suggestion, [Fei Mei] remained silent. He put down the water glass and spoke to her.
+0:12:20|0:12:22|[Fei Mei] remained silent, turning her head to look at him quietly.
+0:12:25|0:12:28|[Da Peng] hesitated for a moment, his eyes flickering, and pretended to say calmly.
+0:12:28|0:12:37|[Na Na] is so lovely. Upon hearing her husband's evaluation of the other party, [Fei Mei] let out a sigh, reminiscing about the past.
+0:12:43|0:12:49|She stood up and touched the photo of [Na Na] on the cabinet, after a moment of contemplation, she turned to [Da Peng] behind her and said.
+0:12:55|0:13:2|Seeing [Fei Mei] feeling sad and upset, [Da Peng] was at a loss for words on how to comfort her, but he truly wanted to save [Na Na].
+0:13:4|0:13:9|Thinking of [Na Na], [Da Peng] felt sorry, but unexpectedly [Fei Mei] misunderstood.
+0:13:22|0:13:32|[Fei Mei]'s sudden change in attitude left [Da Peng] momentarily puzzled, but she understood the inner struggles and concerns of [Fei Mei]. She sincerely hoped that [Na Na] could recover.
+0:13:32|0:13:40|Faced with Fei Mei's question again, Da Peng was momentarily at a loss for words, but one thing she was certain of was that she truly liked Na Na.
+0:13:40|0:13:44|If Nan Fang's selfishness leads to Na Na's death, she would definitely not want to see it.
+0:13:44|0:13:47|Over here, [Nan Fang] and [Meng Meng] have successfully arrived in Beijing.
+0:13:49|0:13:55|Watching [Meng Meng] who has been with her all the way, the man feels very sorry for her, but it's [Na Na] who urgently needs surgery that worries her the most.
+0:13:57|0:14:4|On the highway, [Da Peng] is driving to pick up [Nan Fang]. Only by successfully picking up [Nan Fang] can we be one step closer to [Na Na]'s recovery.
+0:14:4|0:14:11|[Fei Mei] sat silently in the passenger seat, knowing that [Nan Fang]'s arrival brought both hope and disappointment.
+0:14:11|0:14:19|The atmosphere in the car suddenly became heavy, and [Fei Mei] couldn't help but look at [Da Peng], seeking comfort as much as expressing concern.
+0:14:50|0:14:58|[Da Peng]'s gentle words gave [Fei Mei] confidence, as he watched her enter the hospital, [Da Peng] felt worried and helpless.
+0:14:58|0:15:7|The hospital was crowded, with the elevator surrounded inside and out. [Fei Mei] was squeezed on the outside, completely unaware of [Nan Fang] and [Meng Meng] inside.
+0:15:7|0:15:11|[Nan Fang] stared at the closed elevator door, frowning, while [Meng Meng] looked at her from the side.
+0:15:13|0:15:16|It wasn't until [Meng Meng] softly reminded, that he finally came to his senses.
+0:15:16|0:15:25|As soon as they entered the elevator, they were squeezed to the back. Finally finding a spot, they looked up and saw [Fei Mei] standing at the elevator door.
+0:15:25|0:15:30|The man was momentarily stunned, and [Meng Meng] followed his gaze to see [Fei Mei] right in front of him.
+0:15:31|0:15:35|[Fei Mei] was stunned, the person behind her couldn't wait and started urging her.
+0:15:35|0:15:38|[Fei Mei] saw the two of them reluctantly getting on the elevator.
+0:15:38|0:15:42|After the elevator reached the floor, [Fei Mei] quickly walked away.
+0:15:42|0:15:47|[Nan Fang] leads [Meng Meng] through the crowd closely following.
+0:15:47|0:15:52|At a deserted corner of the corridor, [Nan Fang] and [Fei Mei] meet for the first time.
+0:15:52|0:15:56|Nan Fang immediately introduced Meng Meng to Fei Mei when the three of them felt a bit awkward.
+0:16:7|0:16:11|Fei Mei listened and then turned to walk towards the pediatric ward, and then said to [Nan Fang].
+0:16:14|0:16:18|Fei Mei's sudden proposal left Nan Fang feeling a bit at a loss.
+0:16:23|0:16:27|Fei Mei took the money, looking melancholic, and then raised a new question.
+0:16:35|0:16:38|At this moment, Nan Fang is waiting in the car while Da Peng is reading a newspaper.
+0:16:41|0:16:46|[Da Peng] put down the newspaper, hesitated for a moment, and then picked up the phone to answer the call.
+0:16:46|0:16:49|[Nan Fang] quickly pushed open the door after finding the ward.
+0:16:49|0:16:52|Unexpectedly, the scene in front of him left him stunned.
+0:16:52|0:16:58|At this moment, [Na Na] was lying obediently on the hospital bed reading a book, and [Nan Fang] caught sight of her.
+0:16:58|0:17:2|[Na Na] quickly got up and looked in the direction of the sound.
+0:17:2|0:17:7|[Nan Fang] dropped the luggage, took a big step and rushed to the bedside, embracing [Na Na] tightly.
+0:17:7|0:17:10|The father and daughter embraced tightly, with Nan Fang showing great concern.
+0:17:18|0:17:26|Upon hearing Na Na's sincere response, Nan Fang felt his heart ache, and quickly embraced Na Na to comfort her.
+0:17:26|0:17:30|Outside the ward, [Meng Meng] could see everything clearly between the father and daughter.
+0:17:44|0:17:47|Upon hearing Nan Fang's call, Meng Meng's face lit up with joy as she quickly walked into the hospital room.
+0:17:57|0:18:4|However, [Na Na] was not happy to hear [Fei Mei]'s praise, she looked at her father with a disappointed face, but her father didn't understand.
+0:18:4|0:18:13|The man and [Fei Mei] looked at each other in confusion, while [Na Na] took a hat from the sickbed and put it on her head.
+0:18:13|0:18:17|Meanwhile, outside the ward, [Fei Mei] is making a phone call.
+0:18:23|0:18:27|[Fei Mei] walked into the ward and saw the three of them having a harmonious time.
+0:18:33|0:18:36|Upon seeing [Fei Mei] enter, the two immediately stood up and gave up their seats.
+0:18:36|0:18:40|[Meng Meng] smiled and gently chatted with [Fei Mei].
+0:18:42|0:18:45|[Na Na] looked at [Fei Mei] with a happy expression on her face.
+0:18:59|0:19:18|[Fei Mei] considerately puts a mask on [Na Na], while [Meng Meng] can only smile awkwardly at the scene, just in time for lunch.
+0:19:41|0:19:48|[Na Na]'s innocent thoughts are hard to refuse, while [Meng Meng] smiles without saying a word, falling into an awkward situation.
+0:20:3|0:20:12|[Na Na]'s words made [Meng Meng] feel heartbroken. She looked at the gentle [Fei Mei] lost in thought, and [Fei Mei] noticed her gaze, quickly hiding her smile.
+0:20:12|0:20:18|Innocent [Na Na] was completely unaware of anything unusual, getting ready to get off the bed and put on her shoes to go home.
+0:20:18|0:20:21|[Na Na] pulls her dad and mom, ready to go home.
+0:20:21|0:20:25|Not long after she started walking, a familiar figure appeared at the door, causing her to stop in her tracks.
+0:20:38|0:20:40|[Da Peng] answered [Na Na] with a smile on his face.
+0:20:45|0:20:48|[Da Peng] was not happy in his heart, but he didn't say anything.
+0:20:51|0:20:54|[Nan Fang] carries [Na Na] to the bed and says seriously.
+0:21:9|0:21:13|[Nan Fang] looked indulgent and was about to answer when he was interrupted by the sudden appearance of [Meng Meng].
+0:21:23|0:21:27|[Nan Fang] anxiously asked for a solution, but received this kind of response.
+0:21:27|0:21:30|Seeing the back of [Fei Mei], she fell into contemplation.
+0:21:30|0:21:34|Meng Meng on the side had long noticed her peculiarity.
+0:21:34|0:21:38|She came to the restroom alone, but in her heart she was thinking about [Na Na].
+0:21:38|0:21:42|Recalling [Na Na]'s performance just now, her heart was in agony, yet she was powerless.
+0:21:44|0:21:54|At that moment, emotions overwhelmed her and she started to cry, feeling sad for the pain that [Na Na] was suffering and even more for her own helplessness.
+0:21:54|0:21:58|[Na Na] feels even more guilty about her expectations and enthusiasm.
+0:21:58|0:22:7|She sobbed in front of the mirror, then [Fei Mei] asked her to go see a doctor together to discuss treatment options.
+0:22:17|0:22:24|The doctor's suggestion made her feel embarrassed. For the sake of [Na Na], the man had to cooperate obediently, leaving the doctor puzzled.
+0:22:29|0:22:37|The doctor found the estranged atmosphere between them strange, but seeing their cooperative attitude, he didn't say anything more.
+0:22:37|0:22:46|[Meng Meng] is holding the man's bag, anxiously waiting outside the door. [Da Peng] is deeply worried but trying not to show it. The unknown outcome hangs over them, their minds already filled with countless thoughts.
+0:22:49|0:22:56|[Da Peng] couldn't help but turn around and leave. [Meng Meng] put down her handbag and sat on a chair in the corridor, listening intently to the worries in the office.
+0:22:56|0:23:3|Fortunately, [Doctor] brought good news to everyone, and [Meng Meng] also has hope.
+0:23:10|0:23:13|The man and [Fei Mei] listened attentively to the explanation from the [doctor].
+0:23:17|0:23:22|[The doctor] hands the treatment advice to [Fei Mei], then says.
+0:24:2|0:24:19|[Doctor] found himself in a dilemma after learning the truth. Having another child could bring hope to [Na Na], but it also meant a choice between two families. Seeing [Fei Mei]'s worried expression, [Doctor] was filled with deep self-blame, unsure of what to do.
+0:24:30|0:24:51|Meng Meng learned from Da Peng's explanation about the method to save Na Na, and whether to agree to the surgery was also a dilemma in her heart. After detailed discussions with the doctor, Fei Mei and Nan Fang decided to start implementing the plan. Meng Meng, who learned the truth, looked worried. Fei Mei and the man imagined many outcomes, the first of which was the successful remarriage of the two.
+0:24:53|0:25:1|In the scene, a woman in a suit and glasses is looking at an application form. The man and [Fei Mei] have come to her to process their marriage.
+0:25:1|0:25:6|The two of them looked at each other awkwardly, but deep down they were both looking forward to successfully obtaining their marriage certificate.
+0:25:6|0:25:13|At the moment when the lady stamped the document, the two of them breathed a sigh of relief, which also meant that they were one step closer to saving [Na Na].
+0:25:16|0:25:19|But how will they get along with [Meng Meng] and [Da Peng]?
+0:25:22|0:25:37|In order to make Na Na happy and recover, Nan Fang and Fei Mei brought Na Na together, starting a happy life as a family of three.
+0:25:37|0:25:40|[Fei Mei] shook her head in refusal, but [Na Na] stepped forward and flirted with him.
+0:25:45|0:25:53|You couldn't resist [Na Na]'s persuasion, so [Fei Mei] got up and went to the kitchen.
+0:25:53|0:25:58|Standing at the doorway, she hesitated as she looked at the busy figure of [Nan Fang], unsure of how to proceed.
+0:25:58|0:26:2|In the unfamiliar yet familiar kitchen, she was momentarily flustered and began muttering to herself.
+0:26:8|0:26:11|[Nan Fang] skillfully pulled open the drawer and found the pepper powder.
+0:26:13|0:26:19|[Fei Mei] saw the situation and didn't know how to respond. The words were on the tip of her tongue, but she couldn't bring herself to say them.
+0:26:19|0:26:24|On the hill, the honey sauce is simmering, and [Na Na] is about to successfully complete the sweet and sour fish she desires.
+0:26:24|0:26:28|Fei Mei's heart was filled with mixed emotions as she watched Nan Fang's back.
+0:26:28|0:26:36|The familiar scene, the familiar people, but their relationship can't go back to the way it used to be, even normal communication has become awkward. 
+0:26:36|0:26:42|[Na Na] sat at the table, considerately dividing the chopsticks for them. The two looked at the rich dishes on the table, each lost in thought.
+0:26:44|0:26:52|[Na Na] also put down her chopsticks in confusion, and the two of them then realized the problem and immediately picked up her favorite sweet and sour fish for [Na Na].
+0:26:52|0:26:59|The two glanced at each other and immediately looked away, both exuding discomfort, but luckily [Na Na] did not notice.
+0:26:59|0:27:5|At night, [Fei Mei] lay on the bed, staring blankly at the ceiling, as the man slowly walked in through the door.
+0:27:5|0:27:12|Seeing the man, [Fei Mei] began nervously clutching the blanket, her eyes involuntarily following his movements, feeling extremely anxious.
+0:27:14|0:27:18|[Nan Fang] noticed his unnatural behavior and lifted the blanket to sit up in bed.
+0:27:18|0:27:24|[Fei Mei] was in a panic, but pretended to be calm, while [Nan Fang] lifted the blanket and lay down.
+0:27:24|0:27:28|Two people are lying on the bed, engaging in their final mental preparation. 
+0:27:28|0:27:36|After a moment of calm, the two gradually stabilized their emotions. [Nan Fang] picked up a basin of water and took a big gulp, just to ease the tension in her heart.
+0:27:36|0:27:41|Fei Mei is also making final preparations. For [Na Na], they must have another child.
+0:27:42|0:27:49|However, at this moment, [Meng Meng], who was alone, suddenly sat up from the bed, the inner turmoil making it difficult for her to fall asleep.
+0:27:49|0:27:54|After thinking for a moment, she immediately dialed the phone, only to find that no one answered.
+0:27:54|0:28:0|She hung up the phone in despair, sat on the bed feeling gloomy, thinking about Nan Fang and Fei Mei having another child.
+0:28:0|0:28:4|She let out a long sigh, but the restlessness in her heart did not diminish at all.
+0:28:5|0:28:11|Looking at the empty room, [Nan Fang] went to the bathroom, turned on the tap, wanting to wash his face to wake up.
+0:28:11|0:28:16|Unexpectedly, hot water flowed out, steam filled the air, and the reflection in the mirror gradually became blurred.
+0:28:16|0:28:20|He looked up and the steam dispersed, the person in the mirror turned into Fei Mei.
+0:28:20|0:28:24|In the mirror, Nan Fang looks beautiful and elegant, gazing at him with tenderness.
+0:28:24|0:28:27|Fei Mei is currently with Nan Fang.
+0:28:27|0:28:30|The smile of [Fei Mei] in the mirror is no longer gentle, but more like mockery.
+0:28:31|0:28:36|Mao Meng looked at the mirror with great sadness, but for [Na Na], she had to endure silently.
+0:28:36|0:28:39|She looked serious, unable to come to her senses for a long time.
+0:28:39|0:28:44|A family photo of [Na Na], [Fei Mei], and the male lead is being torn in half.
+0:28:44|0:28:53|Mao Meng is preparing to take a hot bath to forget his troubles, but to no avail. He decides to do something to distract himself.
+0:28:53|0:29:1|Hot water poured down from the top, sliding over his face and flowing down his body, he tilted his head back to welcome the baptism of hot water, and he also had his own plan in mind.
+0:29:2|0:29:17|The next day, [Meng Meng] went to a hair salon. Her hair was being heated, and she sat in a chair flipping through a magazine. The hairdresser appeared and gave her a delicate hairstyle with professional service. Despite the beautiful hairstyle, she couldn't bring herself to smile when looking at her reflection in the mirror.
+0:29:17|0:29:23|Watching herself gradually becoming beautiful under the care of the stylist, she still had a face full of sorrow. 
+0:29:23|0:29:34|Just finished at the hair salon, [Meng Meng] arrived at the mall and picked out a beautiful outfit for herself. After admiring herself carefully in the mirror, she swaggered away with her spoils.
+0:29:34|0:29:41|At this moment, [Da Peng] and [Meng Meng], who are both suffering from the same illness, have become idle without anyone to accompany them.
+0:29:41|0:29:46|[Da Peng] watches as the car speeds down the road, occasionally glancing in the mirror and adjusting his hair with his hand.
+0:29:47|0:29:49|The car drove through the crowded lanes.
+0:29:49|0:29:54|Walking through a bustling street, they stopped in front of a residential building.
+0:29:54|0:30:0|Today is the day [Na Na] goes back to the hospital, [Da Peng] specially drove to [Fei Mei]'s house to take [Na Na] to the hospital.
+0:30:0|0:30:7|Although it's unclear how Nan Fang and Fei Mei's relationship is progressing, Da Peng still sticks to his original intention and shows care for Na Na through his actions.
+0:30:11|0:30:23|When [Da Peng] entered the neighborhood and arrived downstairs, [Na Na] could see everything clearly from upstairs. As [Da Peng] got out of the car and waved to the upstairs, he immediately understood the meaning. This was their tacit understanding, more like a secret code.
+0:30:23|0:30:29|Every time [Da Peng] comes to pick her up, he is very happy, and their relationship has also developed from this.
+0:30:29|0:30:36|At this moment, [Fei Mei] and [Nan Fang] are packing up things for [Na Na] to bring to the hospital. [Na Na] sees [Da Peng] and says happily.
+0:30:57|0:31:8|[Nan Fang]’s words left [Fei Mei] stunned.
+0:31:8|0:31:11|The two of them took care of [Na Na] intimately, making [Na Na] extremely happy.
+0:31:11|0:31:16|[Da Peng] keeps a close eye on [Na Na] while driving, and [Na Na] responds with a smile upon catching his gaze.
+0:31:17|0:31:32|Although only exchanging glances, the harmonious atmosphere among the three is enviable, causing the sturdy [Nan Fang] in the co-pilot seat to shift his gaze.
+0:31:37|0:31:42|After the car stopped by the roadside, [Nan Fang] got out of the car without looking back, and said to [Na Na] before leaving.
+0:31:48|0:31:53|Watching [Na Na] leaving in the car, the man reluctantly bid farewell to them.
+0:31:53|0:31:58|She took out her phone and called [Meng Meng], but received an unexpected message.
+0:31:58|0:32:4|According to the address provided by [Meng Meng], she arrived at the station and searched the hall for a long time, but did not see [Meng Meng]'s figure.
+0:32:4|0:32:7|Finally, at the bar, [Meng Meng] was seen in a completely new look.
+0:32:7|0:32:13|Upon meeting again, [Meng Meng] was elegantly sipping her coffee, while the man looked nervous, surprised, and hesitant to inquire further.
+0:32:14|0:32:22|Meng Meng's reaction to him was not unexpected. He looked at Nan Fang tenderly without saying a word, but Nan Fang's eyes made him feel extremely cold.
+0:32:22|0:32:33|[Nan Fang] saw [Meng Meng] with a look of disbelief on her face again. He couldn't believe that [Meng Meng] had undergone such a big change in a short period of time. He sat down slowly and began to bid farewell to [Meng Meng], but [Meng Meng] had long lost her initial enthusiasm.
+0:32:49|0:32:54|[Nan Fang]'s impatience in his words made [Meng Meng] feel disheartened.
+0:33:37|0:33:41|[Nan Fang]'s sudden display of deep affection made [Meng Meng] feel ridiculous.
+0:33:41|0:33:48|At this point, she no longer believed in [Nan Fang], she turned and asked [Nan Fang].
+0:34:1|0:34:8|Hearing Nan Fang's helpless answer made him utterly disappointed, he pushed Nan Fang away and walked off with tears in his eyes.
+0:34:8|0:34:17|[Nan Fang] followed behind and arrived on the train, smoothly entering the carriage following the train attendant, searching room by room for [Meng Meng]'s figure.
+0:34:17|0:34:21|The carriage was crowded with a jumble of people, and the blankets on the fog cloth were piled up messily.
+0:34:21|0:34:24|He searched carefully, afraid of missing Meng Meng.
+0:34:24|0:34:29|He carefully scanned from top to bottom, not even letting the bed escape his gaze.
+0:34:29|0:34:33|He walked through one carriage after another, opening one door after another.
+0:34:33|0:34:37|He searched anxiously, just to be able to see his beloved here.
+0:34:37|0:34:41|The backpack slipped off his shoulder, and he casually picked it up and threw it behind him.
+0:34:41|0:34:44|At this moment, he was determined to find [Meng Meng] as soon as possible.
+0:34:44|0:34:48|Passing through a dimly lit train carriage, he spotted a familiar figure.
+0:34:48|0:34:57|He stopped in his tracks, carefully identifying [Meng Meng], and then immediately turned around to the door of the carriage, eager to open it.
+0:34:57|0:35:4|Unexpectedly, [Meng Meng] locked the door from the inside, shaking the door handle hard but still couldn't open it.
+0:35:4|0:35:9|He watched as [Meng Meng] inside continued knocking on the door, but she still ignored him.
+0:35:40|0:35:48|The arrival of the police made the two calm down. Seeing the scene of the two, the police didn't know what else to say and left.
+0:35:52|0:36:0|Back to the afternoon when the four of them went to see the doctor, [Da Peng] and Meng Meng were waiting in the corridor, but unexpectedly the doctor asked them to come in together.
+0:36:2|0:36:6|The two of them exchanged a glance upon hearing this, then walked into the office.
+0:36:6|0:36:9|The situation of the four individuals is very unique and requires careful measures to be taken.
+0:36:9|0:36:12|The doctor's answer brought them hope.
+0:37:0|0:37:4|Upon hearing the doctor's proposed solution, [Fei Mei] saw a glimmer of hope.
+0:37:4|0:37:11|Artificial insemination is undoubtedly the best solution at the moment, which can save [Na Na] without destroying their relationship.
+0:37:11|0:37:15|[Meng Meng] heard the plan and a satisfied smile appeared on her face.
+0:37:15|0:37:20|In the evening, the four of them arrived at [Fei Mei]'s house, and the man personally cooked sweet and sour fish that [Na Na] loves to eat.
+0:37:26|0:37:32|[Fei Mei] decisively rejected [Na Na]'s proposal.
+0:37:32|0:37:36|In the end, I couldn't resist [Na Na]'s sweet talk and agreed to her.
+0:37:36|0:37:44|At this moment, [Meng Meng] is making salad in the living room, while [Da Peng] enters with a crate of beer.
+0:37:44|0:37:48|Simple dialogue witnessed the gradual harmonization of their relationship.
+0:37:48|0:37:50|[Da Peng] put down the beer and said to [Meng Meng].
+0:37:55|0:37:58|[Meng Meng] nodded and continued making the salad.
+0:37:58|0:38:3|Seeing [Da Peng] turning around and entering the room, the look in [Meng Meng]'s eyes was full of meaning.
+0:38:3|0:38:11|The man carefully prepares dishes in the kitchen, although he is in his ex-wife's house, the placement of things is still familiar.
+0:38:11|0:38:16|A bowl of secret sauce poured into the pot, [Na Na]'s meticulously prepared sweet and sour fish is entering the final stage.
+0:38:18|0:38:26|[Nan Fang] is working methodically in the kitchen, with [Meng Meng] by her side preparing side dishes, creating a harmonious atmosphere that stings [Fei Mei] deeply.
+0:38:26|0:38:30|She had hoped to follow [Na Na]'s advice for help, only to find that there was no place for her at all.
+0:39:0|0:39:7|At the dining table, [Na Na] sensibly distributed chopsticks for everyone, with [Da Peng] and [Meng Meng] sitting on her left and right respectively.
+0:39:7|0:39:13|The man and [Fei Mei] sat on either side, and their accidental eye contact made them both feel a bit awkward.
+0:39:13|0:39:22|The familiar atmosphere made [Na Na] hesitant to pick up her chopsticks, the four of them sitting around the table with hidden thoughts, thanks to the quick wit of [Da Peng] who broke the awkward situation.
+0:39:34|0:39:49|The man eagerly awaited [Na Na]'s evaluation.
+0:39:59|0:40:2|Upon hearing [Na Na]'s words, everyone exchanged smiles.
+0:40:6|0:40:9|The lively and lovely [Na Na] made this meal go particularly smoothly.
+0:40:9|0:40:14|[Da Peng] pours beer for [Nan Fang], and [Na Na] can't take her eyes off.
+0:40:14|0:40:18|After dinner, [Da Peng] drove [Nan Fang] and the two of them to the hotel downstairs.
+0:40:40|0:40:47|After driving, Nan Fang and Fei Mei checked in. Nan Fang wanted to hold Meng Meng's hand, but she unexpectedly shook it off.
+0:40:51|0:40:57|[Meng Meng] walked ahead with her hands in her pockets, completely ignoring the man behind her as she searched for the room.
+0:40:57|0:41:3|At the end of the corridor, they found their room, and Nan Fang politely opened the door.
+0:41:8|0:41:15|The man looked puzzled, put down his luggage, and quickly stepped forward to comfort her.
+0:41:15|0:41:19|Meng Meng, with a displeased expression, directly rejected his hug.
+0:41:21|0:41:23|[Meng Meng] suddenly challenged, and she had to patiently explain.
+0:41:23|0:41:24|Meng Meng's nausea left her speechless. She didn't want to tell [Meng Meng] to avoid affecting their relationship, but in the end, she was still misunderstood.
+0:41:57|0:42:7|Nan Fang stood up and opened the door. Fei Mei, carrying a kettle, walked in, placed the kettle down, and asked Nan Fang a question.
+0:42:7|0:42:17|This is undoubtedly an eviction order. The man, seeing that [Meng Meng] didn't say anything, returned to his own room.
+0:42:19|0:42:25|[Nan Fang] opened the door inexplicably, only to find no one outside, but a water kettle on the ground.
+0:42:25|0:42:28|As soon as he was about to go out to investigate, [Meng Meng] appeared.
+0:42:33|0:42:37|Fei Mei and Da Peng drove home together after taking Na Na back to the hospital.
+0:42:37|0:42:44|Throughout the journey, [Fei Mei] was deep in thought, silent, while [Da Peng] was also in low spirits, with a gloomy expression.
+0:42:44|0:42:51|The doctor's advice, while it could save Na Na's life, also means that having another child would further bind Fei Mei and Nan Fang together.
+0:42:52|0:42:55|This is also unfair to [Da Peng].
+0:42:55|0:42:59|Fei Mei fell into contemplation, while Da Peng furrowed his brow.
+0:42:59|0:43:6|At this moment, they were unaware of each other's intentions, and neither wanted to be the first to speak up and discuss a solution.
+0:43:6|0:43:9|Back home, [Fei Mei] hugged [Da Peng] tightly, hoping for this moment.
+0:43:9|0:43:12|[Da Peng]'s performance revealed the key issue to [Fei Mei].
+0:43:36|0:43:47|[Da Peng]'s answer confirmed [Fei Mei]'s guess.
+0:43:47|0:43:57|[Fei Mei] caresses [Da Peng]'s cheek, looking deeply into his eyes.
+0:43:57|0:44:1|Upon hearing [Da Peng]'s response, [Fei Mei] looked guilty.
+0:44:22|0:44:29|[Da Peng] paused, as [Fei Mei] slowly approached, gently stroking [Da Peng]'s back and leaning against him slowly.
+0:44:29|0:44:31|Seeing the gentle [Fei Mei], [Da Peng] softened.
+0:44:35|0:44:47|At this moment, Meng Meng is standing on the balcony enjoying the breeze when Nan Fang approaches her from behind and gently embraces her, resolving the misunderstanding and reconciling their relationship.
+0:45:0|0:45:4|The two exchanged a smile, and Meng Meng's words took her by surprise.
+0:45:10|0:45:13|[Nan Fang] then immediately expressed her own thoughts.
+0:45:15|0:45:21|[Nan Fang]'s words shattered [Meng Meng]'s hopes, but they also confirmed another thing.
+0:45:32|0:45:43|According to the law, when Meng Meng's explanation was heard, Nan Fang remained silent. He leaned on the railing with both hands, staring blankly into the distance.
+0:45:50|0:45:51|Although Nan Fang said so on the surface.
+0:45:51|0:45:54|There were other thoughts in his mind.
+0:46:1|0:46:9|Looking at [Meng Meng]'s eager eyes, the man stroked her hair, which further strengthened his own inner thoughts.
+0:46:15|0:46:21|In the scene, Nan Fang, Fei Mei, Meng Meng, and Da Peng arrived at the Civil Affairs Bureau, all dressed up and full of energy.
+0:46:21|0:46:26|At this moment, the Civil Affairs Bureau hasn't started working yet, but it doesn't affect their happy mood at all.
+0:46:26|0:46:31|The woman in glasses and a suit walked towards them, and they immediately straightened their clothes and followed her into the room.
+0:46:31|0:46:36|The woman carefully reads the materials and then looks sternly at the four individuals. [Nan Fang], [Fei Mei], [Meng Meng], and [Da Peng].
+0:46:36|0:46:43|Watching the sweet and harmonious love scene of the two new couples, even though the lady had doubts in her heart, she still stamped the seal for them.
+0:46:43|0:46:47|The man looked happy, with [Meng Meng] sitting next to him, blushing shyly.
+0:46:47|0:46:50|Fei Mei and Da Peng exchanged a smile, both having already made up their minds about each other.
+0:46:52|0:46:56|With the seal stamped, their marital relationship also officially takes effect.
+0:46:56|0:47:3|[Nan Fang] and [Fei Mei] are in completely different states now, no longer frowning but with a radiant smile on their faces.
+0:47:3|0:47:8|In the afternoon, [Meng Meng] and [Nan Fang] returned to the hotel. [Meng Meng] lay on him, looking at him tenderly.
+0:47:15|0:47:19|[Meng Meng] gently caressed her cheek and gazed deeply into her eyes.
+0:47:19|0:47:29|Facing [Meng Meng]'s praise, she shook her head in confusion, and Meng Meng took out a mirror for her to see herself.
+0:47:45|0:47:55|That day, Nan Fang came to the hospital to prepare for artificial insemination, and under the guidance of [the doctor], he arrived at the doorway of the next room.
+0:47:55|0:47:59|He walked into the room with an empty bottle in his hand, made sure no one was there, and then closed the door.
+0:47:59|0:48:5|Turn on the TV, take out the original tape and put it into the VCR, everything is ready.
+0:48:5|0:48:9|He sat on the sofa with a vacant look in his eyes, waiting for the video to play.
+0:48:9|0:48:12|This is the best way to save [Na Na] at the moment, he must complete the mission.
+0:48:15|0:48:25|Artificial insemination refers to a technique in which the male's semen is collected, processed, and then injected into the female's reproductive organs by a doctor to achieve the purpose of conception.
+0:48:25|0:48:29|The most important thing is to combine the sperm and egg to form a fertilized egg.
+0:48:29|0:48:34|It is necessary to use a fine needle under a microscope to directly inject a sperm into the egg cell.
+0:48:37|0:48:51|When the sperm and egg merge to form an embryo, undergo repeated cell divisions, and eventually become a new life, the embryo is then transferred to the mother's uterus. Once successfully implanted, artificial insemination surgery can be successful.
+0:48:51|0:48:53|[Fei Mei] also changed into surgical scrubs and entered the operating room.
+0:48:55|0:49:1|The nurses are adjusting the instruments for them, and she lies nervously on the operating bed.
+0:49:1|0:49:3|[Da Peng] at the door looked at her with a comforting expression.
+0:49:3|0:49:11|With the closing of the operating room door, the surgery of [Fei Mei] officially begins.
+0:49:11|0:49:17|[Da Peng] silently cheered for her in his heart, although reluctant, he had to leave.
+0:49:17|0:49:22|On the surgical cart dragged by the nurse, various surgical knives were placed, sending chills down one's spine.
+0:49:22|0:49:24|But for [Na Na], [Fei Mei] must bear it alone.
+0:49:28|0:49:38|In the cockpit of a running airplane, after pilot [Da Peng] completed all the necessary operations, he unbuckled his seatbelt and turned to the person next to him.
+0:49:38|0:49:41|[Da Peng] takes a brief rest in the aisle.
+0:49:41|0:49:46|As the flight attendant pulled back the curtain, [Da Peng], who was drinking water, saw [Nan Fang] and [Meng Meng] on the plane.
+0:49:46|0:49:52|There are too many flight attendants, so he doesn't feel comfortable initiating greetings.
+0:49:52|0:49:55|Meng Meng ordered a glass of orange juice and turned to ask Nan Fang.
+0:50:2|0:50:7|These two recognized themselves, and [Da Peng] waved enthusiastically to greet them.
+0:50:7|0:50:11|The two raised their glasses in response to each other, this time they were ready to go back and get married.
+0:50:39|0:50:43|The next day, the two of them returned to the hotel with their luggage again.
+0:50:43|0:50:53|This time, there was neither the joy of marriage nor the sadness of a big fight, it was because of [Na Na]'s deteriorating condition.
+0:50:53|0:50:59|The two still checked into the room at the end of the corridor, but this time their mood was completely different from last time.
+0:50:59|0:51:3|The man politely thanked the staff, while [Meng Meng] remained silent all the way.
+0:51:7|0:51:16|Nana, whose condition worsened, lay on the hospital bed with an IV drip, sleeping. A piercing pain gradually woke her up, and she cried out for her father.
+0:51:51|0:51:55|[Nan Fang] felt a little sad after hearing what [Na Na] said.
+0:51:57|0:52:1|[Na Na] didn't answer, but looked at [Meng Meng] beside her.
+0:52:12|0:52:14|Although [Na Na] said so,
+0:52:14|0:52:20|Nan Fang's heart was still heavy, and there was no smile on her face.
+0:52:20|0:52:31|[Da Peng] helped [Fei Mei] out of the elevator with her big belly. Seeing [Nan Fang] and [Meng Meng] looking a bit stunned, the two of them made eye contact and walked towards them. Upon seeing this, [Nan Fang] and [Meng Meng] also stood up in surprise.
+0:52:34|0:52:42|[Da Peng] shook hands with [Nan Fang], while [Fei Mei] and [Meng Meng] nodded with a smile. Today, [Fei Mei] is here to collect umbilical cord blood.
+0:52:42|0:52:50|She changed into the surgical gown and lay on the operating table, looking at the doctor examining her with a blank expression, sighing as she stared at the ceiling.
+0:52:50|0:53:0|The ice-cold touch made her feel a little at a loss, then a slender needle pierced into her belly, causing a sharp pain that she had to grit her teeth and endure.
+0:53:4|0:53:8|A small vial of blood extracted became the life-saving elixir for [Na Na].
+0:53:8|0:53:15|The doctor in the room is conducting an examination, while the man outside is extremely anxious. Beside him, [Da Peng] remains silent with his head down.
+0:53:15|0:53:21|Both Nan Fang and Fei Mei are very concerned about the final outcome, but now they can't do anything and can only wait patiently.
+0:53:23|0:53:27|In front of the train platform, [Nan Fang] walks while staring at the people in the carriage.
+0:53:27|0:53:36|His brows furrowed, his heart burning with impatience, he happened to encounter the steward outside the carriage. He quickly stepped forward and made his request.
+0:53:38|0:53:43|The train started moving, and [Nan Fang] began searching through each carriage.
+0:53:43|0:53:51|He followed the flight attendant into the carriage, opening the connecting doors one by one to inspect, until he found a familiar figure in a small room.
+0:53:54|0:53:57|He quickly turned around, wanting to confirm his identity.
+0:53:57|0:54:9|Unexpectedly, the train door was locked from the inside by [Meng Meng]. He held the door handle and shook it repeatedly, trying to open it, but the door remained unmoved.
+0:54:9|0:54:18|Unable to open the door, the two gradually calmed down. The man looked inside at [Meng Meng] with a worried expression, while [Meng Meng] slowly raised her head and gazed deeply into his eyes.
+0:54:18|0:54:22|Nan Fang's pitiful eyes were full of grievances, making the man unable to bear it in his heart.
+0:54:25|0:54:29|[Nan Fang] slightly turned her head, not letting [Meng Meng] see her sad and upset expression.
+0:54:29|0:54:33|Nan Fang quickly pushed aside to make way as Cheng Jing suddenly passed by.
+0:54:33|0:54:42|Cheng Jing saw the scene of the two people inside and outside, and had already made a conclusion in his heart, so he didn't say anything and just left.
+0:54:42|0:54:51|[Nan Fang] at this moment had dull eyes and a serious expression, but as soon as he saw it was [Meng Meng] calling, his eyes immediately softened.
+0:55:11|0:55:16|Nan Fang listened with mixed feelings, unsure of how to retain her.
+0:55:18|0:55:22|Upon hearing Nan Fang's response, Meng Meng remained expressionless and did not speak for a long time.
+0:55:22|0:55:26|She put down her phone, tears of sadness swirling in her eyes.
+0:55:26|0:55:28|[Nan Fang] hung up the phone, his face grave.
+0:55:28|0:55:31|She hoped [Meng Meng] would stay, but she didn't know how to ask.
+0:55:31|0:55:31|At this moment, [Na Na] is in the hospital muttering about finding her father.
+0:56:12|0:56:15|[Da Peng] quickly comforted him upon seeing the situation.
+0:56:19|0:56:27|[Na Na] still looked gloomy after listening, and [Da Peng] helped her dial the man's phone number.
+0:56:27|0:56:36|[Na Na]'s reaction is heart-wrenching.
+0:56:36|0:56:41|[Na Na] spoke with a tearful voice that broke people's hearts, while [Fei Mei] and [Da Peng] beside her were also very sad.
+0:56:41|0:56:45|[Da Peng] holds [Fei Mei]'s hand to comfort her, always keeping an eye on [Fei Mei]'s condition.
+0:56:47|0:56:51|Unfortunately, [Na Na] did not wait for her father and passed away.
+0:56:51|0:56:58|In the photo, [Na Na]'s bright eyes are particularly beautiful, and the man gently placed [Na Na]'s urn on the cabinet at home.
+0:57:4|0:57:11|[Fei Mei] stood in the living room with a big belly, looking dejected. [Meng Meng] gazed thoughtfully at the urn containing [Na Na]'s ashes.
+0:57:28|0:57:31|[Meng Meng] stood aside, crying uncontrollably, constantly wiping away tears.
+0:57:33|0:57:39|[Fei Mei] looked at the photo of [Na Na] with tears streaming down her face, constantly touching her chest, trying to keep herself calm.
+0:57:49|0:57:54|Seeing [Fei Mei] in such deep sorrow, [Da Peng] stepped forward to comfort her and reminded her to take care of herself.
+0:58:7|0:58:12|[Fei Mei] is overwhelmed with grief, feeling a strong aversion towards the child in her belly.
+0:58:12|0:58:18|[Da Peng] and [Nan Fang] supported [Fei Mei] to her room for rest, and [Meng Meng] was also deeply saddened by the scene.
+0:58:25|0:58:37|[Fei Mei] is lying in the operating room, struggling in pain. The other three are waiting anxiously outside the door. When they see the [doctor], the man quickly steps forward to inquire.
+0:58:37|0:58:41|[Da Peng] looked at the man and patted his shoulder, gesturing for him to go in.
+0:58:41|0:58:44|As soon as the man left, [Da Peng] followed closely behind.
+0:58:44|0:58:49|When he reached the door, [Da Peng] looked at [Meng Meng] sitting on the chair. [Meng Meng] smiled in response but did not get up.
+0:58:51|0:59:0|The child, in the nurse's arms, was not crying or making a fuss, with [Da Peng] and [Nan Fang] looking at the child with smiles on their faces.
+0:59:0|0:59:5|The nurse brought the child to [Fei Mei]'s bedside, and [Nan Fang] looked at the child and said to her.
+0:59:9|0:59:12|Fei Mei replied with a smile after listening.
+0:59:15|0:59:26|Baby, this heartwarming scene of a family of three was seen by [Da Peng], while [Meng Meng] on the corridor is nowhere to be seen at the moment.
+0:59:26|0:59:34|At night, [Meng Meng] tossed and turned in bed.
+0:59:34|0:59:40|Outside the window, thunder and rain were raging, but all that was on [Meng Meng]'s mind was [Na Na].
+0:59:40|0:59:44|[Na Na]'s voice echoed in his ears, tears streaming down her face as she tightly hugged the blanket.
+0:59:46|0:59:54|Nana, who was sleeping in the hospital, was awakened by the thunder outside the window. She slowly sat up and noticed that the child in the opposite bed seemed a bit strange.
+0:59:54|1:0:1|She lifted the blanket and approached the child's bed to find out what was going on. She saw him tossing and turning in bed, his figure contorted in pain.
+1:0:13|1:0:16|Her painful appearance was all seen by [Na Na].
+1:0:16|1:0:19|[Na Na] saw this scene for the first time and was terrified.
+1:0:19|1:0:21|[Na Na] turned around and ran out of the ward, looking for her parents.
+1:0:34|1:0:37|[Doctor] learned about the situation and quickly rushed to the ward to save the patient.
+1:0:37|1:0:40|The children in the ward were also awakened and sat up with their eyes half-closed.
+1:0:40|1:0:48|[Doctor] picked up the suffering child and placed him on the emergency bed, inserted an oxygen tank for him, and immediately sent him for rescue.
+1:0:48|1:0:51|[Na Na] covered her eyes in fear, witnessing the whole process.
+1:0:51|1:0:55|After everyone left, she looked out the window in horror. 
+1:0:55|1:1:3|In the hospital room, the other children were scared and crying loudly, only [Na Na] quietly walked back to her bed, holding onto the edge of the bed and staring blankly at the door.
+1:1:4|1:1:9|At night, in the dimly lit bar, [Meng Meng] and [Da Peng] are sitting at the bar drinking.
+1:1:9|1:1:11|The two characters had a vacant look in their eyes, with a serious expression.
+1:1:11|1:1:18|[Meng Meng] took a deep breath and started to taste the wine in the glass.
+1:1:18|1:1:24|Nan Fang walks down the hospital corridor, where a weeping couple approaches him.
+1:1:24|1:1:27|The man quickened his pace upon seeing this scene and rushed to the hospital room.
+1:1:27|1:1:31|In the hospital room, after tidying up the bed of the deceased child, the nurse then went to the bedside of [Na Na].
+1:1:34|1:1:37|He was in a state of extreme panic, when [Na Na] behind him noticed him.
+1:1:42|1:1:46|He quickly turned around and embraced [Na Na], but she choked up and pointed at the sickbed.
+1:2:12|1:2:15|He hugged [Na Na] with tears streaming down his face, feeling extremely sad.
+1:2:15|1:2:24|In the bar, [Meng Meng] sat blankly with lifeless eyes, while [Da Peng] casually invited him to drink.
+1:2:24|1:2:27|[Meng Meng] smiled and clinked glasses with [Da Peng], each taking a sip.
+1:2:35|1:2:37|He turned his head to look at [Da Peng].
+1:2:47|1:2:50|Meng Meng stood still, looking at Da Peng with a puzzled expression.
+1:2:50|1:2:53|[Da Peng] immediately provides an explanation.
+1:3:4|1:3:6|[Da Peng] looked at [Meng Meng] and expressed his thoughts.
+1:3:6|1:3:8|Meng Meng listened and lowered her head into contemplation.
+1:3:25|1:3:29|The third plan starts with a conversation between [Fei Mei] and [Meng Meng].
+1:3:29|1:3:40|That day, [Meng Meng] arrived early at the restaurant to wait for [Fei Mei]. The environment here was quiet and beautiful, with an ancient and elegant atmosphere. The clean and bright floor-to-ceiling windows provided a clear view of the scenery outside.
+1:3:42|1:3:45|[Fei Mei] arrived on time as invited by [Meng Meng].
+1:3:45|1:3:51|She led the group to look around the front desk and successfully found [Meng Meng], then walked towards her.
+1:3:51|1:3:57|[Meng Meng] saw [Fei Mei] arriving and quickly stood up to greet her.
+1:4:29|1:4:33|On their side, an elegant woman is playing the guzheng on stage.
+1:4:33|1:4:38|Meng Meng looked at Fei Mei with a smile on her face, nervously clasping her hands in front of her chest.
+1:4:38|1:4:46|Rinsing tea, brewing, pouring into the pot, pouring into cups, pouring into the pot, serving tea, all done skillfully by the female waitress.
+1:4:46|1:4:51|Soon, the tea for the guest was ready. She placed the tea on a tray and handed it to [Meng Meng] with both hands.
+1:4:56|1:4:59|Next, the tea was handed to [Fei Mei].
+1:5:3|1:5:6|[Meng Meng] took the tea and first smelled its fragrance.
+1:5:6|1:5:10|Fei Mei took a glance at Meng Meng, then picked up the teacup and started drinking.
+1:5:10|1:5:15|[Meng Meng] put down the teacup and looked at [Fei Mei], hesitating for a moment before speaking.
+1:5:39|1:5:42|[Fei Mei] looked up, a hint of surprise in her eyes.
+1:6:3|1:6:9|Fei Mei lowered her head in contemplation, took a sip from the tea cup, and then Meng Meng continued speaking.
+1:6:13|1:6:15|Fei Mei's hand, which was pouring tea, suddenly stopped.
+1:6:24|1:6:27|[Fei Mei] picked up the teapot and filled her cup.
+1:6:28|1:6:30|After thanking him politely, [Nan Fang] said.
+1:6:37|1:6:39|[Fei Mei] looked up at her.
+1:6:42|1:6:43|[Na Na] smiled.
+1:6:48|1:6:49|She continued speaking immediately.
+1:6:54|1:6:56|She looked at Fei Mei with anticipation on her face.
+1:7:2|1:7:5|Fei Mei suddenly looked up, gazing at him seriously.
+1:7:10|1:7:13|Nan Fang candidly revealed his plan.
+1:7:54|1:7:57|Fei Mei looked away guiltily.
+1:8:2|1:8:5|Fei Mei took a deep breath and said.
+1:8:27|1:8:31|Fei Mei's emotions suddenly got out of control, and the two of them nervously looked around.
+1:8:31|1:8:36|The woman on the stage glanced at the two of them before starting to play the piano again.
+1:8:36|1:8:41|Meng Meng sighed deeply and said.
+1:8:41|1:8:45|Meng Meng's mood gradually became despondent.
+1:8:52|1:8:59|Wang Meng spoke, her eyes gradually moistening, she lowered her head and said after a moment of thought.
+1:9:17|1:9:22|Fei Mei couldn't bear to see the tearful and pitiful look of [Meng Meng].
+1:9:33|1:9:40|She looked at [Meng Meng] with a determined look, and after a moment, she stood up and said to [Meng Meng].
+1:9:51|1:9:55|Wang Meng finished speaking and then turned his head to look elsewhere.
+1:10:1|1:10:4|[Wang Meng] looked up at her.
+1:10:5|1:10:11|After a moment of eye contact, [Fei Mei] took out a banknote from her bag and placed it on the table.
+1:10:16|1:10:23|[Fei Mei] said and then left with her bag. As [Fei Mei] gradually went away, [Meng Meng] sat slumped in the chair as if she had lost her soul.
+1:10:23|1:10:27|She let out a long sigh, and tears welled up in her eyes without her realizing it.
+1:10:27|1:10:35|She hugged her arms with both hands, sadness in her eyes as tears silently rolled down. 
+1:10:35|1:10:38|That day, the man arrived at [Fei Mei]'s house with his luggage.
+1:10:38|1:10:42|This time he came to reconcile with [Fei Mei] and save [Na Na].
+1:10:42|1:10:45|He took out the key, opened the door, and walked in with his luggage.
+1:10:49|1:11:0|She took out her toiletries and neatly placed them on the sink in the bathroom. After carefully examining herself in the mirror for a moment, she let out a long sigh.
+1:11:0|1:11:3|She opened the closet and took out the sheets and blankets, then entered [Na Na]'s room.
+1:11:6|1:11:14|The room is decorated very warmly, with a sofa, TV, and everything else. The pink bedsheets and quilt cover exude a strong girlish vibe.
+1:11:14|1:11:21|On the bed, there was a cute Mickey Mouse doll. [Nan Fang] picked up the doll and looked at it for a moment before placing it on the chair beside.
+1:11:27|1:11:34|[Nan Fang] began to carefully tidy up the bed. After arranging everything neatly, [he] sat down on the bed and stroked the blanket, lost in thought.
+1:11:34|1:11:41|Later, [Nan Fang] came to the kitchen to prepare dinner for [Fei Mei].
+1:11:41|1:11:51|At this moment, [Fei Mei] just got off work with a bag on her back and walked in without noticing the man in the kitchen.
+1:11:51|1:11:53|Upon hearing the voice of the man, [Fei Mei] looked surprised.
+1:11:57|1:12:3|[Da Peng] hung up his briefcase, took off his coat, and then turned around to come to the dining table.
+1:12:3|1:12:8|At this moment, Nan Fang brought the final dish to the dining table.
+1:12:8|1:12:18|[Da Peng] went to wash his hands upon seeing the situation, arranged the tableware, took off his apron, and said to [Fei Mei] behind him.
+1:12:18|1:12:20|The two looked at each other without saying a word.
+1:12:20|1:12:24|Fei Mei sits down at the table, and the man takes out a piece of paper from his front pocket and hands it to Fei Mei.
+1:15:35|1:15:39|The two had different ideas and ended up quarreling and parting ways.
+1:15:39|1:15:49|[Fei Mei] sat sullenly on the bed in the bedroom. After a moment of calm, she glanced at [Nan Fang], then slammed the door shut fiercely. The loud noise left [Nan Fang] feeling a bit bewildered.
+1:15:49|1:15:56|In the bar, [Meng Meng] was drinking alone with a troubled expression on her face. She finished her drink in one gulp and emotionlessly said to [Da Peng].
+1:15:59|1:16:2|[Da Peng] picked up the wine glass, took a sip, and did not answer.
+1:16:2|1:16:12|Meng Meng picked up the bottle, filled her own glass, and looked at Da Peng with her head.
+1:16:12|1:16:16|He looked at [Da Peng] with a disappointed expression on his face.
+1:16:16|1:16:20|Upon hearing [Da Peng]'s response, he suddenly burst into laughter, self-deprecatingly saying.
+1:16:23|1:16:27|[Meng Meng] picked up a full glass of wine and drank it all in one gulp.
+1:16:27|1:16:32|[Da Peng] looked at [Meng Meng], who appeared so disheveled, feeling a bit worried.
+1:16:32|1:16:39|After downing a shot of strong liquor, [Meng Meng] coughed continuously, but still filled up her own glass.
+1:16:39|1:16:47|On stage, a young man holding a highball glass is singing, while [Meng Meng] looks at him with a lost expression.
+1:16:52|1:16:56|He drank alone, his eyes filled with loneliness.
+1:16:56|1:17:1|Later, he sensibly said.
+1:17:1|1:17:7|He turned his head and looked at [Da Peng].
+1:17:7|1:17:10|He said with discontent in his heart, drinking heavily.
+1:17:12|1:17:16|[Da Peng] didn't know how to comfort in this situation.
+1:17:16|1:17:27|[Meng Meng], with a drink in her hand, leaned on the bar counter, looking at [Da Peng].
+1:17:27|1:17:33|[Meng Meng] is getting emotional and starting to mutter to herself.
+1:17:33|1:17:36|She angrily tried to pour herself a drink, only to find the bottle empty.
+1:17:39|1:17:48|He looked at the empty wine bottle, in a moment of desperation he threw it out, the flying bottle smashed the mirror and also cut [Da Peng]'s forehead.
+1:17:48|1:17:55|In the bar, everyone quieted down when they heard the commotion, and the young man singing on stage was so scared that he didn't move at all.
+1:17:55|1:17:59|Meng Meng looked at [Da Peng]'s bleeding forehead and instantly sobered up.
+1:17:59|1:18:4|The waiter came over to check the situation, looking at the mirror and then at the two of them, somewhat incredulous.
+1:18:8|1:18:14|In the hospital room, [Na Na] sat alone on the bed, with cute dolls and her hat placed behind her.
+1:18:14|1:18:18|She spread the notebook on her lap and wrote carefully, the title was "My Will".
+1:19:2|1:19:13|[Na Na] fell asleep holding the pencil after finishing writing, while the man sat at the bedside looking at the notebook, feeling a mix of emotions. He gently rested his head on [Na Na]'s shoulder, savoring her presence.
+1:19:16|1:19:20|In the car, [Da Peng], with bandages on his forehead, is driving.
+1:19:20|1:19:24|In the back seat, [Meng Meng] sat expressionless, staring ahead.
+1:19:24|1:19:29|Busy observing the road conditions, [Da Peng] completely failed to notice that [Meng Meng] was watching him.
+1:19:29|1:19:33|Driving across an overpass, a car zoomed past them.
+1:19:46|1:19:53|Unexpectedly, [Da Peng]'s next words caught him off guard.
+1:19:53|1:19:57|At this moment, [Nan Fang] arrived at the Children's Library in Beijing.
+1:19:57|1:20:1|He hesitated at the door for a moment before walking in.
+1:20:31|1:20:37|[Nan Fang] arrived at the entrance of a library, where many children were reading inside.
+1:20:37|1:20:40|He walked in and asked the staff inside.
+1:20:58|1:21:12|[Nan Fang] walked out the door and headed towards the archive room. The buildings outside exuded a classical atmosphere, lush trees swayed in the wind, and the pond shimmered with waves of light under the sunlight.
+1:21:12|1:21:21|[Nan Fang] just walked in and saw [Fei Mei] coming down from upstairs with some materials in her arms. [Fei Mei] looked a bit surprised to see him, and after a moment of eye contact, the two of them went outside.
+1:21:25|1:21:41|The old window, straight pillars, and elegant ancient architecture. Two people walk in a line on the corridor. The man looks back at [Fei Mei], and they stop and make eye contact. However, [Fei Mei] lowers her head and avoids eye contact. Neither of them speaks, and they continue to arrive at a square.
+1:21:45|1:22:7|[Nan Fang] walked with his hands in his pockets and a briefcase in front of him. [Fei Mei] looked at [Nan Fang] from behind, deep in thought. After a moment of contemplation, she quickened her pace and walked up to [Nan Fang]. Seeing the familiar scene, [Nan Fang] couldn't help but express his feelings and said to [Fei Mei].
+1:22:32|1:22:34|[Fei Mei] nodded after listening.
+1:22:38|1:22:44|[Nan Fang]’s words caught [Fei Mei] off guard, she stopped in her tracks and looked [Nan Fang] up and down.
+1:22:50|1:23:0|Fei Mei felt a little sad after listening, she slowly raised her head and met eyes with Nan Fang, then forced herself to remain calm, smiling at Nan Fang.
+1:23:8|1:23:28|[Nan Fang] listened and nodded in agreement. At that moment, a car was slowly approaching them, catching the attention of both. [Nan Fang] turned his head slowly and saw [Meng Meng] getting out of the car with a bag in hand. She closed the car door, adjusted her hair, and walked towards the two with a smile on her face, watching [Nan Fang] and [Fei Mei] chatting happily.
+1:23:28|1:23:42|Her expression was a bit awkward, [Nan Fang] quickly approached and embraced her on the bridge, expressing their longing for each other through actions. The man sighed while holding [Meng Meng], feeling relieved in his heart.
+1:23:42|1:23:45|The car slowly started and arrived in front of [Fei Mei].
+1:23:45|1:23:50|[Fei Mei] walked down the steps and saw the two embracing, smiling with relief.
+1:23:50|1:23:54|She was then attracted by the sedan, looking at the car with a puzzled expression.
+1:23:54|1:23:58|[Da Peng] opened the car door and walked out with a bandage on his forehead.
+1:23:58|1:24:2|He leaned against the car roof with one hand and held the car door with the other, looking at [Fei Mei] with a silly smile.
+1:24:2|1:24:7|Fei Mei saw the enthusiastic and cheerful [Da Peng], and also showed a sweet smile.
+1:24:7|1:24:10|The two of them gazed lovingly into each other's eyes.
+1:24:10|1:24:14|A moment later, Fei Mei nodded approvingly at [Da Peng].
+1:24:14|1:24:17|Countless words and emotions are all reflected in the eyes at this moment.
+1:24:17|1:24:21|Fei Mei looked at [Da Peng]'s expression, knowing full well what was on his mind.
+1:24:23|1:24:32|The elevator doors open, and a woman pushing a baby stroller enters the elevator, accompanied by the lively and adorable [Na Na].
+1:24:32|1:24:35|Upon entering the elevator, [Na Na] looked up and gazed at the woman with an innocent expression.

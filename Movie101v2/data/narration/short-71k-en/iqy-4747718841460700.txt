@@ -1,0 +1,479 @@
+0:1:58|0:2:5|The scene starts at the entrance of the Shanghai Nursing School, where several female students are entering the school one after another.
+0:2:5|0:2:10|The school campus is shaded by green trees, with students sitting in groups on the lawn chatting.
+0:2:17|0:2:20|The singing came from the hallway of the school dormitory.
+0:2:20|0:2:28|A girl sat on the railing singing a song, with three others standing on the corridor, linking arms and swaying along with the music.
+0:2:28|0:2:33|They are all wearing nurse uniforms, their faces beaming with youthful vigor.
+0:2:47|0:3:10|In the dormitory, several girls are playing and laughing. Two girls sit down, and the other three gather around.
+0:3:10|0:3:14|[Ma Feixia] is lying on the bed looking in the mirror, with the girls gathering around.
+0:3:41|0:3:54|The person who just spoke was the principal of the nursing school. After giving instructions, he gently closed the door, turned off the lights in the student dormitory, and left.
+0:3:54|0:3:59|The night was clear with swaying tree shadows, it was already late at night.
+0:4:7|0:4:15|The protagonist [Jian Suhua] quietly walked into the dormitory room and sat on her own bed.
+0:4:15|0:4:32|He sat with his knees together, opened the diary on his lap, uncapped the pen, and began writing in the diary.
+0:4:43|0:4:48|The whole nursing school was in an uproar.
+0:4:53|0:5:0|At this moment, the girls lying on the bed are all awake, some playing with their braids and pondering about their future.
+0:5:2|0:5:5|Jian Suhua, sleeping on the upper bunk, tossed and turned in bed.
+0:5:5|0:5:10|She pushed her glasses up and leaned forward, asking [Jian Suhua] who was sitting below.
+0:5:14|0:5:16|[Jian Suhua] playfully winked.
+0:5:24|0:5:29|Tang Xiaofang climbed up to the upper bunk and sat cross-legged facing [Jian Suhua].
+0:5:36|0:5:37|[Jian Suhua] holds her tightly.
+0:5:37|0:5:40|[Jian Suhua] smiled and lifted Tang Xiaofang's face.
+0:6:23|0:6:30|The scene shifts to a hospital, where two doctors and [Shen Haoru] walk out of a ward.
+0:6:43|0:6:48|The old doctor nodded in satisfaction as a nurse approached.
+0:6:48|0:6:57|The old doctor nodded to [Shen Haoru] in approval, and [Shen Haoru] quickly walked away with the nurse.
+0:6:57|0:7:1|The two doctors walked away while chatting about their opinions on [Shen Haoru].
+0:7:3|0:7:5|[Shen Haoru] answered the phone.
+0:7:13|0:7:19|[Tang Xiaofang] paced back and forth in the corridor outside the principal's office, where the conversation between the principal and [Jian Suhua] could be heard.
+0:8:7|0:8:9|The principal took out a stack of telegrams from the drawer.
+0:8:34|0:8:36|[Jian Suhua] hesitated.
+0:9:9|0:9:21|Standing outside the window, [Tang Xiaofang] pointed at herself vigorously, hinting at [Jian Suhua], who smiled.
+0:9:40|0:9:44|Seventeen nurses.
+0:9:44|0:9:47|At this moment, [Jian Suhua] finally noticed [Gao Changping] in the office.
+0:10:0|0:10:2|[Gao Changping] approaches [Jian Suhua].
+0:10:16|0:10:21|Principal picked up the roster from the table.
+0:10:23|0:10:25|[Jian Suhua] saw the list and smiled happily.
+0:10:58|0:11:3|[Jian Suhua] did not answer, and continued walking forward.
+0:11:3|0:11:6|They stopped in front of their house.
+0:11:20|0:11:25|Shen Haoru embraced [Jian Suhua], and the two of them ran into the corridor laughing.
+0:11:25|0:11:27|Shen Haoru closed the door of the corridor and was about to go upstairs.
+0:11:28|0:11:38|[Jian Suhua] excitedly hugged him, and after he finished speaking, she shyly ran upstairs.
+0:11:38|0:11:44|[Jian Suhua] stopped in front of the door, while Shen Haoru continued to run up to the room upstairs.
+0:11:44|0:11:50|[Jian Suhua] was very puzzled. Shen Haoru stood on the building and waved to [Jian Suhua], who followed him upstairs.
+0:11:54|0:12:1|[Jian Suhua] stood at the door, looking around the well-furnished room as directed by Shen Haoru.
+0:12:1|0:12:9|Shen Haoru smiled triumphantly.
+0:12:9|0:12:15|Shen Haoru's face was solemn as he stepped forward and embraced him.
+0:12:15|0:12:18|[Jian Suhua] lowered her head and pushed Shen Haoru away, walking to the window.
+0:12:22|0:12:26|Shen Haoru ran sadly to the room downstairs.
+0:12:26|0:12:31|[Jian Suhua] looked at her back, not knowing what to do.
+0:12:32|0:12:39|[Jian Suhua] frowned and walked to the table, sitting down.
+0:12:39|0:12:44|[Jian Suhua] turned and walked towards the room downstairs.
+0:12:44|0:12:47|At this moment, Shen Haoru was sitting on the edge of the bed, dragging his forehead.
+0:12:48|0:12:53|Seeing [Jian Suhua], [Shen Haoru] tugged at his clothes and said discontentedly.
+0:13:7|0:13:8|Shen Haoru choked up a bit.
+0:13:14|0:13:22|[Jian Suhua] looked at [Shen Haoru] and slowly walked over to sit beside her.
+0:13:27|0:13:29|Shen Haoru tightly held Jian Suhua's hand.
+0:13:42|0:13:43|Shen Haoru stood up angrily and walked to the table.
+0:14:4|0:14:14|[Jian Suhua] gently grabbed [Shen Haoru]'s clothes, pleading with her with her eyes. [Shen Haoru] unwilling to face her, turned to the side.
+0:14:14|0:14:18|[Jian Suhua] smiled and looked at [Shen Haoru], gently caressing her.
+0:14:18|0:14:23|Shen Haoru nodded helplessly.
+0:14:28|0:14:38|The station mother is seeing off [Jian Suhua].
+0:14:38|0:14:43|After listening to her mother's advice, [Jian Suhua] embraced her mother.
+0:14:43|0:14:49|The train station is crowded with people, and there are constant reminders for people to board the train.
+0:14:49|0:14:52|Upon hearing Gao Changping's urging, Jian Suhua wiped away her tears.
+0:15:1|0:15:10|[Jian Suhua] ran into Tang Xiaofang.
+0:15:10|0:15:13|[Jian Suhua] anxiously looked around.
+0:15:18|0:15:22|[Jian Suhua] and Tang Xiaofang leaned out of the car window to bid farewell to their family.
+0:15:24|0:15:34|Shen Haoru ran towards the train carrying a bouquet of flowers and a package intended for [Jian Suhua], but the train had already started moving.
+0:15:34|0:15:38|[Jian Suhua] and Tang Xiaofang waved to Shen Haoru, who ran alongside the moving train.
+0:15:45|0:15:50|Shen Haoru tried to hand the flowers to [Jian Suhua] through the car window, but accidentally dropped them on the ground.
+0:15:50|0:15:55|He quickly picked up the flowers and handed them along with the package through the car window to [Jian Suhua].
+0:16:0|0:16:5|Shen Haoru looked at [Jian Suhua] with reluctance, and followed the train as it continued to run.
+0:16:5|0:16:11|He reached out towards the car window, trying to hold hands with [Jian Suhua] again, but he accidentally fell down.
+0:16:11|0:16:13|As Jian Suhua stood up, the train had already gone far away.
+0:16:16|0:16:22|Shen Haoru stands with [Jian Suhua]'s mother.
+0:16:22|0:16:31|Jian Suhua's mother looked at Shen Haoru with concern.
+0:16:31|0:16:41|In the train carriage, Tang Xiaofang is reading a book, while [Jian Suhua] sits opposite her, holding the flowers sent by Shen Haoru and looking out the window with a serious expression.
+0:16:43|0:16:48|At this moment, [Gao Changping] walked over to them with a smile.
+0:16:56|0:17:0|[Gao Changping] sat down in the empty seat next to Tang Xiaofang.
+0:17:14|0:17:32|The companions sang joyfully, full of expectations for the future.
+0:17:32|0:17:37|Tang Xiaofang pointed to [Gao Changping] looking out the window at [Jian Suhua], while their companions sang along.
+0:17:48|0:17:50|[Jian Suhua] came to her senses and sang along with them.
+0:18:27|0:18:33|The train arrived in the snowy north.
+0:18:33|0:18:40|[Jian Suhua] and Tang Xiaofang, dressed in heavy cotton coats, traveled with others by carriage to their residence.
+0:18:40|0:18:45|The two people snuggled closely together, looking around curiously.
+0:18:47|0:18:51|The passengers and the person leading the cart were all wrapped in thick cotton coats.
+0:18:51|0:18:58|Three mule carts are moving forward on a snowy path.
+0:18:58|0:19:6|The donkey cart stopped in front of a single-story house.
+0:19:6|0:19:15|People got off the car with their luggage.
+0:19:37|0:19:43|Pointing to the other side of the wasteland, where several flags stood on the empty ground, with distant mountains stretching out in the background.
+0:19:51|0:19:52|[Gao Changping] smiled.
+0:19:58|0:19:59|The two of them were somewhat puzzled.
+0:20:5|0:20:9|[Jian Suhua] gently touched Tang Xiaofang, and the two of them started laughing.
+0:20:11|0:20:27|At this moment, the screen shows a vast expanse of white snow. [Jian Suhua] and Tang Xiaofang excitedly run towards the work site registration office. The snow on the road is ankle-deep, and Tang Xiaofang, wearing a heavy cotton coat, walks unsteadily in front of [Jian Suhua] and accidentally falls down.
+0:20:29|0:20:36|[Jian Suhua] smiled and approached, trying to help Tang Xiaofang up. After several attempts, she failed and ended up falling to the ground herself.
+0:20:36|0:20:44|The two of them sat in the snow laughing, with [Jian Suhua] mischievously kicking the accumulated snow on the ground.
+0:21:11|0:21:12|The two of them were a bit anxious.
+0:21:31|0:21:35|[Jian Suhua] smiled helplessly, while Tang Xiaofang looked a bit unhappy.
+0:21:35|0:21:42|[Jian Suhua] grabbed Tang Xiaofang's hand, shook her head at her, and the two sighed together.
+0:21:42|0:21:47|The scene now shows the area outside the medical station of the 102nd work zone.
+0:21:47|0:21:55|In front of the courtyard covered with snow, there are several withered trees, and the rolling hills surround the small clinic.
+0:21:55|0:21:58|[Jian Suhua] ran down the hill carrying her luggage.
+0:21:59|0:22:8|Looking up, Jian Suhua saw a sign hanging on a dry wooden utility pole, indicating the 102 Work Area Medical Station and a red cross symbol.
+0:22:8|0:22:15|Although panting from rushing, [Jian Suhua] was very excited and quickly ran towards the front door of the medical station.
+0:22:17|0:22:21|Walking into the medical station, [Jian Suhua] looked around curiously.
+0:22:21|0:22:25|There are some bloody gauze scattered on the ground and benches.
+0:22:25|0:22:30|Through the window, you can see bottles and jars of medicine on the gift shelf.
+0:22:30|0:22:35|[Jian Suhua] walked inside.
+0:22:35|0:22:41|By chance, Jian Suhua saw Manager Mo and his lover kissing in front of the office desk.
+0:22:42|0:22:48|[Jian Suhua] felt a little embarrassed, turned his back, but couldn't help but sneak a curious glance.
+0:22:48|0:22:54|He shook the bag in his hand, trying to get their attention.
+0:22:54|0:22:56|In a warm gesture, [Ma Dongmei] took the luggage.
+0:23:8|0:23:14|The village chief and [Jian Suhua] sat side by side on the bench, while Gu Huiying lowered her head and knitted.
+0:23:14|0:23:17|Innkeeper Mo noticed that his lover was a little angry, so he had to stand up.
+0:23:37|0:23:42|Gu Huiying saw Manager Mo being so enthusiastic towards the beautiful [Jian Suhua] that she forcefully punched his waist.
+0:23:42|0:23:52|In pain, Manager Mo furrowed his brow and awkwardly explained.
+0:23:52|0:23:54|The staff member of the volunteer station, Zhang Aliu, walked in.
+0:24:0|0:24:10|[Jian Suhua] warmly greeted them.
+0:24:10|0:24:14|[Jian Suhua] warmly grasped the hands that Old Zhang was trying to avoid, and the two of them smiled at each other.
+0:24:14|0:24:20|At this moment, Gu Huiying gave a signal to Director Mo, and the two of them walked into the examination room one after the other.
+0:24:25|0:24:28|Innkeeper Mo caressed Jian Suhua's hand, and Jian Suhua smiled.
+0:24:44|0:24:48|Innkeeper Mo was feeling a bit awkward.
+0:24:48|0:24:49|In agreement, Manager Mo nodded.
+0:24:49|0:24:53|Outside the clinic, [Jian Suhua] is wiping the railing.
+0:24:53|0:24:56|Innkeeper Mo said to Old Zhang.
+0:24:56|0:24:57|Lao Zhang walked away.
+0:25:14|0:25:19|[Jian Suhua] continued to wipe the railing, while Captain Mo pondered for a moment before speaking.
+0:25:39|0:25:43|Jian Suhua was shocked!
+0:26:17|0:26:30|The station master left, and [Jian Suhua] shook her head with concern. It was late at night, the surroundings were pitch black, with only a faint light coming from the small lamp above the medical station sign.
+0:26:30|0:26:40|The night wind was strong, and the small lamp was swaying. The dry branches around were faintly visible in the flickering light.
+0:26:40|0:26:48|Frost had formed on the edge of the window. At the medical station, only [Jian Suhua] was on duty, sitting by the window writing in her diary.
+0:27:8|0:27:16|[Jian Suhua] was thinking when suddenly he heard the terrifying sound of the wind. He quickly stood up from the chair and stared out the window with wide eyes.
+0:27:21|0:27:28|The wind subsided slightly, and [Gao Changping] breathed a sigh of relief, then resumed writing in his diary.
+0:27:28|0:27:30|A noise came from outside the window.
+0:27:30|0:27:37|[Jian Suhua] was very scared. He looked out the window and slowly backed away, accidentally bumping into the stove where water was boiling.
+0:27:37|0:27:42|He was startled and instinctively picked up the stove hook on the stove for self-defense.
+0:27:44|0:27:47|He bent down and walked cautiously towards the window.
+0:27:48|0:27:51|The door behind them suddenly opened on its own.
+0:27:51|0:27:54|[Jian Suhua] looked at the wooden door, there was nothing.
+0:27:54|0:27:58|He continued to bend down and walked towards the window, a dark figure swaying in front of the window.
+0:28:2|0:28:10|The pair of shoes that were originally placed on the roof were blown down by the wind and hung on the eaves, swaying from side to side.
+0:28:10|0:28:21|[Jian Suhua] found it amusing. He opened the window above, used the poker in his hand to hook the shoes down, and mischievously used the poker to discipline the shoes.
+0:28:21|0:28:26|At this moment, there was a loud knocking on the door.
+0:28:30|0:28:36|Upon hearing that her friend had arrived, [Jian Suhua] quickly dropped what she was holding and excitedly went to open the door.
+0:28:36|0:28:41|[Jian Suhua] quickly closed the door. After Tang Xiaofang came in, she took off her gloves and hat, shaking off the snow on her body.
+0:28:53|0:29:0|They embraced each other excitedly, walked into the room arm in arm, Tang Xiaofang took off her cotton coat, and [Jian Suhua] spread out the quilt on the bed.
+0:29:5|0:29:8|They embrace each other.
+0:29:11|0:29:13|Tang Xiaofang shook her head.
+0:29:20|0:29:27|[Jian Suhua] helped Tang Xiaofang onto the bed and wrapped the quilt around her.
+0:29:27|0:29:30|[Jian Suhua] moved a stool to the bedside and sat down.
+0:29:32|0:29:34|Tang Xiaofang pursed her lips.
+0:29:39|0:29:41|Tang Xiaofang shook her head.
+0:29:42|0:29:44|Tang Xiaofang shook her head again.
+0:29:50|0:29:53|[Jian Suhua] sat behind Tang Xiaofang, who yawned. The two leaned against the head of the bed.
+0:30:49|0:30:55|[Jian Suhua] is waiting for an answer.
+0:30:55|0:31:5|[Jian Suhua] looked at Tang Xiaofang, who had already fallen asleep, and smiled as she pinched her nose.
+0:31:5|0:31:12|[Jian Suhua] got up to tuck in Tang Xiaofang, then moved the stool back to the table and picked up the pen, intending to continue writing in her diary.
+0:31:16|0:31:30|He suddenly remembered something, opened the drawer and took out a stack of letters, falling into deep thought.
+0:31:30|0:31:33|He wrote.
+0:31:37|0:31:47|The scene then shifts to the hospital where Jian Suhua is located. She pushes open the door to the nurse's station and starts writing something in a notebook as she walks.
+0:31:47|0:32:19|Ma Feixia took the note from Shen Haoru's hand, and the two walked to the table. Shen Haoru flipped through it, Ma Feixia smiled at her. Upon hearing this, Shen Haoru's hand holding the letter twitched slightly. Ma Feixia chuckled softly, then turned and walked out of the nurse's station.
+0:32:19|0:32:27|Shen Haoru saw him leave, hurriedly tore open the letter, took out Jian Suhua's letter, and read it carefully.
+0:32:27|0:32:30|He furrowed his brow and shook his head.
+0:32:47|0:32:54|The scene shifts, [Jian Suhua] carries a tray filled with medical supplies to the medical station table and arranges them one by one.
+0:32:57|0:33:7|Colleague Lao Zhang walked over and handed a piece of gauze to [Jian Suhua]. [Jian Suhua] smiled and took it, then put the gauze into the jar.
+0:33:7|0:33:16|Later, [Jian Suhua] tidied up the shelves while Lao Zhang arranged the tables and chairs, and then the two of them walked out of the inner room one after another.
+0:33:16|0:33:22|Several workers waiting for treatment outside, Jian Suhua and Gao Changping walk in from the door.
+0:33:22|0:33:26|[Captain Mo] walked to the desk, put down the handbag, took off the coat, and placed it on the back of the chair.
+0:33:56|0:34:4|A worker wearing a safety helmet walked in and placed his arm on the table, [Director Mo] began to feel his pulse.
+0:34:4|0:34:18|[Gu Huiying] is applying medicine to the patient's waist. When changing the medicine, she inadvertently catches a glimpse of the papers in [Jian Suhua]'s hand, standing next to [Captain Mo] and saying something. [Gu Huiying] becomes entranced, forgetting that she is applying medicine, standing still in a daze.
+0:34:22|0:34:37|[Gu Huiying] mistakenly placed the gauze on the patient's neck.
+0:34:37|0:34:46|[Director Mo] wrote the prescription and handed it to the patient. It was only then that he looked up and recognized this fellow worker.
+0:34:52|0:34:56|Innkeeper Mo crumpled up the prescription he had just written.
+0:34:56|0:34:58|He rewrote a prescription, tore it off, and handed it to the worker.
+0:35:19|0:35:26|The worker took the prescription to [Gu Huiying] for an injection, while the third patient [Lu Hao] sat down.
+0:35:26|0:35:35|[Gao Changping] took the prescription and looked at it, picked up a needle, disinfected it, and prepared to give an injection.
+0:35:54|0:35:56|Gu Huiying is a little angry.
+0:35:56|0:36:2|[Luhao] walked over after seeing the patient, while [Gu Huiying] was giving injections to the workers.
+0:36:5|0:36:10|After speaking, Jian Suhua continued to give the workers injections and apply medicine, causing the workers to grimace in pain.
+0:36:11|0:36:12|Luhao retrieves the kitchen.
+0:36:18|0:36:20|[Gao Changping] turned and walked away.
+0:36:24|0:36:26|[Jian Suhua] caught up.
+0:36:43|0:36:47|[Jian Suhua] walked to the table to prepare the medicine, and Lu Hao also followed and sat down.
+0:37:38|0:37:44|Lu Hao laughed and was about to leave when he accidentally bumped into Gu Huiying, who walked to the table with a displeased look on her face.
+0:37:48|0:37:56|[Jian Suhua] and Tang Xiaofang are having a meal together.
+0:37:56|0:38:7|Tang Xiaofang took out a small bottle and poured it into the soup.
+0:38:7|0:38:11|[Jian Suhua] couldn't help but laugh at the way Tang Xiaofang was frowning while drinking soup.
+0:38:14|0:38:23|Gu Huiying passed by, and [Jian Suhua] couldn't help but laugh at these words.
+0:38:23|0:38:30|Gu Huiying sat down next to Lao Zhang and started eating.
+0:38:30|0:38:43|[Jian Suhua] and Tang Xiaofang looked towards Gu Huiying, and Tang Xiaofang asked. Tang Xiaofang was not pleased to hear this.
+0:38:44|0:38:49|Tang Xiaofang angrily tapped the bowl.
+0:38:49|0:38:52|Gu Huiying finished speaking and then forcefully tapped the bowl.
+0:39:6|0:39:9|After Tang Xiaofang finished speaking, she knocked again.
+0:39:9|0:39:13|[Jian Suhua] couldn't bear it anymore, she put down her chopsticks and got up to leave.
+0:39:13|0:39:18|Tang Xiaofang and Gu Huiying stood up together.
+0:39:18|0:39:31|Taking advantage of Gu Huiying's absence to fetch rice, Tang Xiaofang poured a whole bottle of salt into her soup and stirred it a few times before running out of the cafeteria.
+0:39:31|0:39:33|Lao Zhang witnessed all this, but remained silent.
+0:39:36|0:39:45|Gu Huiying came back, picked up the bowl of soup full of salt, blew on it, took a sip, and immediately spat it out.
+0:39:45|0:39:49|Lao Zhang was amused by this scene.
+0:39:49|0:40:1|Tang Xiaofang happily arrived at [Jian Suhua]'s residence with an empty salt bottle, only to see [Jian Suhua] crying with her face covered.
+0:40:7|0:40:16|Tang Xiaofang puts the bottle into her pocket.
+0:40:16|0:40:23|[Gao Changping] arrived at this moment, knocked on the door and saw [Jian Suhua] crying.
+0:40:57|0:41:4|After speaking, Tang Xiaofang turned around to help [Jian Suhua] pack up, and [Jian Suhua] also made up her mind to pack up with her.
+0:41:4|0:41:9|At this moment, [Gao Changping] quietly walked up behind them and helped pass things along.
+0:41:18|0:41:22|Tang Xiaofang turned around, and [Jian Suhua] also came over.
+0:41:34|0:41:39|[Jian Suhua] felt a little embarrassed and turned her head to walk away.
+0:41:59|0:42:1|Upon hearing this, [Jian Suhua] sat down sadly.
+0:42:1|0:42:7|After saying that, [Gao Changping] placed the neatly packed suitcase at [Jian Suhua]'s feet.
+0:42:28|0:42:31|[Jian Suhua] hesitated.
+0:42:40|0:42:43|[Jian Suhua] stopped Tang Xiaofang who was trying to pick up the luggage.
+0:43:0|0:43:6|Upon hearing this, Tang Xiaofang stuck out her tongue at [Jian Suhua], set down her luggage, and [Gao Changping] chuckled.
+0:43:40|0:43:48|At the evening party, workers were playing musical instruments, some were playing small drums, some were playing flutes, some were playing violins, and there were also those playing the erhu.
+0:43:48|0:43:50|A girl is standing on the stage singing.
+0:44:14|0:44:22|The dance hall was packed with people, everyone dancing to the music. [Jian Suhua], Tang Xiaofang, and [Gao Changping] were all present.
+0:44:28|0:44:34|In the dance hall, there are people dressed in ethnic costumes, some in suits and leather shoes, and others in work clothes.
+0:44:34|0:44:46|After a busy day, [Jian Suhua] and [Gao Changping] are now relaxing by dancing.
+0:44:46|0:44:53|[Gao Changping] and [Jian Suhua] stood on the balcony of the ballroom, leaning on the railing and gazing at the construction site under development.
+0:44:53|0:44:56|[Gao Changping] turned around and said to [Jian Suhua].
+0:45:25|0:45:38|After speaking, they turned around and looked again at the construction site that was already taking shape.
+0:45:38|0:45:41|At this moment, Manager Mo walked towards the balcony.
+0:45:41|0:45:43|Innkeeper Mo smiled at [Jian Suhua].
+0:45:55|0:46:0|[Jian Suhua] agreed and turned back to the ballroom, with Mr. Mo quickly following after her.
+0:46:0|0:46:9|[Gao Changping] smiled as he watched their backs. Just as he turned around, he heard the voice of a little girl.
+0:46:9|0:46:13|[Gao Changping] walked over and lifted his daughter up, smiling as he asked.
+0:46:20|0:46:24|[Gao Changping] opened a dance hall and then left with his daughter.
+0:46:24|0:46:28|At this moment, [Jian Suhua] is dancing with Manager Mo.
+0:46:55|0:47:6|After speaking, [Jian Suhua] smiled and ran away. Mr. Mo took off his hat and stared blankly at [Jian Suhua]'s back.
+0:47:6|0:47:11|At this moment, [Jian Suhua] is walking towards the construction site, carrying a small medicine box slung diagonally across his body.
+0:47:13|0:47:37|The driver was blown by the strong wind as he stood on a small hill looking towards the construction site. Several small houses were scattered on the site, surrounded by various construction equipment: bulldozers, excavators, trucks, and small trains on tracks were all operating non-stop, with people busy at their positions.
+0:47:38|0:47:45|Construction is proceeding apace, completely different from when [Jian Suhua] first arrived here.
+0:47:45|0:47:49|[Jian Suhua] was delighted to see such a scene.
+0:47:49|0:47:55|In the distance, the sound of an explosion could be heard.
+0:47:55|0:47:59|Smoke billowed on the hillside, and [Jian Suhua] hurried towards the construction site.
+0:48:1|0:48:10|A car drove past him at that moment, splashing water like arrows on the road. [Jian Suhua] quickly dodged to the side.
+0:48:10|0:48:12|He immediately turned around and stopped a car to ask for directions.
+0:48:22|0:48:36|[Jian Suhua] grabbed the car door and the car quickly headed towards the 102 district. Along the way were construction sites with countless steel bars and cement piled on the ground, and several large cranes were operating nervously.
+0:48:36|0:48:40|The car quickly arrived at the destination.
+0:48:40|0:48:45|[Jian Suhua] got off the car and excitedly ran towards the construction site, where he saw two people standing in a excavator.
+0:48:47|0:49:3|[Gao Changping] leaned on the car window and talked with the two, [Jian Suhua] approached.
+0:49:33|0:49:40|[Jian Suhua] walked towards the welding team, where the workers were busy working next to the machines, with dust flying everywhere on the construction site.
+0:49:40|0:49:42|[Jian Suhua] was about to ask a worker about the whereabouts of Lu Hao.
+0:49:57|0:49:59|[Jian Suhua] walked towards the upwind.
+0:50:6|0:50:8|The worker finished speaking and continued to turn the wheel on the machine.
+0:50:26|0:50:29|[Jian Suhua] takes notes while speaking.
+0:50:33|0:50:35|Qian Huanzhang looked up and pointed upwards towards [Gao Changping].
+0:50:38|0:50:47|[Jian Suhua] looked in the direction pointed by Qian Huanzhang's finger, where there was a building under construction with only the framework erected at the moment.
+0:50:47|0:50:49|Lu Hao stood at the highest point, watching what was happening next.
+0:50:51|0:50:53|[Jian Suhua] pondered how to go up.
+0:50:53|0:50:59|Suddenly, he saw inside the building there were only crude stairs supported by scaffolding.
+0:50:59|0:51:5|He smiled and quickly climbed up the stairs.
+0:51:5|0:51:15|Halfway up, he stopped and leaned on the scaffolding to look down, then looked up.
+0:51:15|0:51:18|[Jian Suhua] smiled and continued to climb upwards with determination.
+0:51:45|0:51:55|Director Gao, after hearing the worker's reminder, saw Jian Suhua on the top floor of the building. His brows furrowed with deep concern, he quickly jumped off the excavator and ran towards the direction of the building.
+0:52:1|0:52:5|After a while, several workers ran over with a fishing net.
+0:52:5|0:52:8|They spread out the fishing net, trying to catch Jian Suhua.
+0:52:8|0:52:17|[Jian Suhua] covered her face in fear, standing in place swaying back and forth, too scared to take a step, unsure of what to do.
+0:52:17|0:52:24|Director Gao looked at him with concern, and at that moment, Lu Hao noticed Jian Suhua.
+0:52:24|0:52:30|Lu Hao quickly took off his gloves, unhooked the safety rope hook hanging on the bracket, and walked towards [Jian Suhua].
+0:52:34|0:52:39|Director Gao furrowed his brow, looking very worried.
+0:52:39|0:52:42|Lu Hao slowly approached [Jian Suhua].
+0:53:21|0:53:25|Lu Hao grabbed the crane basket and tried to help [Jian Suhua] up.
+0:53:31|0:53:35|[Jian Suhua] had to be helped by Lu Hao to step into the basket of the crane.
+0:53:35|0:53:41|Lu Hao also jumped in and shouted at the worker operating the crane.
+0:53:42|0:53:47|The onlookers, including Jian Suhua and Gao Changping, stared intently at Lu Hao and the brave girl.
+0:53:47|0:53:49|The gondola slowly descends with two people on board.
+0:53:52|0:53:57|As the basket approached the ground, a worker helped to pull it down.
+0:53:57|0:54:1|At this moment, the onlookers, including Jian Suhua and Gao Changping, all gathered around.
+0:54:1|0:54:4|Lu Hao jumped down first, then helped [Jian Suhua] down.
+0:54:4|0:54:7|[Gao Changping] ran over and angrily interrogated [Jian Suhua].
+0:54:39|0:54:44|[Jian Suhua] shouted at Lu Hao.
+0:54:44|0:54:50|A worker nearby shouted at [Gao Changping].
+0:54:50|0:54:51|[Jian Suhua] drugged Lu Hao.
+0:54:54|0:55:0|Jian Suhua and Gao Changping warmly shake hands.
+0:55:0|0:55:3|At this moment, [Gao Changping] has already resolved the dispute for two workers.
+0:55:3|0:55:6|[Jian Suhua] runs over.
+0:55:27|0:55:32|[Gao Changping] nodded.
+0:55:32|0:55:35|[Gao Changping] and [Jian Suhua] came to Hong Zhishou's house together.
+0:55:35|0:55:41|[Jian Suhua] takes Hong Zhishou's temperature as he lies in bed, then looks at the thermometer and walks away.
+0:55:41|0:55:43|[Gao Changping] also followed.
+0:55:47|0:55:50|[Jian Suhua] puts away the thermometer.
+0:55:50|0:55:55|Gao Changping looked out the window.
+0:56:3|0:56:6|After speaking, [Jian Suhua] picked up the medicine box and walked towards the door.
+0:56:10|0:56:16|Outside, a strong wind is blowing, causing the barren trees to sway from side to side and the ground to be filled with flying sand and dust.
+0:56:16|0:56:25|[Jian Suhua] walked briskly towards the medical station.
+0:56:25|0:56:32|At this moment, Manager Mo is playing cards at the medical station.
+0:56:43|0:56:55|Just a few days after arriving, [Jian Suhua] has already violated the labor discipline and has not yet reached the duty station. The strong wind has made the progress even more difficult.
+0:56:55|0:56:59|At the duty station, [Mo Station Chief] leisurely hums a song while smoking a pipe.
+0:57:9|0:57:14|He walked sadly to the window, about to leave as he turned around.
+0:57:14|0:57:17|Huiying raised her hand and slapped Mozhen.
+0:57:37|0:57:56|At this moment, [Jian Suhua] rushed in anxiously, carrying a medical kit.
+0:57:56|0:57:59|[Jian Suhua] quickly picked up the medical kit and started packing.
+0:58:11|0:58:14|[Jian Suhua] put on a raincoat and ran outside with Manager Mo.
+0:58:17|0:58:39|Outside, a heavy rainstorm began, and Yuwu's car was driving through the strong wind and rain. Captain Mo fell asleep in the car, with [Jian Suhua] and Director Gao also sitting inside. Hong Zhishou lay on the side. Suddenly, the car shook violently and stopped. Director Gao and [Jian Suhua] got out to check, only to find that the car's wheel was stuck in the mud.
+0:58:49|0:58:56|Director Gao walked to the wheel of the car that had gone off the road, squatted down, and used his hands to clear away the mud beside the car.
+0:59:0|0:59:4|The wheels are turning, but the car remains motionless.
+0:59:4|0:59:6|Director Gao took off his coat and threw himself in front of the wheels.
+0:59:22|0:59:31|The car started slowly, [Jian Suhua] picked up Director Gao's coat and handed it to him, and the two of them got on the car one after another.
+0:59:41|0:59:45|The scene changes, Jian Suhua is sleeping in the room.
+0:59:52|1:0:1|[Jian Suhua] quietly approached, took away the paper, gently pinched Tang Xiaofang's nose, and patted her face.
+1:0:1|1:0:7|Seeing Tang Xiaofang still unconscious, [Jian Suhua] walked to the table, took off her raincoat and jacket, and draped them over the chair.
+1:0:12|1:0:18|He yawned and stretched lazily.
+1:0:18|1:0:30|Sit down, take out a cup, and pour water to drink from the thermos.
+1:0:30|1:0:35|After a busy day, [Jian Suhua] was very exhausted.
+1:0:35|1:0:38|He took a sip of water, holding the cup, pondering something.
+1:0:44|1:0:56|Then, he took out a piece of paper and a pen, and began writing a letter to Shen Haoru.
+1:1:52|1:1:56|[Gu Huiying] pushed the door open and [Jian Suhua] turned around to ask.
+1:2:9|1:2:11|Tang Xiaofang woke up.
+1:2:25|1:2:27|[Jian Suhua] smiled.
+1:2:51|1:3:0|[Jian Suhua] walked to the table, picked up a photo of Shen Haoru and the letter she had just written, and handed them to [Gu Huiying] with a smile.
+1:3:0|1:3:7|[Gao Changping] took the letter and photo, and looked at them.
+1:3:7|1:3:10|His hands trembled slightly as he looked up at [Jian Suhua] with a shy and embarrassed expression.
+1:3:17|1:3:21|She moved her lips, as if about to say something.
+1:3:21|1:3:25|She put down the letter and held [Jian Suhua]'s hand.
+1:3:28|1:3:29|She covered her face and started crying.
+1:3:30|1:3:34|[Gu Huiying] rests her head on [Jian Suhua]'s shoulder.
+1:3:34|1:3:38|Upon waking up, Tang Xiaofang saw all of this and tears welled up in her eyes.
+1:3:38|1:3:40|[Gao Changping] suddenly turned around and left.
+1:3:43|1:3:47|[Jian Suhua] caught up and held [Gu Huiying]'s hand, saying.
+1:3:53|1:3:58|[Gao Changping] was very surprised to hear this news and quickly ran away.
+1:3:58|1:3:58|At this moment, [Jian Suhua] and [Gao Changping]...
+1:4:8|1:4:10|The scene shows [Jian Suhua] preparing medicine.
+1:4:12|1:4:21|He picked up the medicine bottle and placed it on the small table next to the window to see what was written on it.
+1:4:21|1:4:31|[Gao Changping] enters from outside.
+1:4:41|1:4:50|He closed the door and walked to [Jian Suhua]'s side, playing with the things on the table.
+1:4:59|1:5:4|[Jian Suhua] watched as [Gao Changping] continued to write something with his head down, while [Gao Changping] kept talking.
+1:5:26|1:5:28|[Gao Changping] closes the wooden board again.
+1:5:52|1:5:55|[Gu Huiying] stood at the door, arms crossed, looking coldly at [Gao Changping].
+1:6:1|1:6:8|[Gu Huiying] shook her head, [Gu Huiying] finished speaking and left crying, [Jian Suhua] said to [Gao Changping].
+1:6:34|1:6:39|[Jian Suhua] approached to comfort [Gu Huiying].
+1:6:39|1:6:46|He helped [Gu Huiying] sit down on the chair.
+1:6:46|1:6:48|[Jian Suhua] looked up and said to Captain Mo.
+1:7:6|1:7:8|In anger, Manager Mo paces back and forth.
+1:7:15|1:7:19|At this moment, Lao Zhang walked up to Captain Mo with a medicine box.
+1:7:23|1:7:30|[Jian Suhua] and [Gao Changping] each carried a medicine box on their backs, hand in hand, walking towards the door.
+1:7:40|1:7:45|In the Chinese commentary, the village chief took the medicine box from Old Zhang's hand and followed up.
+1:7:45|1:7:53|On the construction site, [Jian Suhua], [Gu Huiying], and Manager Mo are earnestly serving the workers.
+1:7:53|1:8:1|At the end of the day's work, they walked back together, with [Jian Suhua] and [Gu Huiying] happily laughing.
+1:8:3|1:8:5|After Mr. Mo finished speaking, Jian Suhua followed up.
+1:8:5|1:8:10|[Jian Suhua] walked gloomily and arrived at the doorstep of [Gao Changping]'s house.
+1:8:37|1:8:42|The daughter noticed [Jian Suhua] standing outside the door.
+1:9:42|1:9:45|At this moment, [Gao Changping] walked in.
+1:10:0|1:10:2|He then placed his daughter on the bed.
+1:10:4|1:10:30|The girl was a little upset, [Jian Suhua] grabbed the deer's arm and asked, [Jian Suhua] helped the girl lie down on the bed, and he started singing while patting the girl's arm.
+1:11:15|1:11:19|[Gao Changping] stood at the door and was deeply moved by the singing of [Jian Suhua].
+1:11:40|1:11:46|The girl fell asleep, and [Jian Suhua] covered her with a blanket.
+1:11:46|1:11:52|She smiled first, thinking of the girl's words just now, feeling uneasy and restless.
+1:11:52|1:11:55|She stood up gently, wanting to go out.
+1:12:8|1:12:12|[Jian Suhua] left after saying that.
+1:12:27|1:12:31|[Jian Suhua] walked to the window, took off her coat, and draped it over the chair.
+1:12:35|1:12:40|[Jian Suhua] turned on the bedside lamp and sat down on the bed.
+1:12:44|1:12:48|He covered himself with a blanket, sat down with his knees bent, touched his chin, unsure of what to do.
+1:12:51|1:12:53|He picked up the diary.
+1:13:3|1:13:11|[Jian Suhua] flipped through the diary she had been keeping, already filled with entries for more than half of the book. She picked up her pen and began to write.
+1:14:26|1:14:27|Shen Haoru lowered his head.
+1:14:37|1:14:42|At this moment, a train roared past on the screen.
+1:14:42|1:14:45|Shen Haoru decided to go find [Jian Suhua].
+1:14:45|1:14:48|He sat on the train, lost in thought.
+1:15:18|1:15:20|Upon hearing the broadcast blaring from the horn, a worker shouted.
+1:15:23|1:15:27|Hearing the shout, the workers all ran towards the construction site, each busy with their own tasks.
+1:15:45|1:15:55|The vehicle continued to drive forward, with strong winds stirring up sand and dust, obscuring everything at the construction site.
+1:15:55|1:15:58|In the commentary, Mr. Mo, holding a pipe and a medicine box, paces back and forth at the medical station.
+1:16:4|1:16:12|[Jian Suhua], Gu Huiying, and Lao Zhang are getting ready to go to the construction site.
+1:16:12|1:16:15|Manager Mo walked up to [Jian Suhua] and Gu Huiying.
+1:16:27|1:16:32|After speaking, Manager Mo hurried back to the office to look for the receiver, but he couldn't find it after searching for a long time.
+1:16:32|1:16:36|The village chief walked up to Old Zhang and said.
+1:16:36|1:16:41|Innkeeper Mo suddenly noticed that the receiver was hanging around his neck.
+1:16:41|1:16:48|Four of them were getting ready to set off when they ran into Shen Haoru.
+1:16:48|1:16:52|[Jian Suhua] rushed up and hugged Shen Haoru, who looked at him happily.
+1:16:55|1:17:2|[Jian Suhua] suddenly remembered the colleague behind her, so she pulled Shen Haoru to introduce everyone.
+1:17:3|1:17:5|Jian Suhua and Gao Changping walked up to everyone.
+1:17:14|1:17:16|[Jian Suhua] speaks to Shen Haoru.
+1:17:29|1:17:38|[Jian Suhua] smiled and nodded at Director Mo, and the group walked towards the construction site.
+1:17:38|1:17:44|An injured worker found [Jian Suhua], who hurriedly searched for the first aid kit to treat the worker.
+1:17:44|1:17:49|The strong wind continued to howl, with Shen Haoru standing on the side, burying his head into his collar.
+1:17:52|1:18:2|He looked around in a panic, searching for a shelter from the wind.
+1:18:20|1:18:23|He found Shen Haoru taking shelter next to a building.
+1:18:30|1:18:33|[Jian Suhua] pulled Shen Haoru out.
+1:18:33|1:18:39|At this moment, Qian Huanzhang is exerting all his strength to turn the wheel of the machine.
+1:18:39|1:18:42|The wind was too strong, he couldn't stand steadily and accidentally fell down.
+1:19:0|1:19:18|[Gao Changping] entered the house with a flashlight to inspect. Inside, the room was filled with sacks of cement. [Gao Changping] gave instructions to the workers beside him. After speaking, he started to help move the cement. He took the cement bag from the worker's hand.
+1:19:25|1:19:30|In the medical station at the construction site, everyone is busy.
+1:19:30|1:19:35|Shen Haoru helps Qian Huanzhang bandage the wound on his forehead.
+1:20:7|1:20:9|Shen Haoru left angrily.
+1:20:12|1:20:18|[Jian Suhua] chased after him, while Gu Huiying continued to bandage Qian Huanzhang.
+1:20:22|1:20:29|The two returned to the medical station, and Shen Haoru sat down in a chair.
+1:20:29|1:20:33|[Jian Suhua] walked to her own dormitory and said to Shen Haoru.
+1:20:48|1:20:54|[Jian Suhua] puts down the medicine box, takes off her coat, and speaks while pouring water.
+1:20:54|1:20:58|Shen Haoru took off his coat, removed his scarf, and looked at [Jian Suhua].
+1:21:5|1:21:8|[Jian Suhua] looked at Shen Haoru gently and said.
+1:21:9|1:21:17|Shen Haoru slowly approached [Jian Suhua], and the shadows of the two were clearly reflected on the wall as Shen Haoru embraced [Jian Suhua].
+1:21:29|1:21:32|[Jian Suhua] slowly leaned her head on his shoulder.
+1:21:47|1:21:56|[Jian Suhua] looked affectionately at Shen Haoru, who turned away discontentedly and pushed [Jian Suhua] aside.
+1:21:56|1:22:2|Shen Haoru walked to the wall, took out a few letters from his clothes, and turned to [Jian Suhua].
+1:22:22|1:22:26|[Jian Suhua] walked up to Shen Haoru.
+1:22:41|1:22:45|[Jian Suhua] holds Shen Haoru's hand.
+1:23:3|1:23:8|[Jian Suhua] sat down next to Shen Haoru and continued speaking.
+1:23:27|1:23:32|Upon hearing this, Shen Haoru was very excited, he looked at [Jian Suhua] and said.
+1:23:51|1:24:0|Shen Haoru walked to the side, put away the letter, and turned back to [Jian Suhua].
+1:24:25|1:24:27|Shen Haoru forcefully grabs [Jian Suhua].
+1:24:33|1:24:39|[Jian Suhua] saw Shen Haoru's actions and felt extremely sad. She held back her tears and ran out.
+1:24:39|1:24:45|Shen Haoru wanted to catch up, but heard a loud slamming of the door.
+1:24:45|1:24:49|Shen Haoru lowered his head, not knowing what to do.
+1:24:49|1:24:54|[Jian Suhua] had a serious expression on her face as she walked slowly in the strong wind alone.
+1:24:54|1:25:0|He leaned against the tree by the road, shaking his head helplessly. Then he let out a soft sigh and started crying while leaning on the tree.
+1:25:4|1:25:12|Shen Haoru, dressed in clothes and hat, sat on the stool indignantly, pondering.
+1:25:12|1:25:24|Suddenly, [Jian Suhua] picked up her luggage and quickly walked away.
+1:25:24|1:25:29|[Jian Suhua] leaned against the tree absentmindedly and caught sight of Shen Haoru leaving with luggage.
+1:25:30|1:25:36|He looked at the departing figure of Shen Haoru and shouted excitedly, [Gao Changping].
+1:25:36|1:25:46|Shen Haoru slowed down his pace upon hearing the shout, glanced at [Jian Suhua], and then turned and walked away.
+1:26:26|1:26:28|Shen Haoru took out two train tickets.
+1:27:7|1:27:14|Upon hearing Shen Haoru's words, [Jian Suhua] was heartbroken and ran away with tears in her eyes.
+1:27:14|1:27:21|Shen Haoru watched as [Jian Suhua] walked away, he took off his gloves, took out the letter [Jian Suhua] had written before, and tore it to pieces.
+1:27:26|1:27:37|Shen Haoru opened his hand, and the pieces of the letter were instantly blown away by the wind.
+1:27:37|1:27:45|Shen Haoru picked up his luggage and left decisively.
+1:27:45|1:27:50|The wind is still strong, and the sky is covered with dark clouds.
+1:27:50|1:27:53|[Jian Suhua] returned to the room and lay on the pillow, crying bitterly.
+1:28:0|1:28:6|Outside the window, lightning flashed and thundered, and suddenly it started pouring rain heavily.
+1:28:6|1:28:13|[Jian Suhua] stood up abruptly at the sound of thunder, thinking of the workers at the construction site and her busy colleagues at the volunteer station.
+1:28:13|1:28:19|[Jian Suhua] felt a bit dizzy, steadied himself, wiped away his tears, and ran out the door.
+1:28:27|1:28:33|Workers on the construction site ran into the house to take shelter from the rain.
+1:28:33|1:28:37|The thunder and rain did not stop [Jian Suhua]'s footsteps.
+1:28:37|1:28:40|He arrived at the construction site, and wooden boxes were blown everywhere.
+1:28:43|1:28:54|The sign at the construction site was blown down, and the warehouse filled with cement started leaking. [Gao Changping] looked at the leaking warehouse and shouted loudly.
+1:28:54|1:29:3|[Jian Suhua] heard the shout and hurried towards the warehouse. [Gao Changping] ran and shouted, and Lu Hao also rushed over.
+1:29:7|1:29:17|Workers ignored the heavy rain and ran out with their tools. [Gao Changping] ran up to the roof of the warehouse along the ladder, while Lu Hao climbed up with a hemp rope on his back.
+1:29:17|1:29:23|In the pouring rain, Lu Hao couldn't open his eyes, and he accidentally fell off the ladder.
+1:29:23|1:29:31|[Jian Suhua] rushed over and saw Lu Hao lying on the ground, quickly approaching to check on him. She helped Lu Hao up, shaking him vigorously in an attempt to wake him up.
+1:29:43|1:29:45|[Gao Changping] saw the two of them instead.
+1:29:45|1:29:57|Lu Hao, ignoring his own injuries, with the help of another worker, carried the rope and climbed to the roof.
+1:29:59|1:30:4|He handed the hemp rope to [Gao Changping], and many workers next to the warehouse grabbed the rope.
+1:30:4|1:30:10|[Gao Changping], Lu Hao, and other workers worked together to reinforce a corner of the warehouse that was leaking.
+1:30:10|1:30:15|The heavy rain poured down, the thunder roared, and everyone's clothes were soaked through.
+1:30:17|1:30:27|They ignored the heavy rain and the cold, finally pulling down the corner of the warehouse that was blown up by the wind, protecting the cement inside the warehouse.
+1:30:27|1:30:37|Later, some workers were moving cement, some were reinforcing the warehouse. The water had already risen above their ankles, but not a single person stopped.
+1:30:37|1:30:40|[Jian Suhua] brought a wooden board.
+1:30:45|1:30:49|[Jian Suhua] quickly walked away to fetch the wooden boards.
+1:30:49|1:31:3|He walked to the pile of wooden boards, picked one up with effort, and walked forward.
+1:31:3|1:31:9|He took a few steps and then ran out of energy, but he still continued to persevere. 
+1:31:9|1:31:13|After walking a few more steps, [Jian Suhua] fainted in the pouring rain.
+1:31:19|1:31:35|The scene shifts to a hospital room, where [Jian Suhua] has bandages on the right side of her face. [Gao Changping], Lu Hao, Mo Zhangzhang, Gu Huiying, and others are anxiously waiting by the bed.
+1:31:35|1:31:42|[Jian Suhua] slowly opened her eyes and weakly asked the person beside her.
+1:31:49|1:32:2|The scene shifts, Tang Xiaofang and [Gao Changping] walk down the hospital corridor.
+1:32:2|1:32:7|[Gao Changping] holding a bouquet of flowers, Tang Xiaofang wearing a mask, the two of them walked towards [Jian Suhua]'s ward together.
+1:32:12|1:32:18|Tang Xiaofang smiled, she took the flowers from [Gao Changping]'s hand and gently pushed open the door of the ward.
+1:32:18|1:32:22|Tang Xiaofang nodded towards [Gao Changping] and walked in, [Gao Changping] left.
+1:32:24|1:32:28|Tang Xiaofang closed the door and walked carefully towards the bed.
+1:32:28|1:32:34|In the hospital bed, [Jian Suhua] weakly leaned against the head of the bed, with a bouquet of the same flowers inserted next to her.
+1:32:34|1:32:39|Tang Xiaofang handed the flower to [Jian Suhua], who took it and smiled happily.
+1:32:42|1:32:44|Tang Xiaofang shook her head.
+1:32:49|1:32:53|[Jian Suhua] sits up straight, holding the bouquet of flowers as she looks out the window.
+1:32:54|1:33:0|Snowflakes are falling outside the window, drifting down onto the branches.
+1:33:0|1:33:5|The scene changes, and the trees outside the window are already in full bloom.
+1:33:5|1:33:11|[Jian Suhua] holds a half-eaten fruit in one hand and is writing in her diary with the other.
+1:33:11|1:33:14|Tang Xiaofang walked in carrying medicine.
+1:33:14|1:33:18|[Jian Suhua] placed the cup on the table after finishing the drink.
+1:33:18|1:33:22|Tang Xiaofang sat down.
+1:33:23|1:33:24|At this moment, [Jian Suhua] and Manager Mo walked in.
+1:33:52|1:33:53|Gu Huiying said.
+1:34:27|1:34:29|Gu Huiying smiled apologetically.
+1:34:49|1:34:57|At this moment, the screen shows a completed factory building, with a tall chimney emitting smoke in one corner.
+1:34:57|1:35:1|On the pillar of the factory gate, there is a banner with the words written on it.
+1:35:10|1:35:15|[Gao Changping] and [Jian Suhua] walked together to the bustling factory gate, looking up at the banner.
+1:35:18|1:35:19|[Jian Suhua] sighed.
+1:36:36|1:36:38|It's been over a year.
+1:36:58|1:37:1|After speaking, Jian Suhua and Gao Changping walked side by side.
+1:37:16|1:37:30|The scene shifts, with [Gao Changping] and the workers bidding farewell.
+1:37:30|1:37:36|Tang Xiaofang turned around and still didn't see [Jian Suhua].
+1:37:36|1:37:38|[Gao Changping] said regretfully.
+1:37:47|1:37:58|People got on the car one after another, and those seeing them off kept waving goodbye.
+1:37:58|1:38:5|The car started moving, at this moment, [Jian Suhua] hurriedly ran over here, anxiously searching for the figure of [Gao Changping].
+1:38:9|1:38:18|[Jian Suhua] pushed her way out of the crowd and shouted towards [Gao Changping].
+1:38:18|1:38:31|The car stopped, [Gao Changping] jumped out and ran towards [Jian Suhua]. The two of them excitedly clasped hands, as [Jian Suhua] explained.
+1:38:31|1:38:35|[Gao Changping] smiled and looked at [Jian Suhua], asking.
+1:38:35|1:38:36|[Jian Suhua] looked up.
+1:38:38|1:38:40|[Jian Suhua] handed a letter to [Gao Changping].
+1:38:40|1:38:44|[Gao Changping] was about to open it, but [Jian Suhua] shyly stopped him.
+1:38:51|1:38:53|Gao Changping's daughter shouted in the car.
+1:38:53|1:38:55|[Jian Suhua] walks over.
+1:38:58|1:39:2|[Jian Suhua] takes off the scarf.
+1:39:2|1:39:5|[Gao Changping] nodded and got into the car.
+1:39:8|1:39:23|[Gao Changping] tightly held [Jian Suhua]'s hand as the car started moving. [Jian Suhua] waved goodbye while running, and in the car, [Gao Changping] opened [Jian Suhua]'s letter. He smiled happily as he read the four words on the letter: "I will definitely come."
+1:39:23|1:39:28|[Gao Changping] excitedly waved his hat in farewell, while [Jian Suhua] waved her scarf to bid farewell to [Gao Changping].

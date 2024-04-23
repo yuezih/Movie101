@@ -1,0 +1,293 @@
+0:0:26|0:0:31|A sedan is driving on a small road, with three men in the car dressed in neat Zhongshan suits.
+0:0:31|0:0:36|The sedan stopped at the door, and a rough hand knocked on the wooden door.
+0:0:36|0:0:40|The sedan continued to drive, and the number of people inside the car increased from three to four.
+0:0:40|0:0:42|The man who got on the car turned around and asked.
+0:0:52|0:1:1|He turned back thoughtfully, quietly looking at the road ahead, the buildings outside the car window displaying the national emblem, solemn and dignified.
+0:1:1|0:1:12|The time goes back to the man's childhood experiences, the scorching sun hanging in the sky. A ragged little boy looks around, standing still in place, calmly watching the passersby in front of him.
+0:1:13|0:1:22|The scene on the bridge was originally bustling, with vendors setting up stalls and carrying loads, conducting their business in an orderly manner, and the continuous cries of selling goods filling the air.
+0:1:22|0:1:36|The stall displayed a variety of goods that caught people's attention. A middle-aged man concealed a piece of brocade in his hand, and the wrestling match was intense. A young man agilely leaped behind his opponent, while the acrobat was flipping a large prop to reveal a treasure ball.
+0:1:36|0:1:52|The wrestling match has determined the winner, while the young boy walks aimlessly on the street, suddenly hearing the fast-paced sound ahead and quickly stepping forward to squeeze into the crowd.
+0:1:52|0:2:0|Mr. Gao Fengshan thanked the audience and then stood up shakily, supporting his knees.
+0:2:0|0:2:10|The young boy picked up the tip money on the ground and walked towards [Mr. Gao Fengshan]. Mr. Gao Fengshan looked at the boy, glanced at the money in his hand, and then waved it away.
+0:2:39|0:2:48|The little boy quickly picked up the props on the ground.
+0:2:48|0:2:50|[Mr.] stared at the little boy in front of him.
+0:2:50|0:2:50|The boy stood still.
+0:2:56|0:3:4|The boy walked away dejectedly as [Mr.] watched his departing figure, his calm face seemingly seeing through the hardships of the world.
+0:3:4|0:3:11|[Mr.] walked into the alley with props on his back, suddenly stopped in his tracks, and saw a little boy curled up sleeping on a sack.
+0:3:11|0:3:24|He walked up to the boy, looked at him quietly, then lowered his head to look at the pocket on his chest. He reached into the pocket and searched for a moment, then looked down at what was in his hand, and slowly approached the boy, looking at him.
+0:3:24|0:3:27|The young boy slept quietly with his hands folded across his chest.
+0:3:27|0:3:35|[Mr.] raised his hand and slowly took the things off his shoulder, gently leaning them on the sack next to the little boy's head.
+0:3:35|0:3:40|He bent down and placed the object in his hand in front of the little boy, his movements gentle and full of pity.
+0:3:42|0:3:52|Having done all this, he picked up his belongings, slowly got up, put the luggage back on his shoulders, and left without any nostalgia.
+0:3:52|0:3:54|At this moment, the young boy opened his eyes.
+0:3:57|0:4:4|In a blink of an eye, [Gao Fengshan] returned to his home, leaning against the table corner while sitting on a chair, hands supporting his left knee, massaging it repeatedly.
+0:4:6|0:4:11|A woman in simple clothes walks up and hands a neatly folded towel to [Gao Fengshan].
+0:4:11|0:4:13|She sat on a small stool on the side.
+0:4:21|0:4:24|The woman sighed as she leaned against [Gao Fengshan]'s knee.
+0:5:10|0:5:18|The little boy standing outside the door listening to the music turned and left. Standing on the street looking around, the old man who played the music followed to find him.
+0:5:18|0:5:20|The little boy turned his head.
+0:5:37|0:5:42|The boy stared at him quietly without moving.
+0:5:42|0:5:46|After speaking, the old man turned and walked away, leaving the young boy staring at his back with a hint of confusion.
+0:5:54|0:6:1|The onlookers threw their tips on the ground, and a young boy waiting on the side quickly picked them up and handed them to the slowly sitting down Gao Fengshan.
+0:6:3|0:6:9|[Gao Fengshan] took the money, glanced around, and stood up leaning on the nearby stall.
+0:6:10|0:6:12|The boy hurried forward to help.
+0:6:17|0:6:19|After speaking, the young boy gathered up his courage and brushed off the dust on Gao Fengshan's body.
+0:6:19|0:6:19|The little boy stopped what he was doing.
+0:7:14|0:7:17|The inn owner stood up and walked towards the boiling kettle to add water for himself.
+0:7:45|0:7:48|[Gao Fengshan] leads the young boy into the room.
+0:7:50|0:7:52|Gao Fengshan looked at the little boy responding to his question.
+0:8:5|0:8:7|The woman covered her nose, her face full of disgust.
+0:10:20|0:10:29|And so, the young boy found a place to rest. He squatted in the courtyard, holding a basin of water, and splashed it on the ground with his hand. The inn owner approached him with a kettle in hand.
+0:10:58|0:11:4|The young boy stood up, wiped the sweat off his head, and placed the pieces of coal on the ground into the pot.
+0:11:28|0:11:37|The little boy's body stood in front of the water pump so small and thin, he struggled to press the water pump, and a hint of emotion appeared on [Gao Fengshan]'s calm face.
+0:11:42|0:11:47|The young boy walked into the room with a bowl in his hands, carefully placing the medicine on the table.
+0:11:47|0:11:53|[Gao Fengshan] sat at the table with a shirt on, the boy was not idle, he took out a basin from under the bed and walked out of the room.
+0:11:53|0:11:58|[Gao Fengshan] moved the medicine bowl aside and looked at him, then walked in with a clean basin of water for washing his face.
+0:11:59|0:12:7|[Gao Fengshan] picked up the medicine on the table and slowly drank it, the bitter Chinese medicine made [Gao Fengshan] frown.
+0:12:7|0:12:10|He put down the bowl and looked at the boy who was making the bed.
+0:12:10|0:12:17|I say, [Wang Yuzhen] put down the work in her hands and walked towards the gentleman, her eyes filled with longing.
+0:12:40|0:12:45|As soon as the words fell, the gentleman raised his hand and pointed outside the door, indicating Wang Yuzhen to leave.
+0:13:20|0:13:22|He placed the breakfast on the table.
+0:13:22|0:13:23|In the street, a man with a crew cut is holding a piece of grass and wandering around.
+0:13:36|0:13:40|Before the fight began, a coin fell to the ground with a clang, catching the attention of [Bald Man].
+0:13:40|0:13:46|[Gao Fengshan] covered it with his hand, but it was immediately stepped on by a foot, and [the bald man] picked up the money.
+0:13:53|0:13:57|[Gao Fengshan] jumps onto the back of the [man with crew cut].
+0:13:57|0:14:5|The man with a crew cut grabbed Gao Fengshan from behind, pinned him to the ground, and tried to hit him, but was flipped onto a nearby stall by a boy standing by.
+0:14:27|0:14:31|The man pushed away [the crew-cut man] and then took [Gao Fengshan] to pack up.
+0:14:31|0:14:34|Under the city wall, the sky bridge is still bustling with activity.
+0:14:34|0:14:36|The brother stood under the shade of a tree with [Gao Fengshan].
+0:14:38|0:14:43|[Gao Fengshan] took the yellow-faced nanny from his brother's hand and gobbled it up, then suddenly stopped.
+0:14:58|0:15:0|Gao Fengshan hesitated upon hearing the news.
+0:15:49|0:15:55|Fengshan listened to Gao Fengshan's fast-paced rhythm, unable to help but be fascinated, staring in awe at the artistic charm of the rhythm.
+0:15:55|0:16:1|[Gao Fengshan] performed his art skillfully, with the surrounding ice houses packed with spectators, showcasing his passion for the art.
+0:16:1|0:16:5|Standing on the side, [Gao Fengshan] unconsciously reached for the fast board on the railing.
+0:17:2|0:17:4|Madam Shi swayed as she walked out of the room.
+0:17:24|0:17:27|Madam Shi shook her head and walked away.
+0:17:27|0:17:33|Mr. Gao Fengshan stared at Fengshan with a serious expression, and Fengshan slowly stood up from in front of the washbasin.
+0:17:33|0:17:41|Fengshan followed Mr. Gao into the room. Mr. Gao took a fan from behind his neck and placed it on the table, while she sat on a stool and looked at Fengshan in front of her.
+0:17:41|0:17:44|Gao Fengshan, who was thin and small, felt a little uneasy in front of the gentleman.
+0:17:54|0:18:3|Madam Shifu raised her hand to stop Mr. Xiansheng, who then put down the fan in his hand.
+0:18:3|0:18:10|Madam Bai gave a disdainful look at [Gao Fengshan], then turned around to fetch the clappers from the table. [Gao Fengshan] looked nervously at the master.
+0:18:10|0:18:11|Madam Shifu handed it to [Gao Fengshan].
+0:18:20|0:18:28|I'm here, [Gao Fengshan] pursed his lips, the master stared expressionlessly, not allowing [Gao Fengshan] to deceive his belief in fast-paced rhythm.
+0:18:46|0:18:55|The gentleman tapped the chopsticks with a fan, and [Gao Fengshan] hurriedly knelt down in tears.
+0:18:55|0:19:0|[Gao Fengshan] cried with a sad face, and the master saw this and helped [Gao Fengshan] up from the ground.
+0:19:11|0:19:15|Upon hearing the words of the teacher, Mr. Xian seemed lost in thought and looked up at [Gao Fengshan].
+0:19:15|0:19:19|[Gao Fengshan] knelt on the ground, kowtowing to his master, tears rolling down his cheeks.
+0:19:49|0:19:52|The gentleman bowed to the audience around him to express his gratitude.
+0:19:52|0:19:56|He staggered back with a punch, leaning against the nearby table, and sat on the ground.
+0:19:56|0:19:59|Gao Fengshan carefully counts the tips on the ground.
+0:19:59|0:20:1|A spectator raised his hand holding money, looking at [Gao Fengshan].
+0:20:1|0:20:7|[Gao Fengshan] glanced at the master, walked towards the audience, and picked up the fallen money with both hands.
+0:20:7|0:20:9|He took the money and walked towards [Cao DeKui].
+0:20:20|0:20:27|[Cao DeKui] slapped the palm of [Gao Fengshan], then slowly stood up, looking down at [Gao Fengshan] who was enduring the intense pain in his hand.
+0:20:51|0:20:53|[Cao DeKui] gritted his teeth, looking serious.
+0:20:53|0:20:55|For him, rules are taboo.
+0:20:55|0:20:58|Back home, the old porcelain bowl was filled with dark medicinal soup.
+0:20:58|0:21:1|[Cao DeKui] picked up the bowl from the table, but hesitated.
+0:21:1|0:21:3|The next moment, he placed the bowl back on the table.
+0:21:3|0:21:6|He pointed at his leg and looked up at [Gao Fengshan].
+0:21:46|0:21:50|Upon hearing Cao DeKui's words, Gao Fengshan was overjoyed and quickly ran to the cabinet, taking out chopsticks and a plate.
+0:21:50|0:21:53|The gentleman fiddled with the fan in his hand, waiting for [Gao Fengshan].
+0:22:34|0:22:40|Mr. [Gao Fengshan] taught the indifferent [Gao Fengshan], and as the night grew late, the moon hung high in the sky.
+0:22:40|0:22:51|Mr. Gao Fengshan carefully walked into the room with an oil lamp, checked on the already asleep Fengshan, placed a water kettle by the bed. The Fengshan on the bed was already fast asleep, with traces of blood at the corner of his mouth from the scolding by Mr.
+0:22:51|0:22:58|Mr. Gao Fengshan placed the oil lamp by the bedside, then reached into his jacket pocket and took out a box of matches, holding it in his hand.
+0:22:59|0:23:9|Gao Fengshan adjusted the coat on his shoulders, took out a match and struck it gently. The flickering flame danced in the night until it lit the wick of the oil lamp, illuminating the dim room.
+0:23:9|0:23:15|Mr. Gao's gentleness at this moment is completely different from his sternness during the day, it is just his insistence on the art of fast-paced storytelling.
+0:23:16|0:23:20|No one can be perfunctory in his faith.
+0:23:20|0:23:25|Lighting the oil lamp, he blew out the match in his hand and put the matchbox back into his pocket.
+0:23:25|0:23:30|He gently removed the towel draped over his shoulder, picked up a basin of water, and poured it onto the towel.
+0:23:30|0:23:37|The dry towel was wetted, and he turned his head to Gao Fengshan, looking at the bloodstains and wounds at the corner of Gao Fengshan's mouth.
+0:23:39|0:23:44|Gao Fengshan slowly wiped the corners of his mouth, his movements gentle yet deliberate.
+0:23:44|0:23:52|At this moment, Madam also walked into Gao Fengshan's room wearing a coat, watching as the master tended to Gao Fengshan's wound, reaching out to pat the master's head.
+0:23:54|0:24:0|The gentleman raised his hand to signal the teacher not to make a sound, picked up the nearby water pot and handed it to the teacher.
+0:24:0|0:24:6|Madam Shifu took the water bottle with a worried look on her face, while Mr. slowly turned around and blew out the oil lamp on the bedside.
+0:24:6|0:24:19|The bright room once again fell into darkness, Mr. Gao slowly picked up the oil lamp by the bedside, instructing the inn owner to walk out of the room together. Their figures gradually disappeared outside the door, while Gao Fengshan on the bed had already woken up.
+0:25:3|0:25:8|The man at the village entrance took the grass out of the bird's mouth and bent down to the stone pagoda to collect money.
+0:25:53|0:26:4|The surrounding area was crowded with people enjoying the excitement. The crew-cut man who had been tripped still refused to pay, he got up from the ground and stood there nonchalantly.
+0:26:4|0:26:22|The crew-cut man took a step forward, hesitated, looked at the crowd around him, and spat provocatively at the ground. He turned to leave but was stopped by the onlookers. He raised his hand to adjust his clothes and walked out of the crowd with a look of arrogance.
+0:26:24|0:26:28|The onlookers gradually dispersed, and in the early morning, Gao Fengshan walked into the master's room.
+0:26:54|0:27:13|After speaking, the gentleman lay back on the bed. [Gao Fengshan] walked to the wall and took down the hanging clothes. The scene on the bridge was still lively, with the sound of fast-paced drumming in the air. [Gao Fengshan] knelt alone on one knee, drumming the fast board in his hand. Seeing no onlookers around, he put away the board and placed it in a nearby bag.
+0:27:13|0:27:23|Raising his head to the scorching sun in the sky, he slowly stood up, supporting his knees with his hands. Gao Fengshan, bending over, walked over to him as he rubbed his knees on the ground.
+0:28:3|0:28:12|After speaking, [Master] turned and left, while [Gao Fengshan] walked over from a distance holding a jar.
+0:28:25|0:28:30|The brother opened his shirt pocket to show Gao Fengshan, leaning forward and whispering in his ear.
+0:28:32|0:28:37|The two brothers hurriedly left with the jar and sat in the alley.
+0:28:37|0:28:40|Gao Fengshan placed the jar upside down on the steps.
+0:28:42|0:28:47|[Gao Fengshan] hurriedly got up in response, his brother turned his head and watched as [Gao Fengshan] walked away.
+0:28:47|0:28:49|Before long, Gao Fengshan returned with a stone in his hand.
+0:29:34|0:29:38|[Gao Fengshan] handed the tobacco to the man with a crew cut, who took it and sniffed it.
+0:29:42|0:30:0|The brother took out a rolling paper from his pocket, and the man with a crew cut stared at the rolling paper in his brother's hand, eagerly snatching it away. He licked the edge of the rolling paper in his hand, tore off a piece of the wrapped cigarette, then placed the cigarette in his mouth. He took out a match from his hand, struck it, and lit the cigarette in his mouth.
+0:30:0|0:30:9|The brother stared intently at the cigarette in the bald man's hand. As the cigarette lit up, the bald man took a deep drag, exhaled the smoke stylishly, and smiled with delight.
+0:30:47|0:31:1|The crew-cut man went to fetch Gao Fengshan's whip again, his expression changed drastically as he listened to the fast-paced rhythm.
+0:31:1|0:31:11|The crew-cut man, as the fast-paced narration goes, acted exactly as described, leaning against the table with his hands on his waist, then clutching his stomach and fleeing in a flurry.
+0:31:46|0:31:50|Go ahead, brother, carry the luggage on your back and embark on the distant journey.
+0:31:50|0:31:53|[Gao Fengshan] watched his brother's departing figure with a smile.
+0:31:53|0:31:55|After taking two steps, she turned around and looked back at [Gao Fengshan].
+0:31:55|0:31:58|[Gao Fengshan] and his brother waved goodbye.
+0:31:58|0:32:2|The brother, with a look of reluctance, turned and walked towards the distance.
+0:32:2|0:32:4|Gao Fengshan walked a few steps lightly, then turned back again.
+0:32:4|0:32:7|One step, three glances back, is the elder brother's reluctance to part with the younger brother.
+0:32:8|0:32:19|[Gao Fengshan]'s upturned corners of the mouth gradually dropped, and this time his brother who turned and left never looked back again, disappearing from sight with slow steps.
+0:32:19|0:32:29|On the bridge, many spectators around Gao Fengshan applauded, while Cao DeKui and the storyteller stood by watching Gao Fengshan's performance.
+0:33:11|0:33:21|[Cao DeKui] walked towards the crowd with a fan in his hand, interrupting [Gao Fengshan] who was playing the stilts. Seeing [Cao DeKui] stop his activity, [Gao Fengshan] gave him a deep and meaningful look.
+0:33:34|0:33:38|[Gao Fengshan] didn't listen to [Cao DeKui] and started tapping the board again.
+0:33:38|0:33:40|Cao DeKui glanced at the crowd and didn't say a word.
+0:33:40|0:33:42|He turned around and left.
+0:33:42|0:33:46|In the room, Gao Fengshan sweeps the room with a golden-haired gall bladder.
+0:35:25|0:35:41|[Gao Fengshan] knelt on the ground with a look of grievance on his face, but without saying a word. Despite kneeling, he kept his back straight and gazed faithfully at his master in front of him. [Cao DeKui] still had anger on his face, and he turned away without looking at the kneeling [Gao Fengshan].
+0:35:41|0:35:53|As the words fell, Gao Fengshan did not get up. Seeing this, Cao DeKui picked up the chicken feather duster on the table. Gao Fengshan hurriedly got up and walked towards the door. Cao DeKui slammed the chicken feather duster heavily on the table, causing the maid beside him to tremble in fear.
+0:36:10|0:36:18|[Cao DeKui] finished speaking and walked towards the overpass. The storyteller smiled and looked at [Cao DeKui]'s back, as [Cao DeKui] started to perform a fast-paced monologue alone under the overpass.
+0:36:19|0:36:23|[Cao DeKui] looked around and saw that there were no audience, so he stopped the fast board in his hand.
+0:37:18|0:37:23|The old man glanced at [Gao Fengshan] with a tilted head, then left without any hesitation.
+0:37:23|0:37:32|[Gao Fengshan] stood in place looking puzzled, but upon further thought, he became even more resentful. The clappers and other tools were still lying quietly on the ground.
+0:37:34|0:37:36|[Gao Fengshan] walked out from the main gate.
+0:38:39|0:38:45|Fengshan took a step back, bowing deeply to [Gao Fengshan], who lowered his head with a solemn expression, looking at Fengshan.
+0:38:45|0:38:50|Gao Fengshan slowly stood up and raised her head, looking at her without saying a word.
+0:38:50|0:38:55|Fengshan walked away with the package, but still kept her eyes on the door where Gao Fengshan stood.
+0:38:55|0:38:59|He took three steps and looked back, silently expressing his reluctance in his heart.
+0:39:4|0:39:9|With another turn, the young Fengshan had grown into a tall and strong young man.
+0:39:9|0:39:12|She walked slowly out of the alley, also stepping into a new life.
+0:39:12|0:39:18|In the lawless area of Tianjin's Sanbuguan, everyone on the street is hustling for a living.
+0:39:18|0:39:22|A shabbily dressed young man staggered down the street, carrying a bundle.
+0:39:22|0:39:25|He staggered and quickly grabbed the window frame by the roadside.
+0:39:25|0:39:30|The sudden sense of weakness overwhelmed him, and he collapsed by the window, unconscious and unresponsive.
+0:39:31|0:39:37|Two passersby watched as he collapsed on the ground, and soon a crowd gathered around him.
+0:39:37|0:39:44|The two brothers squatted down in front of him, supporting his head and looking at his face with a puzzled expression.
+0:39:49|0:39:52|The two brothers carried the unconscious Gao Fengshan into the room and slowly walked towards the house.
+0:40:18|0:40:24|The landlady brought two men to put the benches together in front of the table, and the two big brothers lifted Gao Fengshan and placed him on the bench.
+0:40:24|0:40:40|The landlady sighed as she supported her waist, everyone looked at the unconscious Gao Fengshan, placed the porridge brought over by him near Gao Fengshan's mouth, and fed him a spoonful of porridge.
+0:40:43|0:40:49|The landlady took the porridge bowl, picked up the ladle, and slowly brought the porridge to Gao Fengshan's mouth.
+0:40:49|0:40:53|The elder brother beside him held [Gao Fengshan]'s mouth with both hands, trying to make him open it.
+0:40:53|0:40:57|Porridge slowly poured into Gao Fengshan's stomach, but half of it spilled out of his mouth.
+0:41:1|0:41:5|Gao Fengshan, who was in a coma, gradually regained consciousness, and the surrounding people who were on guard felt relieved.
+0:41:40|0:41:44|Three people supported [Gao Fengshan], helping him sit up straight, while the grandmother reached out and pounded his waist.
+0:42:5|0:42:9|[Gao Fengshan] slowly turned his head and looked at his senior brother beside him.
+0:44:29|0:44:37|[Gao Fengshan] sat in the room with a solemn expression, holding a pair of clappers in his hands and occasionally stroking them. He used the clappers to evoke memories of his childhood.
+0:45:45|0:45:48|Senior Brother and [Gao Fengshan] approached each other, their shoulders touching.
+0:46:42|0:46:56|Night falls, at the mansion's grand banquet, the audience is packed, the scene is lively. The maids in the mansion are serving dishes in an orderly manner, earnestly entertaining the guests. The performers, dressed in cheongsam, stand elegantly on the stage.
+0:46:56|0:47:4|With Tianjin drumsticks in hand, [京韵大鼓] opens his mouth to command attention from all directions. His pronunciation is clear and his aura is profound, indicating his deep foundation in the art.
+0:47:4|0:47:10|The guests below the stage are enjoying themselves in a loop, forming a sharp contrast with the common people who are making a living.
+0:47:10|0:47:12|[Gao Fengshan] and his senior brother sat in the room eating.
+0:49:22|0:49:35|Butler Wan tilted his head back and left the room with his wife, as the smile on Gao Fengshan's face gradually faded.
+0:50:9|0:50:14|At this moment, the atmosphere in the examination institute remains lively, with guests dressed in their finest attire.
+0:50:14|0:50:21|The performer on stage expressed emotions vividly and eloquently, sometimes passionate and intense, sometimes speaking softly and subtly.
+0:50:21|0:50:32|With his left hand on the board and his right hand on the drum, he creates a mesmerizing performance, swaying gracefully with a touch of charm in his every move and expression.
+0:51:37|0:51:44|The oldest Gao Fengshan staggered towards the table opposite, taking two steps and then collapsing onto a nearby chair.
+0:51:44|0:51:53|The performance of Gao Fengshan on stage is coming to an end, as he continuously moves his hands and changes his postures, captivating the audience below with his brilliant performance.
+0:51:53|0:51:57|The audience's continuous applause is a great affirmation of his performance.
+0:51:57|0:52:8|Two spectators in the audience, with looks of enjoyment on their faces, couldn't help but raise their thumbs up, showing their appreciation. Seeing this, Gao Fengshan performed even more energetically. After a final song, the performance came to an end.
+0:52:23|0:52:30|Butler Wan walked up to Gao Fengshan, took a look at him, and found that Gao Fengshan was already drunk and fast asleep, with drool coming out of his mouth.
+0:53:5|0:53:8|A servant on the side poured tea on Gao Fengshan's hill.
+0:53:8|0:53:15|Butler Wan walked towards the drunken Gao Fengshan and pulled him up by the collar.
+0:53:37|0:53:42|[Butler Wan] glared angrily, while his senior brother knelt on the ground pleading.
+0:54:1|0:54:5|Senior Brother grabbed the servant, but was kicked to the ground by the servant.
+0:54:5|0:54:8|The servant bumped into the wall, and he grimaced in pain as he straightened up and held his waist.
+0:54:16|0:54:21|Butler Wan's face was full of smiles, yet it sent chills down people's spines.
+0:54:21|0:54:25|Watching the drunken [Gao Fengshan], he suddenly pulled out a handgun from his pocket.
+0:55:2|0:55:8|On the side, Gao Fengshan was still sound asleep, and the smile on Butler Wan's face immediately disappeared.
+0:55:13|0:55:25|[Butler Wan] put away the gun in his hand, pointed at his senior brother, and the senior brother kneeling on the ground slowly stood up. [Butler Wan] grabbed a wooden board from the nearby cabinet and slammed it heavily into the senior brother's hand, who turned around in fear and walked away slowly.
+0:55:25|0:55:32|Butler Wan lifted his foot and kicked towards his senior brother. In the blink of an eye, the performance ended, and his senior brother carried Gao Fengshan back to the Grandmother's Hall.
+0:55:36|0:55:41|The waiter went up to help support him. Gasping for breath, [Gao Fengshan] sat down on the chair.
+0:56:25|0:56:30|Gao Fengshan's drunken appearance infuriated Lady Cui, and the inn owner walked over with a basin in hand.
+0:56:30|0:56:34|He glanced at [Lady Cui] and without saying a word, splashed water on Fengshan's face.
+0:56:34|0:56:39|Gao Fengshan, who is drunk, slowly wakes up, and Lady Cui glares at him angrily.
+0:56:39|0:56:49|Upon waking up, Fengshan rubbed his eyes with his sleeve, struggled to push himself up from the chair, and looked at Lady Cui with a fearful expression. Then, without saying a word, he glanced at his senior brother beside him.
+0:56:51|0:56:54|[Lady Cui] said that integrity was being compromised, slamming the table, causing [Gao Fengshan] to lower his head in shame.
+0:57:52|0:57:54|Gao Fengshan appeared lost in thought.
+0:57:59|0:58:5|[Gao Fengshan] nodded and pushed open the room door, closing it behind him.
+0:58:41|0:58:46|Master Shen was very pleased with Gao Fengshan's attitude, he picked up the wine glass and poured it full.
+0:58:51|0:59:1|[Gao Fengshan] walked to the table with a smile on his face. The two masters watched his back as [Gao Fengshan] carried a cup filled with tea and approached them.
+0:59:19|0:59:35|[Gao Fengshan] looked at the two masters with a smile on his face. Qin master spoke first, and Master Shen looked at Qin master helplessly. The two masters raised their wine glasses towards [Gao Fengshan], who drank the tea in his hand without hesitation.
+0:59:41|0:59:53|The performance proceeded smoothly, but as time passed, the world was no longer peaceful. The aggressors' warplanes attacked the land of China, and the Marco Polo Bridge Incident erupted on July 7th. The country was destroyed, families were torn apart, and the grief and indignation were overwhelming.
+0:59:53|0:59:58|In the main hall of the mansion, it was no longer bustling, with everyone sitting in chairs dozing off.
+1:1:1|1:1:6|[Gao Fengshan] traveled day and night to return to Beiping. He stood in front of his master's house, holding medicine in his hands.
+1:1:6|1:1:10|Looking at the master's gate, it seems like the moment of departure is still vivid in front of my eyes.
+1:1:11|1:1:12|He was full of emotion when thinking about the past.
+1:2:53|1:3:0|[Gao Fengshan] angrily watched the shopkeeper, who hurriedly turned and left. Just as he ran out the door, he took a big tumble.
+1:3:0|1:3:6|He picked up his glasses hanging on the ground, put them back on, and propped himself up with his hands, struggling to get up.
+1:3:6|1:3:11|He supported himself with both hands on the dust on his body, and turned his head to look around.
+1:3:17|1:3:22|Shortly afterwards, [Gao Fengshan] gently closed the door of the room and took out money from his pocket to hand it to the doctor.
+1:3:45|1:3:49|[Gao Fengshan] pursed his lips, looking worried, and waved his hand to see off the doctor.
+1:3:49|1:3:55|Outside the door, [Gao Fengshan] knows well that he cannot resist the cycle of life and death in this world.
+1:5:33|1:5:37|Master lying on the bed, weak as a thread, looking at [Gao Fengshan] in front of him.
+1:5:37|1:5:44|[Gao Fengshan] looked pained and reluctant, picking up the clapper on the table with a heavy heart.
+1:5:44|1:5:50|The clappers in his hands sounded, which was the best medicine for his master, but it was still too late.
+1:6:17|1:6:30|Accompanied by the fast-paced rhythm, the master closed his eyes, leaning weakly against the bed as tears streamed down the corners of [Gao Fengshan]'s eyes. He realized the deep gratitude his mentor had shown him, a debt that could never be repaid by anyone.
+1:6:30|1:6:42|Paper money scattered in the sky, [Gao Fengshan] walked alone on the path, pulling his master's coffin fruit. As he walked, he scattered the paper money, showing his final filial piety to his master.
+1:6:42|1:6:45|The scattered paper money signifies that [Gao Fengshan] has no more family in this world.
+1:6:47|1:7:4|As the night grew darker, [Gao Fengshan] tossed and turned in bed, constantly disturbed by dreams.
+1:7:4|1:7:9|The figures of [Gao Fengshan] and [Cao DeKui] kept appearing, the image of the once prosperous but now destitute [Gao Fengshan] vividly passing through the dream.
+1:7:15|1:7:21|In his dream, [Gao Fengshan] was performing with his master, but suddenly woke up and sat up.
+1:7:43|1:7:47|The man with the drill took the tip money while no one was paying attention.
+1:8:30|1:8:39|At the village entrance, the man listened to the fast-paced rhythm, his expression lost in thought. The second senior brother looked at the dispersing audience around him, and Gao Fengshan shook his head with a sigh.
+1:9:2|1:9:13|The rice in this bowl steams, the boys in the courtyard are playing happily, while the mother picks vegetables on the side. [Gao Fengshan] and his martial brothers perform on the street, with large knots the size of copper coins on their necks.
+1:9:53|1:10:4|Hearing the noise outside the door, the woman got up and walked to the door, opening it.
+1:10:4|1:10:7|The senior brothers put the medicine in their hands on the table and sat down.
+1:10:49|1:10:50|[Gao Fengshan] stood up and escorted his senior brother out of the room.
+1:11:12|1:11:14|[Cao's Wife] sees a bag on the ground.
+1:11:16|1:11:19|The senior brother quickly raised his hand to stop him from making a sound.
+1:11:19|1:11:23|Gao Fengshan heard the noise and looked towards the door with difficulty.
+1:11:23|1:11:25|Days passed by one after another.
+1:11:25|1:11:29|[Gao Fengshan]'s wife squatted on the ground in the kitchen, scooping rice from the rice jar.
+1:11:29|1:11:32|A ladle scooped out, but only poured a little, placed in the basin aside.
+1:11:33|1:11:41|He looked at the basin, then at the rice jar, raised his hand and poured the few grains of rice back into the jar, and then lifted the lid of another jar.
+1:11:41|1:11:44|The son bit his finger and quietly watched his mother.
+1:11:44|1:11:55|[Gao Fengshan] threw the ladle in her hand into the jar, covered it with a lid, then approached a nearby bamboo basket, took out the potatoes from the basket, and then dug out some carrots, looking at the vegetables in her hand lost in thought.
+1:11:56|1:12:0|By the side of a small river, overgrown with weeds, dried branches and leaves were scattered around haphazardly.
+1:12:0|1:12:6|The water in the river ripples in circles, as [Gao Fengshan] walks along the path by the river in light clothing.
+1:12:6|1:12:15|The surroundings of the lake were extremely quiet, [Gao Fengshan] had a calm expression, looking somewhat despondently at the small river in front of him, lost in thought.
+1:12:15|1:12:20|After the calm, a fierce battle ensued, with shells landing and fireworks shooting into the sky.
+1:12:21|1:12:28|In the midst of the artillery fire, everything turned to ashes and smoke, as the soldiers charged into the courtyard to defend their homeland.
+1:12:28|1:12:35|After the war, with the country now at peace, the doctor was making the final bandage for [Gao Fengshan] lying in bed.
+1:12:47|1:12:52|The chief surgeon looked at the still unconscious Gao Fengshan, as if he had discovered something.
+1:15:36|1:15:39|It was late at night, [Cao's Wife] stepped forward and snatched the pen from [Gao Fengshan]'s hand.
+1:15:39|1:15:41|[Gao Fengshan] retrieves his pen.
+1:16:13|1:16:16|[Cao's Wife] leaned in for a closer look.
+1:17:2|1:17:22|[Cao's Wife] left, the room was decorated with lanterns and streamers. Holding the door sign, [Gao Fengshan] and his martial brothers walked out from the door in Zhongshan suits. The three of them welcomed guests from all directions, sat at the table by the door, and chatted with everyone. Firecrackers were already neatly arranged, and they lit the firecrackers with matches.
+1:17:22|1:17:28|With a crackling sound, fireworks shot up into the sky, symbolizing a new beginning.
+1:17:37|1:17:40|He looked up and saw [Gao Fengshan] with a shocked expression.
+1:17:40|1:17:44|He is the man with a crew cut who has been looking for tea consecutively.
+1:18:1|1:18:9|The guests stood up to congratulate Gao Fengshan as he stood in the room performing a fast-paced routine, with a strong young man standing behind him.
+1:18:51|1:18:56|The skinny disciple quickly picked up the clapper on the table and stood in front of [Gao Fengshan], tidying up and straightening himself.
+1:18:56|1:19:1|[Gao Fengshan] also picked up the chicken feather duster on the table, the fast rhythm sounded, and the apprentice entered the state.
+1:19:1|1:19:7|[Gao Fengshan] looked at his disciple with a serious expression, furrowing his brow slightly as he listened to the fast-paced rhythm of the thin disciple.
+1:19:8|1:19:18|[Gao Fengshan] turned around and reached out with a chicken feather duster to sweep upwards. He sighed, returned to the table and sat down, patting the feather duster on the table, glancing at the two apprentices in front of him.
+1:19:43|1:19:46|The skinny disciple placed the clappers back on the table.
+1:19:51|1:19:59|The skinny disciple hesitated for a moment, then reached out to gather the clothes and stuffed them into his pants, adjusting the elastic band on the pants.
+1:19:59|1:20:1|After tidying up, he glanced at Gao Fengshan in front of him.
+1:20:4|1:20:7|The skinny disciple looks towards the door.
+1:20:13|1:20:17|The skinny disciple was a bit at a loss and walked out of the door.
+1:20:17|1:20:24|Another chubby disciple carefully watched Gao Fengshan.
+1:20:24|1:20:32|The reprimanded chubby disciple became even more uneasy, [Gao Fengshan] glanced at the chubby disciple beside him with a sidelong glance.
+1:20:32|1:20:38|The chubby disciple was about to leave when the skinny disciple walked in, placed a bug on the table, and wiped the sweat off his forehead with his sleeve.
+1:20:40|1:20:44|He looked at [Gao Fengshan] with a silly smile on his face.
+1:20:44|1:20:50|[Gao Fengshan] picked up the bug on the table and placed it in his palm.
+1:20:50|1:20:54|Gao Fengshan stood up and waved his hand at him.
+1:20:54|1:20:57|He looked at the bug in his hand without saying a word.
+1:21:0|1:21:5|The skinny disciple couldn't stop shaking his body, [Gao Fengshan] raised his eyebrows at the chubby disciple.
+1:21:5|1:21:14|The chubby disciple pulled out his clothes and shook out the bugs, gasping for breath, looking at Gao Fengshan with a terrified expression.
+1:21:14|1:21:19|[Gao Fengshan] raised his hand to signal the skinny disciple, who then reached behind to scratch his back.
+1:21:34|1:21:38|[Gao Fengshan] looked at him helplessly, and in the blink of an eye, some time had passed.
+1:21:40|1:21:43|[Gao Fengshan] sits at the table with his martial arts brothers.
+1:22:9|1:22:14|As soon as the words fell, Xiao Li followed Xizi out of the room.
+1:22:14|1:22:18|The senior brothers left [Gao Fengshan]'s house with Little Li.
+1:22:27|1:22:46|After speaking, the senior brother turned and left. Xiao Li lowered his head and quietly looked at the money in his hand. In the courtyard, a ceremony was held to pay respects to the master. [Gao Fengshan] and his wife stood at the forefront, bowing deeply to the master's portrait, then turned back to their positions.
+1:22:49|1:23:2|Xiao Li stood up and walked towards [Gao Fengshan] and the senior martial sister.
+1:23:2|1:23:5|[Gao Fengshan] sits with his wife, his face serious.
+1:23:30|1:23:33|The child picked up the clapperboard on the table, but was sternly reprimanded.
+1:23:33|1:23:37|[Gao Fengshan] turned around and sat back in his chair, his face stern as he spoke.
+1:23:39|1:23:45|One hand tapping on the table, [Gao Fengshan] stared at it, gradually getting lost in thought.
+1:23:53|1:23:56|In the scene where his brother performs fast-paced board-clapping, [Gao Fengshan] admires it vividly.
+1:23:56|1:23:59|His wife walked up to him with a teapot and looked at him.
+1:24:4|1:24:8|[Gao Fengshan] weakly leaned back in the chair and slowly closed his eyes.
+1:24:36|1:24:43|[Gao Fengshan] turned his head to the side, tears streaked down his face, his brother's disappearance was a forbidden area in his heart.
+1:24:43|1:24:55|After countless days and nights, [Gao Fengshan] pushed his bicycle into the courtyard, looking at his wife and children. His wife was sitting in the center of the courtyard washing clothes.
+1:24:55|1:25:1|[Gao Fengshan] walked towards the center of the courtyard, next to his wife, a smile uncontrollably appearing on his face.
+1:26:15|1:26:21|Accompanied by the applause of the audience, [Gao Fengshan] stepped onto the stage and walked to the center, with the clappers in his hands starting to sound.
+1:26:31|1:26:38|Gao Fengshan sits in the sedan.
+1:26:38|1:26:43|This time, [Gao Fengshan] had nothing more to say, just leaning out to look out the window.
+1:26:43|1:26:50|Passing by, it is the former residence of [Gao Fengshan]'s master.
+1:26:57|1:27:3|The only scenes flashing through Gao Fengshan's mind, he sighed, closed his eyes, and shook his head.
+1:27:46|1:27:53|[Gao Fengshan] and the third senior brother walked out of the gate together, the senior brother turned back and sighed as he looked at [Gao Fengshan].
+1:29:56|1:29:59|Suddenly opened his eyes and looked out the window.
+1:30:5|1:30:9|[Gao Fengshan] walked aimlessly with a small teapot in his hands.

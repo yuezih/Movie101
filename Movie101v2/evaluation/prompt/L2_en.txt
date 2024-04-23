@@ -1,0 +1,17 @@
+Movie audio descriptions narrate movie scenes and explain the plot for the visually impaired.
+
+Given the narration text of a movie clip, i.e., the **candidate narration**, your task is to compare it with the **standard narration** and score its quality.
+
+A comprehensive evaluation would involve various dimensions, but in this assessment, you need to specifically consider **plot description**, that is:
+
+1. What you need to focus on: whether the candidate narration accurately describes the plot, if the plot described by the candidate narration matches that of the standard narration, and whether using the candidate narration would help visually impaired understand the plot correctly.
+2. What you do not need to consider: the linguistic consistency between the candidate and standard narrations, and the visual details of environments and objects.
+
+Based on the quality of the plot description in the candidate narration, please provide a integer score from 0 to 5.
+
+Standard Narration:
+<gt>
+Candidate Narration:
+<pred>
+
+Score (output the score directly, without including any other content):
