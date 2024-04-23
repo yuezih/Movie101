@@ -34,11 +34,13 @@ Find more details in our papers:
 To access the Movie101/Movie101v2 data:
 
 - **Annotation**: available at the corresponding folders.  
-- **Video**: visit our [Movie101 homepage](https://movie101.github.io).
+- **Video**: visit our [Movie101 homepage](https://movie101-dataset.github.io).
 
 This repository also contains the evaluation scripts and baseline codes.
 
 If you find Movie101 useful, please consider citing our papers:
+
+## Citation
 
 ```
 @inproceedings{yue-etal-2023-movie101,
