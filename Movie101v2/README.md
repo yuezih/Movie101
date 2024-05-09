@@ -18,7 +18,7 @@ For more details, please refer to our paper: [Movie101v2: Improved Movie Narrati
 
 Our data are available for research purposes:
 - The narration annotation and movie metadata are available at [./data](./data).
-- For the videos, please visit our [homepage](https://movie101.github.io) to submit an application.
+- For the videos, please visit our [homepage](https://movie101-dataset.github.io) to submit an application.
 
 ## Citation
 
