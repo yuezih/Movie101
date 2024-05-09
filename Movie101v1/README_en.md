@@ -53,4 +53,15 @@ If you find Movie101 helpful, please consider citing our paper:
 }
 ```
 
+```
+@misc{yue2024movie101v2,
+      title={Movie101v2: Improved Movie Narration Benchmark}, 
+      author={Zihao Yue and Yepeng Zhang and Ziheng Wang and Qin Jin},
+      year={2024},
+      eprint={2404.13370},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 For questions about the EMNLP 2022 Findings paper [MovieUN: A Dataset for Movie Understanding and Narrating](https://aclanthology.org/2022.findings-emnlp.135/), please see our [FAQ: MovieUN](assets/FAQ_MovieUN/FAQ_MovieUN.md).

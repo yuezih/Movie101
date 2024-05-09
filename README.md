@@ -9,13 +9,7 @@
        <img alt="Issues" src="https://img.shields.io/github/issues/yuezih/Movie101?color=blueviolet" />
   	</a>
     <a >
-       <img alt="Forks" src="https://img.shields.io/github/forks/yuezih/Movie101?color=orange" />
-  	</a>
-    <a >
        <img alt="Stars" src="https://img.shields.io/github/stars/yuezih/Movie101?color=ff69b4" />
-  	</a>
-    <a >
-       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
   	</a>
     <br />
 </p>
@@ -38,9 +32,9 @@ To access the Movie101/Movie101v2 data:
 
 This repository also contains the evaluation scripts and baseline codes.
 
-If you find Movie101 useful, please consider citing our papers:
-
 ## Citation
+
+If you find Movie101 useful, please consider citing our papers:
 
 ```
 @inproceedings{yue-etal-2023-movie101,

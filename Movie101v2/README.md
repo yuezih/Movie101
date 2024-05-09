@@ -22,7 +22,19 @@ Our data are available for research purposes:
 
 ## Citation
 
-Consider citing our paper if you find Movie101v2 helpful:
+Consider citing our paper if you find Movie101 helpful:
+
+```
+@inproceedings{yue-etal-2023-movie101,
+    title = "Movie101: A New Movie Understanding Benchmark",
+    author={Zihao Yue and Qi Zhang and Anwen Hu and Liang Zhang and Ziheng Wang and Qin Jin},
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    year = "2023",
+    url = "https://aclanthology.org/2023.acl-long.257",
+    doi = "10.18653/v1/2023.acl-long.257",
+    pages = "4669--4684",
+}
+```
 
 ```
 @misc{yue2024movie101v2,

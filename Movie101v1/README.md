@@ -58,4 +58,15 @@ Movie101基准包含两个任务：电影片段解说 (Movie CLip Narrating, MCN
 }
 ```
 
+```
+@misc{yue2024movie101v2,
+      title={Movie101v2: Improved Movie Narration Benchmark}, 
+      author={Zihao Yue and Yepeng Zhang and Ziheng Wang and Qin Jin},
+      year={2024},
+      eprint={2404.13370},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 有关 EMNLP 2022 Findings 论文 [MovieUN: A Dataset for Movie Understanding and Narrating](https://aclanthology.org/2022.findings-emnlp.135/) 的疑问请查看我们的[FAQ: MovieUN](assets/FAQ_MovieUN/FAQ_MovieUN.md)。
