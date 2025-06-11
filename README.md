@@ -11,10 +11,17 @@
     <a >
        <img alt="Stars" src="https://img.shields.io/github/stars/yuezih/Movie101?color=ff69b4" />
   	</a>
+    <a href="https://huggingface.co/datasets/yuezih/Movie101">
+      <img alt="HuggingFace Dataset" src="https://img.shields.io/badge/HF_Dataset-Movie101-yellow?logo=huggingface" />
+    </a>
     <br />
 </p>
 
 ![Movie101 Dataset](assets/example.png "Movie101 Dataset")
+
+## News
+
+**Movie101** is now available on [Huggingface](https://huggingface.co/datasets/yuezih/Movie101)!
 
 ## About
 
@@ -22,7 +29,7 @@
 
 Find more details in our papers:
 
-> [Movie101v2: Improved Movie Narration Benchmark](https://arxiv.org/abs/2404.13370) 🔥  
+> [Movie101v2: Improved Movie Narration Benchmark](https://arxiv.org/abs/2404.13370) (ACL 2025)
 > [Movie101: A New Movie Understanding Benchmark](https://arxiv.org/abs/2305.12140) (ACL 2023)
 
 To access the Movie101/Movie101v2 data:
